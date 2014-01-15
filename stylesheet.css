@@ -51,8 +51,8 @@ width:auto;
 color:#fff;
 background-color:#245;
 text-align:center;
-font-family:'Open Sans';
-padding:.2em 1em .2em 1em;
+font-family:'Open Sans',sans;
+padding:.2em;
 margin:4px;
 border:1px solid #333;
 text-decoration:none;
@@ -103,6 +103,7 @@ font-size:.8em;
 @media only screen and (max-width: 512px), only screen and (max-device-width: 512px) {
 
 body {
+margin:0;
 padding:0;
 }
 
@@ -115,18 +116,26 @@ font-size:1.2em;
 }
 
 #nav {
-margin:0 0 0 1em;
+width:80px;
+font-size:.7em;
+}
+
+#content {
+width:260px;
 }
 
 #main {
-width:auto;
+width:360px;
+margin:0;
 border:0;
+padding:0;
 }
 
 #header {
-background-image:url("/images/header-mobile.png");
-width:274px;
-height:76px;
-margin:0;
+background-image:url('/images/header-mobile.jpg');
+font-size:20px;
+width:220px;
+height:52px;
+padding:20px 0 0 140px;
 }
 }
