@@ -1,0 +1,24 @@
+---
+layout: default
+title: Officers
+officers:
+ -
+  rank: President
+  name: Wade Calhoun
+ -
+  rank: Treasurer
+  name: Nelson Swords
+ -
+  rank: Secretary
+  name: Dennis Beard
+ -
+  rank: Field Marshal
+  name: Wade Calhoun
+---
+<p>The club officers for 2014 are as follows:</p>
+
+<table>
+{% for officer in page.officers %}
+<tr><td class="rank">{{ officer.rank }}</td><td>{{ officer.name }}</td></tr>
+{% endfor %}
+</table>

@@ -1,19 +1,6 @@
 ---
 layout: default
 title: About Us
-officers:
- -
-  rank: President
-  name: Wade Calhoun
- -
-  rank: Treasurer
-  name: Nelson Swords
- -
-  rank: Secretary
-  name: Dennis Beard
- -
-  rank: Field Marshal
-  name: Wade Calhoun
 ---
 <p>Black Sheep RC Club has been providing a quality Aero modeling experience since our founding in 1990.</p>
 
@@ -21,11 +8,3 @@ officers:
 
 <p>We have a 40' by 300' asphalt runway, perfect for smaller electric models,
 as well as an 800' grass runway for large models.</p>
-
-<h2>Officers</h2>
-
-<table>
-{% for officer in page.officers %}
-<tr><td class="rank">{{ officer.rank }}</td><td>{{ officer.name }}</td></tr>
-{% endfor %}
-</table>
