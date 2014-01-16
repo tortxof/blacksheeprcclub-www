@@ -17,6 +17,11 @@ font-size:1.3em;
 text-align:center;
 }
 
+.rank {
+font-weight:bold;
+padding-right:2em;
+}
+
 #header {
 width:460px;
 height:131px;
