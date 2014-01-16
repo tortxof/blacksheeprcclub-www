@@ -1,18 +1,19 @@
 body {
 font-family:'Lora',serif;
+font-weight:400;
 background-color:#245;
 margin:0;
 padding:0;
 }
 
 h1 {
-font-weight:normal;
+font-weight:400;
 font-size:1.6em;
 text-align:center;
 }
 
 h2 {
-font-weight:normal;
+font-weight:400;
 font-size:1.3em;
 text-align:center;
 }
@@ -26,6 +27,7 @@ padding-right:2em;
 width:460px;
 height:131px;
 font-size:40px;
+font-weight:400;
 color:#fff;
 background-image:url('/images/header.jpg');
 padding:0 0 0 260px;
