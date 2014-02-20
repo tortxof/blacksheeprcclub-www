@@ -1,1 +1,1 @@
-rsync -av _site/ djones.co:/var/www/servers/blacksheep.djones.co/www/
+rsync -av --delete _site/ djones.co:/var/www/servers/blacksheep.djones.co/
