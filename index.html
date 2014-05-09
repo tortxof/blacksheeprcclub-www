@@ -2,12 +2,15 @@
 layout: default
 title: News
 ---
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin accumsan nisl in luctus volutpat. Phasellus cursus lacus quis tortor scelerisque, et convallis orci lobortis. Aliquam erat volutpat. Quisque hendrerit elit sit amet neque luctus, eget elementum tortor posuere. Quisque luctus eleifend feugiat. Duis fringilla metus sit amet nunc auctor egestas. Suspendisse ipsum elit, semper ac tempus a, tempor ac ligula. Nunc sit amet lectus sed dolor luctus sagittis in id diam. Etiam rhoncus libero lacus, non hendrerit dolor mollis convallis.</p>
 {% for post in site.posts %}
 <p>
 <span class="post_date">{{ post.date | date: "%Y-%m-%d" }}</span>
+{% if post.newsletter %}
+ - <a href="/newsletters/bsrcc-newsletter-{{ post.newsletter }}.pdf">{{ post.title }}</a>
+{% else %}
  - <a href="{{ post.url }}">{{ post.title }}</a> - 
 <span class="post_preview">{{ post.content | strip_html | truncatewords: 10 }}</span>
+{% endif %}
 </p>
 {% endfor %}
 
