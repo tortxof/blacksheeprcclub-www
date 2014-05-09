@@ -6,5 +6,7 @@ pygments: true
 exclude:
 - README.md
 - upload
+- gen_photo_small
+- gen_photo_yaml
 - assets
 - old
