@@ -23,6 +23,15 @@ font-weight:700;
 padding-right:2em;
 }
 
+.thumbnail {
+float:left;
+font-size:.8em;
+text-align:center;
+padding:8px;
+border:1px solid #999;
+margin:8px;
+}
+
 #header {
 width:460px;
 height:131px;
