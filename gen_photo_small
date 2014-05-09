@@ -1,0 +1,5 @@
+cd photos
+for i in large/*
+do convert "$i" -resize 256x256 "small${i#large}"
+done
+cd ..
