@@ -1,0 +1,14 @@
+- href: "/"
+  text: News
+- href: "/about/"
+  text: About
+- href: "/photos/"
+  text: Photos
+- href: "/location/"
+  text: Location
+- href: "/membership/"
+  text: Membership
+- href: "/events/"
+  text: Events
+- href: "/officers/"
+  text: Officers

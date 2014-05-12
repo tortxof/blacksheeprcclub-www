@@ -1,10 +1,5 @@
 <ul>
-<li><a href="/">News</a></li>
-<li><a href="/about/">About</a></li>
-<li><a href="/photos/">Photos</a></li>
-<li><a href="/location/">Location</a></li>
-<li><a href="/membership/">Membership</a></li>
-<li><a href="/events/">Events</a></li>
-<li><a href="/officers/">Officers</a></li>
+{% for link in site.data.nav %}
+<li><a href="{{ link.href }}">{{ link.text }}</a></li>
+{% endfor %}
 </ul>
-
