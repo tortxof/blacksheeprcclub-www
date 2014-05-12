@@ -1,5 +1,6 @@
 <ul>
 {% for link in site.data.nav %}
-<li><a href="{{ link.href }}">{{ link.text }}</a></li>
+{% assign url = page.url | remove:'index.html' %}
+<li><a {% if url == link.href %}class="nav-active" {% endif %}href="{{ link.href }}">{{ link.text }}</a></li>
 {% endfor %}
 </ul>

@@ -68,12 +68,9 @@ padding:0;
 overflow:hidden;
 }
 
-#nav a:link, #nav a:visited
-{
+#nav a {
 display:block;
 width:auto;
-color:#fff;
-background-color:#245;
 text-align:center;
 font-family:'Open Sans',sans;
 padding:.2em;
@@ -82,7 +79,12 @@ border:1px solid #333;
 text-decoration:none;
 }
 
-#nav a:hover, #nav a:active
+#nav a:link, #nav a:visited {
+color:#fff;
+background-color:#245;
+}
+
+#nav a:hover, #nav a:active, #nav a.nav-active
 {
 color:#000;
 background-color:#8af;
