@@ -2,7 +2,7 @@
 ---
 $main-width: 720px;
 $nav-width: 120px;
-$content-padding: 10px;
+$content-padding: 20px;
 
 body {
 font-family:'Lora',serif;
@@ -33,9 +33,20 @@ padding-right:2em;
 float:left;
 font-size:.8em;
 text-align:center;
-padding:8px;
+padding:0;
+border:0;
+margin:4px;
+}
+
+.thumbnail img {
+display:block;
 border:1px solid #999;
-margin:8px;
+}
+
+.photo-title {
+margin:2px 0 0 0;
+border:1px solid #999;
+padding:2px;
 }
 
 #header {
