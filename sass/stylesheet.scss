@@ -47,9 +47,11 @@ font-size:28px;
 color:#fff;
 }
 
+@include with-layout(1 1 inside) {
 #nav {
 @include span(full);
 font-size: 0.8em;
+}
 }
 
 #nav a {
@@ -82,6 +84,7 @@ font-size: 0.8em;
 text-align: center;
 color: #666;
 background-color: #ccc;
+margin-top: 1em;
 }
 
 .map {
