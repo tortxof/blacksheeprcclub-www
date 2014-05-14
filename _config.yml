@@ -8,4 +8,5 @@ exclude:
 - gen_photo_small
 - gen_photo_yaml
 - assets
+- sass
 - old
