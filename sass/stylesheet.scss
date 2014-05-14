@@ -84,10 +84,22 @@ color: #666;
 background-color: #ccc;
 }
 
+.map {
+display: block;
+margin: 1em auto;
+width: 280px;
+height: 280px;
+}
+
 @include breakpoint($small-bp) {
 
 #main {
 @include container(80%);
+}
+
+.map {
+width: 380px;
+height: 380px;
 }
 
 }
@@ -114,12 +126,22 @@ font-size: 40px;
 @include span(4);
 }
 
+.map {
+width: 400px;
+height: 300px;
+}
+
 }
 
 @include breakpoint($xlarge-bp) {
 
 #main {
 @include container($xlarge-fixed);
+}
+
+.map {
+width: 720px;
+height: 480px;
 }
 
 }
