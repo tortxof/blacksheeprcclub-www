@@ -9,4 +9,5 @@ exclude:
 - gen_photo_yaml
 - assets
 - sass
+- config.rb
 - old
