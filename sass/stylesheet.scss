@@ -185,6 +185,7 @@ height: 280px;
 
 #main {
 @include container(80%);
+@include box-shadow(rgba(black, 0.5) 0 0 30px);
 }
 
 .map {
