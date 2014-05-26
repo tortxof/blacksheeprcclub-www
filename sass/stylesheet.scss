@@ -43,11 +43,12 @@ background-color: #245;
 background-color:#fff;
 }
 
-#header {
+.header {
 background-color:#368;
+@include background-image(linear-gradient(#368, shade(#368, 30%)));
 }
 
-#header p {
+.header p {
 color:#fff;
 @include single-text-shadow(0, 0, 5px, 0, rgba(black, 0.6));
 }
@@ -64,12 +65,12 @@ border-style: solid;
 
 #nav a:link, #nav a:visited {
 color: #fff;
-  @include background-image(linear-gradient(tint($nav-dark, 15%), $nav-dark));
+@include background-image(linear-gradient(tint($nav-dark, 15%), $nav-dark));
 }
 
 #nav a:hover, #nav a:active, #nav a.nav-active {
 color: #000;
-  @include background-image(linear-gradient(tint($nav-light, 50%), $nav-light));
+@include background-image(linear-gradient(tint($nav-light, 50%), $nav-light));
 }
 
 h1 {
@@ -122,7 +123,11 @@ border-color: #333;
 border-style: solid;
 }
 
-#header {
+.header {
+@include span(full no-gutter);
+}
+
+.header-img {
 @include span(full);
 background-image:url('/images/header.png');
 background-size: $header-x/2 $header-y/2;
@@ -130,7 +135,7 @@ background-repeat:no-repeat;
 height: $header-y/2;
 }
 
-#header p {
+.header p {
 line-height: $header-y/2;
 padding:0;
 text-align:right;
@@ -199,12 +204,12 @@ height: 380px;
 
 @include layout(5 1/4 inside);
 
-#header {
+.header-img {
 background-size: $header-x $header-y;
 height: $header-y;
 }
 
-#header p {
+.header p {
 line-height: $header-y;
 font-size: 40px;
 }
