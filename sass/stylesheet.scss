@@ -51,7 +51,7 @@ background-color:$header-color;
 
 .header p {
 color:#fff;
-@include single-text-shadow(0, 0, 5px, 0, rgba(black, 0.6));
+@include text-shadow(rgba(black, 0.6) 0 0 5px);
 }
 
 #nav {
