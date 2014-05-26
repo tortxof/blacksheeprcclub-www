@@ -7,148 +7,69 @@ $xlarge-bp: $xlarge-fixed / 0.8;
 $large-bp: 720px;
 $small-bp: 550px;
 
+$nav-dark: #245;
+$nav-light: #8af;
+
 $header-x: image-width('header.png');
 $header-y: image-height('header.png');
 
-@include layout(4 1 inside);
+/* Reset */
+
+@import 'compass/reset/utilities';
+
+* {
+@include reset-box-model;
+}
+
+/* Paragraph spacing */
+
+ul, ol {
+padding-left: 2em;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+padding: 0.5em 0;
+}
+
+/* Font and Color */
 
 body {
 font-family: 'Lora',serif;
 font-weight: 400;
 background-color: #245;
-margin:0;
-padding:0;
 }
 
 #main {
-@include container(100%);
 background-color:#fff;
-border-width: 0 1px 1px 1px;
-border-color: #333;
-border-style: solid;
-margin-top:0;
 }
 
 #header {
-@include span(full);
 background-color:#368;
-background-image:url('/images/header.png');
-background-size: $header-x/2 $header-y/2;
-background-repeat:no-repeat;
-height: $header-y/2;
 }
 
 #header p {
-line-height: $header-y/2;
-margin:0;
-padding:0;
-text-align:right;
-font-size:28px;
 color:#fff;
 @include single-text-shadow(0, 0, 5px, 0, rgba(black, 0.6));
 }
 
-@include with-layout(1 1 inside) {
 #nav {
-@include span(full);
-font-size: 0.8em;
-}
+font-family: 'Open Sans',sans-serif;
 }
 
 #nav a {
-display: block;
-width: auto;
-text-align: center;
-font-family: 'Open Sans',sans;
-padding: .2em;
-margin: 8px;
-border: 1px solid #333;
-text-decoration: none;
-/* @include border-radius(5px); */
+border-color: #333;
+border-style: solid;
+@include box-shadow(white 0 0 1px inset);
 }
 
 #nav a:link, #nav a:visited {
-  color: #fff;
-  background-color: #245; }
+color: #fff;
+  @include background-image(linear-gradient(tint($nav-dark, 15%), $nav-dark));
+}
 
 #nav a:hover, #nav a:active, #nav a.nav-active {
-  color: #000;
-  background-color: #8af; }
-
-#content {
-@include span(full);
-}
-
-#footer {
-@include span(full);
-font-size: 0.8em;
-text-align: center;
-color: #666;
-background-color: #ccc;
-margin-top: 1em;
-}
-
-.map {
-display: block;
-margin: 1em auto;
-border: 1px solid #333;
-width: 280px;
-height: 280px;
-}
-
-@include breakpoint($small-bp) {
-
-#main {
-@include container(80%);
-}
-
-.map {
-width: 380px;
-height: 380px;
-}
-
-}
-
-@include breakpoint($large-bp) {
-
-@include layout(5 1/8 inside);
-
-#header {
-background-size: $header-x $header-y;
-height: $header-y;
-}
-
-#header p {
-line-height: $header-y;
-font-size: 40px;
-}
-
-#nav {
-@include span(1);
-}
-
-#content {
-@include span(4);
-}
-
-.map {
-width: 400px;
-height: 300px;
-}
-
-}
-
-@include breakpoint($xlarge-bp) {
-
-#main {
-@include container($xlarge-fixed);
-}
-
-.map {
-width: 720px;
-height: 480px;
-}
-
+color: #000;
+  @include background-image(linear-gradient(tint($nav-light, 50%), $nav-light));
 }
 
 h1 {
@@ -188,4 +109,129 @@ border: 1px solid #999;
 margin: 2px 0 0 0;
 border: 1px solid #999;
 padding: 2px;
+}
+
+/* Structure */
+
+@include layout(4 1 inside);
+
+#main {
+@include container(100%);
+border-width: 0 1px 1px 1px;
+border-color: #333;
+border-style: solid;
+}
+
+#header {
+@include span(full);
+background-image:url('/images/header.png');
+background-size: $header-x/2 $header-y/2;
+background-repeat:no-repeat;
+height: $header-y/2;
+}
+
+#header p {
+line-height: $header-y/2;
+padding:0;
+text-align:right;
+font-size:28px;
+}
+
+@include with-layout(1 1 inside) {
+#nav {
+@include span(full);
+font-size: 0.8em;
+margin-top: 1em;
+margin-bottom: 1em;
+}
+}
+
+#nav a {
+display: block;
+text-align: center;
+padding: .2em;
+border-width: 1px 1px 0 1px;
+text-decoration: none;
+}
+
+#nav a:last-child {
+border-width: 1px;
+}
+
+#content {
+@include span(full);
+}
+
+#footer {
+@include span(full);
+font-size: 0.8em;
+text-align: center;
+color: #666;
+background-color: #ccc;
+margin-top: 1em;
+}
+
+.map {
+display: block;
+margin: 1em auto;
+border: 1px solid #333;
+width: 280px;
+height: 280px;
+}
+
+/* Breakpoints */
+
+@include breakpoint($small-bp) {
+
+#main {
+@include container(80%);
+}
+
+.map {
+width: 380px;
+height: 380px;
+}
+
+}
+
+@include breakpoint($large-bp) {
+
+@include layout(5 1/4 inside);
+
+#header {
+background-size: $header-x $header-y;
+height: $header-y;
+}
+
+#header p {
+line-height: $header-y;
+font-size: 40px;
+}
+
+#nav {
+@include span(1);
+}
+
+#content {
+@include span(4);
+}
+
+.map {
+width: 400px;
+height: 300px;
+}
+
+}
+
+@include breakpoint($xlarge-bp) {
+
+#main {
+@include container($xlarge-fixed);
+}
+
+.map {
+width: 720px;
+height: 480px;
+}
+
 }
