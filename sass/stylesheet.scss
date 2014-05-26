@@ -47,6 +47,7 @@ background-color:#fff;
 .header {
 background-color:$header-color;
 @include background-image(linear-gradient(tint($header-color, 15%), shade($header-color, 15%)));
+@include box-shadow(black 0 0 8px 2px);
 }
 
 .header p {
@@ -132,6 +133,7 @@ padding: 2px;
 border-width: 0 1px 1px 1px;
 border-color: #333;
 border-style: solid;
+overflow: hidden;
 }
 
 .header {
