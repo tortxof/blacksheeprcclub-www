@@ -9,6 +9,7 @@ $small-bp: 550px;
 
 $nav-dark: #245;
 $nav-light: #8af;
+$header-color: #368;
 
 $header-x: image-width('header.png');
 $header-y: image-height('header.png');
@@ -44,8 +45,8 @@ background-color:#fff;
 }
 
 .header {
-background-color:#368;
-@include background-image(linear-gradient(#368, shade(#368, 30%)));
+background-color:$header-color;
+@include background-image(linear-gradient(tint($header-color, 15%), shade($header-color, 15%)));
 }
 
 .header p {
@@ -165,6 +166,8 @@ border-width: 1px;
 
 #content {
 @include span(full);
+margin-top: 1em;
+margin-bottom: 1em;
 }
 
 #footer {
