@@ -4,6 +4,7 @@ url: http://www.blacksheeprcclub.com
 permalink: /news/:year/:month/:day/:title
 exclude:
 - README.md
+- build
 - upload
 - gen_photo_small
 - gen_photo_yaml
