@@ -1,15 +1,15 @@
 - rank: President
-  name: Wade Calhoun
-  phone: 864-906-9742
+  name: J.B. Dansby
+  phone: 864-207-6663
 - rank: Vice President
-  name: Morgan Pritchard
-  phone: 864-220-5923
+  name: Bob Huff
+  phone: 864-269-9281
 - rank: Treasurer
   name: Nelson Swords
   phone: 864-847-4129
 - rank: Secretary
-  name: Dennis Beard
-  phone: 864-855-3518
+  name: Daniel Jones
+  phone: 864-431-7998
 - rank: Field Marshal
   name: Wade Calhoun
 - rank: Safety Officer
@@ -18,5 +18,3 @@
   name: Stan Scott
 - rank: Safety Officer
   name: Nelson Swords
-- rank: Newsletter
-  name: Dennis Beard
