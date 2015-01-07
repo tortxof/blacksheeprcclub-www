@@ -1,0 +1,55 @@
+@import "compass/css3";
+@import "susy";
+
+$header-height: 1.2in;
+
+html {
+  width: 7.5in;
+  height: 10in;
+}
+
+body {
+  font-family: 'Lora';
+  font-size: 12pt;
+}
+
+@include layout(12 1 inside);
+
+.container {
+  @include container(100%);
+  height: 10in;
+}
+
+.date {
+  @include span(4);
+  text-align: center;
+  height: $header-height;
+  line-height: $header-height;
+  background-color: yellow;
+}
+
+.header {
+  @include span(8);
+  text-align: center;
+  font-size: 2em;
+  height: $header-height;
+  line-height: $header-height;
+  background-color: blue;
+}
+
+.left {
+  @include span(4);
+  font-size: 0.9em;
+}
+
+.main {
+  @include span(8);
+}
+
+.footer {
+  @include span(full);
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  font-size: 0.8em;
+}

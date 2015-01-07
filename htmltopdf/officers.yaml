@@ -1,0 +1,21 @@
+officers:
+  - rank: President
+    name: J.B. Dansby
+    phone: 864-207-6663
+  - rank: Vice President
+    name: Bob Huff
+    phone: 864-269-9281
+  - rank: Treasurer
+    name: Nelson Swords
+    phone: 864-847-4129
+  - rank: Secretary
+    name: Daniel Jones
+    phone: 864-431-7998
+  - rank: Field Marshal
+    name: Wade Calhoun
+  - rank: Safety Officer
+    name: Dennis Beard
+  - rank: Safety Officer
+    name: Stan Scott
+  - rank: Safety Officer
+    name: Nelson Swords
