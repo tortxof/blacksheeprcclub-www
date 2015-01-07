@@ -6,3 +6,6 @@ layout: default
 {% if page.edited %}
 <p class="post_date">Last edited: {{ page.edited | date: "%Y-%m-%d" }}</p>
 {% endif%}
+{% if page.newsletter %}
+<a href="/newsletters/bsrcc-newsletter-{{ page.newsletter }}.pdf">PDF version</a>
+{% endif %}
