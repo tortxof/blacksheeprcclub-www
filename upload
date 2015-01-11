@@ -1,3 +1,2 @@
 rsync -av --delete _site/ sol.djones.co:/var/www/servers/blacksheep.djones.co/
 rsync -av --delete _site/ europa.djones.co:/var/www/servers/blacksheeprcclub.com/
-rsync -av --delete _site/ blacksheeprcclub.com:html/
