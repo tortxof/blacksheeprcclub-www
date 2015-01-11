@@ -8,11 +8,15 @@
 </head>
 <body>
   <div class="container">
-    <div class="date">{date}</div>
-    <div class="header">Black Sheep News</div>
+    <div class="date"><img src="../assets/icon.svg" id="logo" alt="">{date}</div>
+    <div class="header">
+      Black Sheep News<br />
+      <span class="subtitle">Black Sheep RC Club - AMA Charter #2068</span>
+    </div>
     <div class="left">
       <h2>Information</h2>
       <p>Club meetings are held on the 1<sup>st</sup> Tuesday of each month at 6:30 PM.</p>
+      <p>Next meeting is {next_meeting}.</p>
       <h2>Officers</h2>
       {{#officers}}
       <p>
