@@ -10,7 +10,24 @@ html {
 
 body {
   font-family: 'Lora';
+  font-weight: 400;
   font-size: 12pt;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 1.3em;
+}
+
+h2 {
+  font-size: 1.2em;
+}
+
+h3 {
+  font-size: 1.1em;
 }
 
 @include layout(12 1 inside);
