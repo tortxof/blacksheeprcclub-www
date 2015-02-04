@@ -190,7 +190,7 @@ dues waived and including all rights and privileges of membership.
 1.  Amendments may be proposed at any general meeting of the Club. Any amendment proposed and seconded shall then be published in the next monthly newsletter and will then be voted on at the nest regular monthly meeting.
 2.  An Amendment shall be approved if the majority of the members present at the regular monthly meeting vote in favor.
 
-## ARTICLE XIV -PROCEDURE FOR VIOLATION OF BYLAWS OR AMA RULES
+## ARTICLE XIV - PROCEDURE FOR VIOLATION OF BYLAWS OR AMA RULES
 
 1.  Purpose: This procedure provides a mechanism to enforce existing safety rules by providing a disciplinary system when needed. Although most complaints can be resolved informally, if a complaint is serious or cannot be resolved informally, the matter should be referred to the Board of Officers for their consideration by means of a written notice signed by the complainant and at least one witness.
 2.  Any written notice indicating an individual willfully commited any act of commission or omission which is a violation of these by-laws or any rules of the AMA, or which is detrimental to the Club, the AMA, or to model aviation that individual may be expelled from the Club by a two-thirds (2/3) majority vote of the members present at the next regular monthly meeting after the written complaint is received.
@@ -213,21 +213,13 @@ BSRCC "MEMBERSHIP CLASSIFICATION & DUES SCHEDULE"
 Dues Month Year
 
 {: type="A"}
-1.  Open/Adult						$5.00			$60.00
-2.  Family (with members of Junior age)			$7.50			$90.00
-3.  Junior (22 years and still in school or 18 if not)	$2.50			$30.00
-4.  Senior (65years of age)				$2.50			$30.00
-5.  Disabled						$2.50			$30.00
+1.  Adult: $75 per year
+2.  Family (with members of Junior age): $105 per year
+3.  Junior (22 years and still in school or 18 if not): $45 per year
+4.  Senior (65 years of age): $45 per year
+5.  Disabled: $45 per year
 
-Initiation Fee One Time Only*
-
-{: type="A"}
-1.  Open/Adult                                         $50.00
-2.  Junior(no fee until age 22 if still in school or 18 if not in school) $0.00
-3.  Senior (Age 65 and older)                               $50.00
-4.  Disabled                                            $25.00
-
-* New perspective members shall pay the appropriate one time Initiation Fee when submitting their membership application. Current members in good standing may renew their membership without the initiation fee if dues are paid by March 1. Those who do not pay by March 1 shall be required to pay the Initiation Fee in addition to the current dues.
+Those who do not pay by the first Tuesday in March shall be required to pay a late fee of $20 in addition to the current dues.
 
 ## ATTACHMENT "B"
 
@@ -264,7 +256,7 @@ BSRCC "PILOT FLIGHT QUALIFICATION PROCEDURE"
 
     To operate an approved fixed-wing aircraft, training with properly sized
     engine under the supervision of a BSRCC pilot, the student must:
-    
+
     - be a member in good standing
     - have a current AMA License
     - have knowledge of BSRCC and AMA safety rules
