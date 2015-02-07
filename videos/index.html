@@ -4,6 +4,7 @@ title: Videos
 ---
 {% for video in site.data.videos %}
 <div class="video">
+  {% if video.thumb %}<a href="{{ video.url }}" target="_blank"><img src="{{ video.thumb }}" alt="{{ video.title }}" class="video-thumb"></a>{% endif %}
   <a href="{{ video.url }}" target="_blank">{{ video.title }}</a><br />
   <span class="video-desc">{{ video.desc }}</span>
 </div>

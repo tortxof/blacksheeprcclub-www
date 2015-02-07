@@ -130,6 +130,12 @@ padding: 2px;
 
 .video {
   margin-bottom: 1em;
+  overflow: hidden;
+}
+
+.video-thumb {
+  float: left;
+  margin-right: 1em;
 }
 
 /* Structure */
