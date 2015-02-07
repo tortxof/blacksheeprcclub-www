@@ -4,6 +4,8 @@
   text: About
 - href: "/photos/"
   text: Photos
+- href: "/videos/"
+  text: Videos
 - href: "/location/"
   text: Location
 - href: "/membership/"

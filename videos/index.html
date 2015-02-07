@@ -1,0 +1,10 @@
+---
+layout: default
+title: Videos
+---
+{% for video in site.data.videos %}
+<div class="video">
+  <a href="{{ video.url }}" target="_blank">{{ video.title }}</a><br />
+  <span class="video-desc">{{ video.desc }}</span>
+</div>
+{% endfor %}
