@@ -105,9 +105,12 @@ dues waived and including all rights and privileges of membership.
     {: type="a"}
     1.  Be responsible to the President.
     2.  Keep accurate minutes of all Club meetings.
-    3.  Provide a copy of items of interest or of most importance to the Club Editor for publication..
-    4.  Give a report at each meeting of previous meeting minutes & record present meeting minutes.
-    5.  Appoint a Deputy for himself where his presence is required and his attendance is not possible.
+    3.  Provide a copy of items of interest or of most importance to the Club
+        Editor for publication..
+    4.  Give a report at each meeting of previous meeting minutes & record
+        present meeting minutes.
+    5.  Appoint a Deputy for himself where his presence is required and his
+        attendance is not possible.
 
 4.  The Treasurer:
 
@@ -119,9 +122,11 @@ dues waived and including all rights and privileges of membership.
     5.  Act as the primary signer of all checks issued by the Club.
     6.  Give a report at each Club meeting of the current financial affairs.
     7.  Conduct the financial affairs of the Club.
-    8.  Appoint a Deputy for himself where his presence is required and his attendance is not possible.
+    8.  Appoint a Deputy for himself where his presence is required and his
+        attendance is not possible.
     9.  Act as liaison between the Club and the Club bank.
-    10. Sends Reports to Club News Editor of membership status and members that drop out.
+    10. Sends Reports to Club News Editor of membership status and members that
+        drop out.
 
 5.  The Safety Officers and Field Marshall:
 
@@ -134,71 +139,112 @@ dues waived and including all rights and privileges of membership.
 6.  The Board of Officers:
 
     {: type="a"}
-    1.  The Board of Officers shall consist of President, Vice President, Secretary and Treasurer elected by the membership per these By Laws.
-    2.  Meet in the month of January to formulate a budget for that fiscal year. The budget to be presented for approval at the February meeting, or no later than the March meeting.
-    3.  The Officers can authorize an emergency expenditure of up to $150.00. Over this amount, expenditures must be voted on, or be an approved budget expense.
+    1.  The Board of Officers shall consist of President, Vice President,
+        Secretary and Treasurer elected by the membership per these By Laws.
+    2.  Meet in the month of January to formulate a budget for that fiscal year.
+        The budget to be presented for approval at the February meeting, or no
+        later than the March meeting.
+    3.  The Officers can authorize an emergency expenditure of up to $150.00.
+        Over this amount, expenditures must be voted on, or be an approved
+        budget expense.
 
 7.  The Newsletter Editor: (Volunteer Position)
 
     {: type="a"}
     1.  Keep an up-to-date mailing list of the membership.
     2.  Collect articles for the Club Newsletter.
-    3.  Organize the distribution, of the Newsletter to each member on the membership list in time for members to be notified of the next meeting of the Club.
-    4.  In lieu of a Newsletter Editor the officers shall distribute to each member the minutes of the meeting, the treasurers report, the location and time of the next meeting and any other deemed appropriate.
+    3.  Organize the distribution, of the Newsletter to each member on the
+        membership list in time for members to be notified of the next meeting
+        of the Club.
+    4.  In lieu of a Newsletter Editor the officers shall distribute to each
+        member the minutes of the meeting, the treasurers report, the location
+        and time of the next meeting and any other deemed appropriate.
 
 ## ARTICLE VI - AUDIT
 
-1.  The outgoing President shall at the December meeting appoint 2 Officers and a regular member at large to audit the treasurer’s financial records for that fiscal year. The President may be a member of this committee; this committee shall be disbanded after making a satisfactory report.
+1.  The outgoing President shall at the December meeting appoint 2 Officers and
+    a regular member at large to audit the treasurer’s financial records for
+    that fiscal year. The President may be a member of this committee; this
+    committee shall be disbanded after making a satisfactory report.
 2.  The audit shall be completed prior to the regular March meeting.
 
 ## ARTICLE VII - MISCELLANEOUS
 
-1.  The fiscal year of the club shall coincide with the calendar year, January 1 to December 31.
-2.  In the event vandalism has been noticed, club members should contact the police immediately and a Club officer.
-3.  It’s each one’s responsibility to help maintain grounds, lock up, and protect property from being lost due to negligence.
-4.  Anyone directly responsible for the loss or destruction of another pilots property/airplane, etc. WILL replace of equal value what was destroyed or damaged.
+1.  The fiscal year of the club shall coincide with the calendar year, January 1
+    to December 31.
+2.  In the event vandalism has been noticed, club members should contact the
+    police immediately and a Club officer.
+3.  It’s each one’s responsibility to help maintain grounds, lock up, and
+    protect property from being lost due to negligence.
+4.  Anyone directly responsible for the loss or destruction of another pilots
+    property/airplane, etc. WILL replace of equal value what was destroyed or
+    damaged.
 
 ## ARTICLE VIII - STANDING RULES, SCHEDULES & PROCEDURES
 
 1.  MEMBERSHIP CLASSIFICATION & DUES: ATTACHMENT "A"
 2.  SAFETY and FIELD RULES: ATTACHMENT "B"
 3.  PILOT FLIGHT QUALIFICATION PROCEDURE: ATTACHMENT "C"
-4.  Standing rules, schedules and procedures can be revised and/or amended at a regular meeting by a majority vote of members present without prior notification.
+4.  Standing rules, schedules and procedures can be revised and/or amended at a
+    regular meeting by a majority vote of members present without prior
+    notification.
 
 ## ARTICLE IX - MEETINGS
 
-1.  Regular meetings shall be held each month. Nomination of officers will take place at the October meeting. Additional special meetings may be called at any time by the club Officers with proper notification to membership.
+1.  Regular meetings shall be held each month. Nomination of officers will take
+    place at the October meeting. Additional special meetings may be called at
+    any time by the club Officers with proper notification to membership.
 
 ## ARTICLE X - RECORD KEEPING
 
-1.  Treasurer and Secretary records shall be maintained for a period of ten years. All records are the property of the Club.
+1.  Treasurer and Secretary records shall be maintained for a period of ten
+    years. All records are the property of the Club.
 
 ## ARTICLE XI - COMMITTEES
 
-1.  Special committees may be appointed by the President as needed at a regular Club meeting. These committee’s will be disbanded when its duties are completed or at the Presidents discretion.
+1.  Special committees may be appointed by the President as needed at a regular
+    Club meeting. These committee’s will be disbanded when its duties are
+    completed or at the Presidents discretion.
 
 ## ARTICLE XII - NOMINATIONS & ELECTIONS
 
 1.  Nominations shall be taken from the floor at the October Meeting.
 2.  Election shall be held by secret ballot at the November meeting.
-3.  Term of Office will be from January 1 until December 31 of each calendar year.
+3.  Term of Office will be from January 1 until December 31 of each calendar
+    year.
 4.  Transfer of all records shall be done after the annual financial audit.
 5.  There shall be no limitation of terms.
 
 ## ARTICLE XIII - AMENDMENT OF THESE BYLAWS
 
-1.  Amendments may be proposed at any general meeting of the Club. Any amendment proposed and seconded shall then be published in the next monthly newsletter and will then be voted on at the nest regular monthly meeting.
-2.  An Amendment shall be approved if the majority of the members present at the regular monthly meeting vote in favor.
+1.  Amendments may be proposed at any general meeting of the Club. Any amendment
+    proposed and seconded shall then be published in the next monthly newsletter
+    and will then be voted on at the nest regular monthly meeting.
+2.  An Amendment shall be approved if the majority of the members present at the
+    regular monthly meeting vote in favor.
 
 ## ARTICLE XIV - PROCEDURE FOR VIOLATION OF BYLAWS OR AMA RULES
 
-1.  Purpose: This procedure provides a mechanism to enforce existing safety rules by providing a disciplinary system when needed. Although most complaints can be resolved informally, if a complaint is serious or cannot be resolved informally, the matter should be referred to the Board of Officers for their consideration by means of a written notice signed by the complainant and at least one witness.
-2.  Any written notice indicating an individual willfully commited any act of commission or omission which is a violation of these by-laws or any rules of the AMA, or which is detrimental to the Club, the AMA, or to model aviation that individual may be expelled from the Club by a two-thirds (2/3) majority vote of the members present at the next regular monthly meeting after the written complaint is received.
+1.  Purpose: This procedure provides a mechanism to enforce existing safety
+    rules by providing a disciplinary system when needed. Although most
+    complaints can be resolved informally, if a complaint is serious or cannot
+    be resolved informally, the matter should be referred to the Board of
+    Officers for their consideration by means of a written notice signed by the
+    complainant and at least one witness.
+2.  Any written notice indicating an individual willfully committed any act of
+    commission or omission which is a violation of these by-laws or any rules of
+    the AMA, or which is detrimental to the Club, the AMA, or to model aviation
+    that individual may be expelled from the Club by a two-thirds (2/3) majority
+    vote of the members present at the next regular monthly meeting after the
+    written complaint is received.
 
 ## ARTICLE XV - DISSOLUTION OF CLUB
 
-1.  The Club may be dissolved with the approval of the majority vote of the total membership.
-2.  Upon the dissolution of the Club, the Officers shall, after paying or making provision for the payment of all liabilities of the Club, dispose of all assets of the Club as decided by the Members in Good Standing.
+1.  The Club may be dissolved with the approval of the majority vote of the
+    total membership.
+2.  Upon the dissolution of the Club, the Officers shall, after paying or making
+    provision for the payment of all liabilities of the Club, dispose of all
+    assets of the Club as decided by the Members in Good Standing.
 
 ## ARTICLE XVI - Board of Governors
 
@@ -219,7 +265,8 @@ Dues Month Year
 4.  Senior (65 years of age): $45 per year
 5.  Disabled: $45 per year
 
-Those who do not pay by the first Tuesday in March shall be required to pay a late fee of $20 in addition to the current dues.
+Those who do not pay by the first Tuesday in March shall be required to pay a
+late fee of $20 in addition to the current dues.
 
 ## ATTACHMENT "B"
 
@@ -229,24 +276,39 @@ BSRCC "FIELD AND SAFETY RULES"
 2.  No channel 20 allowed, due to TV channel 4 interference.
 3.  No member may fly without an AMA card & current BSRCC Membership card.
 4.  No alcoholic beverages allowed on the flight line at any time.
-5.  Guest or perspective member may not fly without an AMA card and must be escorted by a member in good standing. Host member is responsible for guests flying ability before being released to fly on their own.
-6.  In order to be able to fly solo, new pilot members must be signed off per the Flight Qualification Rules.
-7.  Flyer in possession of the frequency pin has the only legal transmitter on the field for that frequency. All transmitters (except those 2.4GHz spread spectrum) shall be impounded upon arrival at the flying site and must display the proper frequency pin before removal.
+5.  Guest or perspective member may not fly without an AMA card and must be
+    escorted by a member in good standing. Host member is responsible for guests
+    flying ability before being released to fly on their own.
+6.  In order to be able to fly solo, new pilot members must be signed off per
+    the Flight Qualification Rules.
+7.  Flyer in possession of the frequency pin has the only legal transmitter on
+    the field for that frequency. All transmitters (except those 2.4GHz spread
+    spectrum) shall be impounded upon arrival at the flying site and must
+    display the proper frequency pin before removal.
 8.  No motors or engines shall be operated behind the spectator fence.
-9.  Start the model with the antenna collapsed. Extend it only for taxiing and flight of the model.
+9.  Start the model with the antenna collapsed. Extend it only for taxiing and
+    flight of the model.
 10. Flight stations will be maintained to AMA recommended distances apart.
 11. No more than five fliers in the air at the same time.
-12. When three or more are flying, there must be an observer on the field for each pilot.
-13. Other than dead stick, the flight path will be parallel or away from the flight line.
+12. When three or more are flying, there must be an observer on the field for
+    each pilot.
+13. Other than dead stick, the flight path will be parallel or away from the
+    flight line.
 14. Restricted air space will be as posted on the field.
-15. No aircraft shall approach the flight line from a head on approach towards the pits.
+15. No aircraft shall approach the flight line from a head on approach towards
+    the pits.
 16. No flying behind the flight line and/or over the pit area.
-17. Call out on take-off and landing approaches is required, give warning to other pilot when present.
-18. Low passes to be made on outside edge of the runway when there are other pilots on the flight line.
+17. Call out on take-off and landing approaches is required, give warning to
+    other pilot when present.
+18. Low passes to be made on outside edge of the runway when there are other
+    pilots on the flight line.
 19. All landings will have priority to the runway.
-20. All Pilots shall be clear of the runway during take-off, low passes and touch-and-goes.
-21. All landings and take-offs will be parallel to the active runway. No hand launching or take off from the pit area.
-22. Pilots’ parking is next to the fence and spectators are asked to pack back against the tree line.
+20. All Pilots shall be clear of the runway during take-off, low passes and
+    touch-and-goes.
+21. All landings and take-offs will be parallel to the active runway. No hand
+    launching or take off from the pit area.
+22. Pilots’ parking is next to the fence and spectators are asked to pack back
+    against the tree line.
 
 ## ATTACHMENT "C"
 
