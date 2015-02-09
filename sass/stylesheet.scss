@@ -67,11 +67,13 @@ border-style: solid;
 
 #nav a:link, #nav a:visited {
 color: #fff;
+background-color: $nav-dark;
 @include background-image(linear-gradient(tint($nav-dark, 15%), $nav-dark));
 }
 
 #nav a:hover, #nav a:active, #nav a.nav-active {
 color: #000;
+background-color: $nav-light;
 @include background-image(linear-gradient(tint($nav-light, 50%), $nav-light));
 }
 
