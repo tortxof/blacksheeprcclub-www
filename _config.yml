@@ -1,6 +1,6 @@
 name: Black Sheep RC Club
 description: Official website of the Black Sheep RC Club, located in Pendleton, SC.
-url: http://www.blacksheeprcclub.com
+url: http://www.bsrcc.com
 permalink: /news/:year/:month/:day/:title
 exclude:
 - README.md
