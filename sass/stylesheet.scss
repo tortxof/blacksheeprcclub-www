@@ -9,6 +9,7 @@ $small-bp: 550px;
 
 $nav-dark: #245;
 $nav-light: #8af;
+$nav-border: #333;
 $header-color: #368;
 
 $header-x: image-width('header.png');
@@ -22,14 +23,18 @@ $header-y: image-height('header.png');
   @include reset-box-model;
 }
 
-/* Paragraph spacing */
-
-ul, ol {
-  padding-left: 2em;
+img {
+  display: block;
 }
+
+/* Paragraph spacing */
 
 p, h1, h2, h3, h4, h5, h6 {
   padding: 0.5em 0;
+}
+
+ul, ol {
+  padding-left: 2em;
 }
 
 /* Font and Color */
@@ -38,6 +43,10 @@ body {
   font-family: 'Lora',serif;
   font-weight: 400;
   background-color: #245;
+}
+
+a {
+  color: adjust-saturation($nav-dark, 50%);
 }
 
 #main {
@@ -60,7 +69,7 @@ body {
 }
 
 #nav a {
-  border-color: #333;
+  border-color: $nav-border;
   border-style: solid;
   @include box-shadow(white 0 0 1px inset);
 }
@@ -113,8 +122,21 @@ h3 {
   padding-right: 2em;
 }
 
+.small {
+  font-size: 0.8em;
+}
+
 td {
   padding-right: 1em;
+}
+
+.announcements {
+  color: white;
+  border: 1px solid $nav-border;
+  @include border-radius(8px);
+  @include box-shadow(white 0 0 1px inset);
+  @include background-image(linear-gradient(tint($nav-dark, 15%), $nav-dark));
+  padding-bottom: 1em;
 }
 
 /* Reusable Elements */
@@ -153,12 +175,33 @@ td {
 
 /* Structure */
 
+@include with-layout(2 1/8 inside) {
+
+  .feature-container {
+    @include container(100%);
+  }
+
+  .feature {
+    @include span(full);
+  }
+
+}
+
+.feature img {
+  width: 100%;
+  @include border-radius(8px);
+}
+
+.feature p {
+  padding: 4px 0;
+}
+
 @include layout(4 1 inside);
 
 #main {
   @include container(100%);
   border-width: 0 1px 1px 1px;
-  border-color: #333;
+  border-color: $nav-border;
   border-style: solid;
   overflow: hidden;
 }
@@ -218,7 +261,7 @@ td {
 .map {
   display: block;
   margin: 1em auto;
-  border: 1px solid #333;
+  border: 1px solid $nav_border;
   width: 280px;
   height: 280px;
 }
@@ -227,9 +270,20 @@ td {
 
 @include breakpoint($small-bp) {
 
-  #main {
-    @include container(80%);
-    @include box-shadow(rgba(black, 0.5) 0 0 30px);
+  @include with-layout(2 1/8 inside) {
+    .feature {
+      @include span(1);
+    }
+  }
+
+  @include layout(5 1/4 inside);
+
+  #nav {
+    @include span(1);
+  }
+
+  #content {
+    @include span(4);
   }
 
   .map {
@@ -241,7 +295,10 @@ td {
 
 @include breakpoint($large-bp) {
 
-  @include layout(5 1/4 inside);
+  #main {
+    @include container(80%);
+    @include box-shadow(rgba(black, 0.5) 0 0 30px);
+  }
 
   .header-img {
     background-size: $header-x $header-y;
@@ -251,14 +308,6 @@ td {
   .header p {
     line-height: $header-y;
     font-size: 40px;
-  }
-
-  #nav {
-    @include span(1);
-  }
-
-  #content {
-    @include span(4);
   }
 
   .map {

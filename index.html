@@ -2,6 +2,7 @@
 layout: default
 title: News
 ---
+{% include news-feature.html %}
 {% for post in site.posts %}
 <p>
 <span class="post_date">{{ post.date | date: "%Y-%m-%d" }}</span>
