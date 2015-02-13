@@ -17,4 +17,5 @@ if __name__ == '__main__':
     out_html = template_html.format(content=post_html, date=sys.argv[3], next_meeting=sys.argv[4])
     with open('tmp.html', 'w') as f:
         f.write(out_html)
+    subprocess.check_output(['compass', 'compile'])
     subprocess.check_output(['wkhtmltopdf', '-s', 'Letter', '--print-media-type', '-B', '0.5in', '-L', '0.5in', '-R', '0.5in', '-T', '0.5in', 'tmp.html', pdf_file])
