@@ -19,70 +19,70 @@ $header-y: image-height('header.png');
 @import 'compass/reset/utilities';
 
 * {
-@include reset-box-model;
+  @include reset-box-model;
 }
 
 /* Paragraph spacing */
 
 ul, ol {
-padding-left: 2em;
+  padding-left: 2em;
 }
 
 p, h1, h2, h3, h4, h5, h6 {
-padding: 0.5em 0;
+  padding: 0.5em 0;
 }
 
 /* Font and Color */
 
 body {
-font-family: 'Lora',serif;
-font-weight: 400;
-background-color: #245;
+  font-family: 'Lora',serif;
+  font-weight: 400;
+  background-color: #245;
 }
 
 #main {
-background-color:#fff;
+  background-color:#fff;
 }
 
 .header {
-background-color:$header-color;
-@include background-image(linear-gradient(tint($header-color, 15%), shade($header-color, 15%)));
-@include box-shadow(black 0 0 8px 2px);
+  background-color:$header-color;
+  @include background-image(linear-gradient(tint($header-color, 15%), shade($header-color, 15%)));
+  @include box-shadow(black 0 0 8px 2px);
 }
 
 .header p {
-color:#fff;
-@include text-shadow(rgba(black, 0.6) 0 0 5px);
+  color:#fff;
+  @include text-shadow(rgba(black, 0.6) 0 0 5px);
 }
 
 #nav {
-font-family: 'Open Sans',sans-serif;
+  font-family: 'Open Sans',sans-serif;
 }
 
 #nav a {
-border-color: #333;
-border-style: solid;
-@include box-shadow(white 0 0 1px inset);
+  border-color: #333;
+  border-style: solid;
+  @include box-shadow(white 0 0 1px inset);
 }
 
 #nav a:link, #nav a:visited {
-color: #fff;
-background-color: $nav-dark;
-@include background-image(linear-gradient(tint($nav-dark, 15%), $nav-dark));
+  color: #fff;
+  background-color: $nav-dark;
+  @include background-image(linear-gradient(tint($nav-dark, 15%), $nav-dark));
 }
 
 #nav a:hover, #nav a:active, #nav a.nav-active {
-color: #000;
-background-color: $nav-light;
-@include background-image(linear-gradient(tint($nav-light, 50%), $nav-light));
+  color: #000;
+  background-color: $nav-light;
+  @include background-image(linear-gradient(tint($nav-light, 50%), $nav-light));
 }
 
 #footer {
-font-size: 0.8em;
-text-align: center;
-color: #666;
-background-color: #ccc;
-@include box-shadow(rgba(black, 0.8) 0 5px 5px -5px inset);
+  font-size: 0.8em;
+  text-align: center;
+  color: #666;
+  background-color: #ccc;
+  @include box-shadow(rgba(black, 0.8) 0 5px 5px -5px inset);
 }
 
 #footer a {
@@ -90,15 +90,15 @@ background-color: #ccc;
 }
 
 h1 {
-font-weight: 400;
-font-size: 1.6em;
-text-align: center;
+  font-weight: 400;
+  font-size: 1.6em;
+  text-align: center;
 }
 
 h2 {
-font-weight: 400;
-font-size: 1.4em;
-text-align: center;
+  font-weight: 400;
+  font-size: 1.4em;
+  text-align: center;
 }
 
 h3 {
@@ -109,36 +109,36 @@ h3 {
 }
 
 .rank {
-font-weight: 700;
-padding-right: 2em;
+  font-weight: 700;
+  padding-right: 2em;
 }
 
 td {
-padding-right: 1em;
+  padding-right: 1em;
 }
 
 /* Reusable Elements */
 
 .thumbnail {
-float: left;
-font-size: .8em;
-text-align: center;
-width: 192px;
-height: 192px;
-padding: 0;
-border: 0;
-margin: 4px;
+  float: left;
+  font-size: .8em;
+  text-align: center;
+  width: 192px;
+  height: 192px;
+  padding: 0;
+  border: 0;
+  margin: 4px;
 }
 
 .thumbnail img {
-display: block;
-border: 1px solid #999;
+  display: block;
+  border: 1px solid #999;
 }
 
 .photo-title {
-margin: 2px 0 0 0;
-border: 1px solid #999;
-padding: 2px;
+  margin: 2px 0 0 0;
+  border: 1px solid #999;
+  padding: 2px;
 }
 
 .video {
@@ -156,127 +156,127 @@ padding: 2px;
 @include layout(4 1 inside);
 
 #main {
-@include container(100%);
-border-width: 0 1px 1px 1px;
-border-color: #333;
-border-style: solid;
-overflow: hidden;
+  @include container(100%);
+  border-width: 0 1px 1px 1px;
+  border-color: #333;
+  border-style: solid;
+  overflow: hidden;
 }
 
 .header {
-@include span(full no-gutter);
+  @include span(full no-gutter);
 }
 
 .header-img {
-@include span(full);
-background-image:url('/images/header.png');
-background-size: $header-x/2 $header-y/2;
-background-repeat:no-repeat;
-height: $header-y/2;
+  @include span(full);
+  background-image:url('/images/header.png');
+  background-size: $header-x/2 $header-y/2;
+  background-repeat:no-repeat;
+  height: $header-y/2;
 }
 
 .header p {
-line-height: $header-y/2;
-padding:0;
-text-align:right;
-font-size:28px;
+  line-height: $header-y/2;
+  padding:0;
+  text-align:right;
+  font-size:28px;
 }
 
 @include with-layout(1 1 inside) {
-#nav {
-@include span(full);
-font-size: 0.8em;
-margin-top: 1em;
-margin-bottom: 1em;
-}
+  #nav {
+    @include span(full);
+    font-size: 0.8em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
 }
 
 #nav a {
-display: block;
-text-align: center;
-padding: .2em;
-border-width: 1px 1px 0 1px;
-text-decoration: none;
+  display: block;
+  text-align: center;
+  padding: .2em;
+  border-width: 1px 1px 0 1px;
+  text-decoration: none;
 }
 
 #nav a:last-child {
-border-width: 1px;
+  border-width: 1px;
 }
 
 #content {
-@include span(full);
-margin-top: 1em;
-margin-bottom: 1em;
+  @include span(full);
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 
 #footer {
-@include span(full);
-padding-top: 0.33em;
-padding-bottom: 0.33em;
+  @include span(full);
+  padding-top: 0.33em;
+  padding-bottom: 0.33em;
 }
 
 .map {
-display: block;
-margin: 1em auto;
-border: 1px solid #333;
-width: 280px;
-height: 280px;
+  display: block;
+  margin: 1em auto;
+  border: 1px solid #333;
+  width: 280px;
+  height: 280px;
 }
 
 /* Breakpoints */
 
 @include breakpoint($small-bp) {
 
-#main {
-@include container(80%);
-@include box-shadow(rgba(black, 0.5) 0 0 30px);
-}
+  #main {
+    @include container(80%);
+    @include box-shadow(rgba(black, 0.5) 0 0 30px);
+  }
 
-.map {
-width: 380px;
-height: 380px;
-}
+  .map {
+    width: 380px;
+    height: 380px;
+  }
 
 }
 
 @include breakpoint($large-bp) {
 
-@include layout(5 1/4 inside);
+  @include layout(5 1/4 inside);
 
-.header-img {
-background-size: $header-x $header-y;
-height: $header-y;
-}
+  .header-img {
+    background-size: $header-x $header-y;
+    height: $header-y;
+  }
 
-.header p {
-line-height: $header-y;
-font-size: 40px;
-}
+  .header p {
+    line-height: $header-y;
+    font-size: 40px;
+  }
 
-#nav {
-@include span(1);
-}
+  #nav {
+    @include span(1);
+  }
 
-#content {
-@include span(4);
-}
+  #content {
+    @include span(4);
+  }
 
-.map {
-width: 400px;
-height: 300px;
-}
+  .map {
+    width: 400px;
+    height: 300px;
+  }
 
 }
 
 @include breakpoint($xlarge-bp) {
 
-#main {
-@include container($xlarge-fixed);
-}
+  #main {
+    @include container($xlarge-fixed);
+  }
 
-.map {
-width: 720px;
-height: 480px;
-}
+  .map {
+    width: 720px;
+    height: 480px;
+  }
 
 }
