@@ -85,6 +85,10 @@ background-color: #ccc;
 @include box-shadow(rgba(black, 0.8) 0 5px 5px -5px inset);
 }
 
+#footer a {
+  color: #666;
+}
+
 h1 {
 font-weight: 400;
 font-size: 1.6em;
