@@ -29,8 +29,8 @@ img {
 
 /* Paragraph spacing */
 
-p, h1, h2, h3, h4, h5, h6 {
-  padding: 0.5em 0;
+p, ul, ol, h1, h2, h3, h4, h5, h6 {
+  margin: 1em 0;
 }
 
 ul, ol {
@@ -137,7 +137,6 @@ td {
   @include border-radius(8px);
   @include box-shadow(white 0 0 1px inset);
   @include background-image(linear-gradient(tint($nav-dark, 15%), $nav-dark));
-  padding-bottom: 1em;
 }
 
 /* Reusable Elements */
@@ -221,7 +220,7 @@ td {
 
 .header p {
   line-height: $header-y/2;
-  padding:0;
+  margin: 0;
   text-align:right;
   font-size:28px;
 }
