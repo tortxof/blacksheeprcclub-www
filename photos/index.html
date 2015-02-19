@@ -2,6 +2,7 @@
 layout: default
 title: Photos
 ---
+<div class="thumbnail-container">
 {% for photo in site.data.photos %}
 <div class="thumbnail">
 <a href="/photos/large/{{ photo.file }}" rel="lightbox[photos]"{% if photo.title %} title="{{ photo.title }}"{% endif %}>
@@ -9,4 +10,4 @@ title: Photos
 {% if photo.title %}<div class="photo-title">{{ photo.title }}</div>{% endif %}
 </div>
 {% endfor %}
-<br style="clear:both;" />
+</div>

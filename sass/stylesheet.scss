@@ -141,20 +141,25 @@ td {
 
 /* Reusable Elements */
 
+.thumbnail-container {
+  text-align: center;
+}
+
 .thumbnail {
-  float: left;
+  display: inline-block;
   font-size: .8em;
   text-align: center;
-  width: 192px;
-  height: 192px;
+  width: 198px;
+  height: 198px;
   padding: 0;
-  border: 0;
   margin: 4px;
 }
 
 .thumbnail img {
   display: block;
-  border: 1px solid #999;
+  border: 3px solid white;
+  @include border-radius(7px);
+  @include box-shadow(0 0 8px -2px black);
 }
 
 .photo-title {
