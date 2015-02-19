@@ -243,12 +243,9 @@ td {
   display: block;
   text-align: center;
   padding: .2em;
-  border-width: 1px 1px 0 1px;
-  text-decoration: none;
-}
-
-#nav a:last-child {
   border-width: 1px;
+  text-decoration: none;
+  margin-bottom: -1px;
 }
 
 #content {
