@@ -37,12 +37,17 @@ ul, ol {
   padding-left: 2em;
 }
 
+body {
+  line-height: 1.4;
+}
+
 /* Font and Color */
 
 body {
   font-family: 'Lora',serif;
   font-weight: 400;
   background-color: #245;
+  color: #333;
 }
 
 a {
