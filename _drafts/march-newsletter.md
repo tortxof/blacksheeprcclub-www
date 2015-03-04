@@ -25,7 +25,7 @@ having to do with the bsrcc.com domain name.
 
 The club welcomed a new member, Ira Jordan.
 
-One of the 6 month memberships was given to Terry Deese.
+One of the 6 month memberships was given to Terri Deese.
 
 A club workday will be held Saturday, March 28, starting at 9:00 AM. Please come
 out and help maintain our club facilities. Bring tools and yard equipment if
