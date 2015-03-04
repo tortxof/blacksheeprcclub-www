@@ -144,6 +144,10 @@ td {
   @include background-image(linear-gradient(tint($nav-dark, 15%), $nav-dark));
 }
 
+.announcements a {
+  color: white;
+}
+
 /* Reusable Elements */
 
 .thumbnail-container {

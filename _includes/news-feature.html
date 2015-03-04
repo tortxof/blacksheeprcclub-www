@@ -7,7 +7,7 @@
     <h2>Announcements</h2>
     <ul>
       {% for item in site.data.announcements %}
-      <li>{{ item }}</li>
+      <li>{% if item.link %}<a href="{{ item.link }}">{{ item.text }}</a>{% else %}{{ item.text }}{% endif %}</li>
       {% endfor %}
     </ul>
   </div>
