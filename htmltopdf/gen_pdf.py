@@ -24,7 +24,7 @@ if __name__ == '__main__':
         next_meeting = meeting_date + one_day
         while (next_meeting.month == meeting_date.month):
             next_meeting = next_meeting + one_day
-        while (next_meeting.weekday != 1):
+        while (next_meeting.weekday() != 1):
             next_meeting = next_meeting + one_day
     else:
         next_meeting = datetime.datetime.strptime(config['next_meeting'], '%Y-%m-%d').date()
@@ -32,7 +32,7 @@ if __name__ == '__main__':
     post_file = config['post_file']
     pdf_file = '../newsletters/bsrcc-newsletter-' + meeting_date.strftime('%Y-%m') + '.pdf'
     meeting_date_str = meeting_date.strftime('%B %Y')
-    next_meeting_str = next_meeting.strftime('%B') + str(next_meeting.day)
+    next_meeting_str = next_meeting.strftime('%B ') + str(next_meeting.day)
     with open(post_file) as f:
         post_md = f.read()
     post_md = subprocess.check_output(['rmfm'], input=post_md.encode())
