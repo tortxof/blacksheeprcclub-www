@@ -27,9 +27,9 @@ The club welcomed a new member, Ira Jordan.
 
 One of the 6 month memberships was given to Terri Deese.
 
-A club workday will be held Saturday, March 28, starting at 9:00 AM. Please come
+A club workday will be held Saturday, March 21, starting at 9:00 AM. Please come
 out and help maintain our club facilities. Bring tools and yard equipment if
-you can. In the case of bad weather, the workday will be the following Saturday.
+you can.
 
 ## Other announcements
 
