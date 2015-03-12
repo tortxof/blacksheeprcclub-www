@@ -13,6 +13,8 @@ John D Bernard and Ronald Douglas 'Doug' Starwalt's RC modeling site.
 
 ## Local Clubs
 
+[Firetower Flyers RC Club](http://www.firetowerflyers.com/)
+
 [Tri-County R/C Flyers](http://www.tri-countyrc.org/)
 
 [Blue Ridge Radio Control](http://www.blueridgerc.com/)
