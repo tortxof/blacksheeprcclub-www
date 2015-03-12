@@ -11,5 +11,6 @@ exclude:
 - assets
 - sass
 - config.rb
+- Procfile
 - rmfm
 - old
