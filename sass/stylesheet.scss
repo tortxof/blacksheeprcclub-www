@@ -71,23 +71,23 @@ a {
   @include text-shadow(rgba(black, 0.6) 0 0 5px);
 }
 
-#nav {
+nav {
   font-family: 'Open Sans',sans-serif;
 }
 
-#nav a {
+nav a {
   border-color: $nav-border;
   border-style: solid;
   @include box-shadow(white 0 0 1px inset, $small-shadow);
 }
 
-#nav a:link, #nav a:visited {
+nav a:link, nav a:visited {
   color: #fff;
   background-color: $nav-dark;
   @include background-image(linear-gradient(tint($nav-dark, 15%), $nav-dark));
 }
 
-#nav a:hover, #nav a:active, #nav a.nav-active {
+nav a:hover, nav a:active, nav a.nav-active {
   color: #000;
   background-color: $nav-light;
   @include background-image(linear-gradient(tint($nav-light, 50%), $nav-light));
@@ -147,6 +147,12 @@ td {
 
 .announcements a {
   color: white;
+}
+
+.nav-expand {
+  position: absolute;
+  right: 10px;
+  top: ($header-y / 2) + 10px;
 }
 
 /* Reusable Elements */
@@ -240,7 +246,7 @@ td {
 }
 
 @include with-layout(1 1 inside) {
-  #nav {
+  nav {
     @include span(full);
     font-size: 0.8em;
     margin-top: 1em;
@@ -248,7 +254,7 @@ td {
   }
 }
 
-#nav a {
+nav a {
   display: block;
   text-align: center;
   padding: .2em;
@@ -287,7 +293,7 @@ td {
 
   @include layout(5 1/4 inside);
 
-  #nav {
+  nav {
     @include span(1);
   }
 

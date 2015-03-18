@@ -11,6 +11,7 @@
   <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}" />
   <link href="http://fonts.googleapis.com/css?family=Open+Sans|Lora:400,700" rel="stylesheet" type="text/css">
   <link href="/css/stylesheet.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="/feed.xml" />
   <link rel="icon" type="image/png" href="/images/icon.png" />
   <title>{{ site.name }}</title>
@@ -28,6 +29,8 @@
 
     <div class="header"><div class="header-img"><p itemprop="name">{{ site.name }}</p></div></div>
 
+    <div class="nav-expand"><i class="fa fa-bars fa-2x"></i></div>
+
     <nav id="nav" role="navigation">
       {% include nav.html %}
     </nav><!-- end nav -->
@@ -42,6 +45,28 @@
     </div><!-- end footer -->
 
   </div><!-- end main -->
+
+  <script>
+  if ($(window).width() < 550 ) {
+    $("nav").hide();
+  } else {
+    $(".nav-expand").hide();
+  }
+
+  $(window).resize(function() {
+    if ($(window).width() < 550) {
+      $("nav").hide();
+      $(".nav-expand").show();
+    } else {
+      $("nav").show();
+      $(".nav-expand").hide();
+    }
+  });
+
+  $(".nav-expand").click(function() {
+    $('nav').slideToggle();
+    });
+  </script>
 
   {% include google-analytics.html %}
 </body>
