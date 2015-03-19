@@ -258,7 +258,7 @@ td {
 nav a {
   display: block;
   text-align: center;
-  padding: .2em;
+  padding: .4em 0;
   border-width: 1px;
   text-decoration: none;
   margin-bottom: -1px;
@@ -296,6 +296,10 @@ nav a {
 
   nav {
     @include span(1);
+  }
+
+  nav a {
+    padding: 0.3em 0;
   }
 
   #content {
