@@ -10,6 +10,7 @@ exclude:
 - gen_photo_yaml
 - assets
 - sass
+- htmltopdf
 - config.rb
 - Procfile
 - rmfm
