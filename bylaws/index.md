@@ -256,14 +256,13 @@ flying field property and utilization of same by BSRCC.
 
 BSRCC "MEMBERSHIP CLASSIFICATION & DUES SCHEDULE"
 
-Dues Month Year
-
 {: type="A"}
 1.  Adult: $75 per year
 2.  Family (with members of Junior age): $105 per year
 3.  Junior (22 years and still in school or 18 if not): $45 per year
 4.  Senior (65 years of age): $45 per year
 5.  Disabled: $45 per year
+6.  Member of another AMA club: $45 per year
 
 Those who do not pay by the first Tuesday in March shall be required to pay a
 late fee of $20 in addition to the current dues.
