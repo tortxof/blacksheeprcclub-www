@@ -21,4 +21,5 @@ voted on at the May meeting.
 
 ## Other announcements
 
-April 24 is the deadline to comment on the FCC proposed rules.
+April 24 is the deadline to
+[comment on the FCC proposed rules](http://www.regulations.gov/#!docketDetail;D=FAA-2015-0150).
