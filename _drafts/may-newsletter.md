@@ -26,4 +26,5 @@ Dennis volunteered to research possible dates for fly-ins in 2016.
 
 J.B. volunteered to order a new AMA rules decal for the pit board.
 
-Nelson volunteered to handle the new 2.4GHz signage.
+Nelson volunteered to handle the new 2.4GHz signage. Tony volunteered to help
+Nelson with the signs.
