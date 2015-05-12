@@ -14,7 +14,7 @@ Minutes accepted as read.
 Treasurer's report accepted as read. Proceeds from fly-in are $190, giving the
 club a balance of $4572.20.
 
-Field Report: Ant killer was applied and worked well. Carpet on airplane stands
+Ant killer was applied and worked well. Carpet on airplane stands
 needs to be replaced. Impound needs to be cleaned out. Morgan will organize
 these items in coming weeks, requesting assistance from others as needed.
 
