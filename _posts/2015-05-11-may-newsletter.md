@@ -19,7 +19,7 @@ needs to be replaced. Impound needs to be cleaned out. Morgan will organize
 these items in coming weeks, requesting assistance from others as needed.
 
 A vote was held to make the club 2.4GHz only. The vote was unanimous in favor of
-the motion. This rule will go into effect August 1.
+the motion. [This rule will go into effect August 1](/2.4ghz).
 
 A date of September 26 was decided for the next fly-in. This event will be
 fly-what-you-bring. All model types welcome. Nelson will take lead organizing
