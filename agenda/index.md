@@ -3,9 +3,7 @@ layout: default
 ---
 # Black Sheep RC Club
 
-## Agenda for May 5, 2015
-
-### Dinner
+## Agenda for June 2, 2015
 
 ### Open Meeting (Dansby)
 
@@ -23,12 +21,8 @@ layout: default
 
 ### Old Business (Huff)
 
-- 2.4GHz only vote
-
 ### New Business
 
 ### Announcements
-
-### Dinner Collection
 
 ### Adjournment
