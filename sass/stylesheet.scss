@@ -285,6 +285,18 @@ nav a {
 
 /* Breakpoints */
 
+@media (max-width: $xlarge-bp - 1) {
+  .officers, .officers thead, .officers tbody, .officers th, .officers td, .officers tr {
+    display: block;
+  }
+  .officers td {
+    margin-left: 2em;
+  }
+  .officers td.rank {
+    margin-left: 0;
+  }
+}
+
 @include breakpoint($small-bp) {
 
   @include with-layout(2 1/8 inside) {

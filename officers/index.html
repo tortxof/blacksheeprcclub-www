@@ -4,8 +4,8 @@ title: Officers
 ---
 <p>The club officers for 2015 are as follows:</p>
 
-<table>
+<table class="officers">
 {% for officer in site.data.officers %}
-    <tr><td class="rank">{{ officer.rank }}</td><td>{{ officer.name }}</td><td>{{ officer.phone }}</td></tr>
+    <tr><td class="rank">{{ officer.rank }}</td><td>{{ officer.name }}</td><td>{{ officer.phone }}</td><td>{{ officer.email }}</td></tr>
 {% endfor %}
 </table>
