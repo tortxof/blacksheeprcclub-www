@@ -6,6 +6,6 @@ title: Officers
 
 <table class="officers">
 {% for officer in site.data.officers %}
-    <tr><td class="rank">{{ officer.rank }}</td><td>{{ officer.name }}</td><td>{{ officer.phone }}</td><td>{{ officer.email }}</td></tr>
+    <tr><td class="rank">{{ officer.rank }}</td><td>{{ officer.name }}</td><td>{{ officer.phone }}</td><td><a href="mailto:{{ officer.email }}">{{ officer.email }}</a></td></tr>
 {% endfor %}
 </table>
