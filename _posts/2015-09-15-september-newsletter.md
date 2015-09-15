@@ -27,5 +27,3 @@ Regarding the recent complaints of noise and overflying of neighboring property:
 The timber behind the clubhouse will be cut in about three weeks.
 
 The new bylaws, written by J.B. Dansby, were voted on and accepted.
-
-## Announcements
