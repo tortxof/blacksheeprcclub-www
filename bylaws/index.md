@@ -122,7 +122,7 @@ regularly scheduled monthly meeting.
 
 Officer nominations are made at the October club meeting, notification to the
 membership of those nominated for each officer position is made in the October
-minutes/newsletter, and then elections are held at the November club meeting.
+newsletter, and then elections are held at the November club meeting.
 The term "Officer" shall mean a club member who is nominated and elected for one
 (and only one) of the officer positions described below, by majority vote of the
 club membership that is present at the November club meeting. Officers are
@@ -163,7 +163,7 @@ The treasurer shall be responsible to the President, keep an accurate record of
 all financial affairs of the Club, give a report at each meeting of the current
 financial status of the club, collect and deposit all Club dues, act as liaison
 between the Club and the Club's banking institution, keep an up to date record
-of the clubs membership, and notify the club Newsletter Editor of membership
+of the clubs membership, and notify the club Secretary of membership
 status (i.e., those members who are paid up, delinquent, have dropped out,
 etc.). He may also act as an authorized signer (if necessary) of checks issued
 by the Club. If the Treasurer is unable to attend a club meeting for any reason,
@@ -234,37 +234,41 @@ majority vote of the membership prior to making the expenditure.
 
 ## ARTICLE V --- ANNUAL AUDIT {#v}
 
-The outgoing President shall at the December meeting appoint two sitting
-club Officers plus one other regular club Member to audit the Treasurer=E2=
-=80=99s
-financial records for the past fiscal year. This committee shall conduct
-its audit of the records timely (typically in January), discuss with the
-past Treasurer as may be needed in order to fully understand the clubs
-financial records, review its preliminary findings with the past Treasure
-to achieve concurrence on the conclusions, and then report the final audit
-conclusions to the club's general membership no later than the February
-meeting. The Secretary/Newsletter Editor shall publish the audit results in
-the next club minutes/newsletter, and the audit committee shall be
+The outgoing President shall at the December meeting appoint two sitting club
+Officers plus one other regular club Member to audit the Treasurer's financial
+records for the past fiscal year. This committee shall conduct its audit of the
+records timely (typically in January), discuss with the past Treasurer as may be
+needed in order to fully understand the clubs financial records, review its
+preliminary findings with the past Treasure to achieve concurrence on the
+conclusions, and then report the final audit conclusions to the club's general
+membership no later than the February meeting. The Secretary shall publish the
+audit results in the next club newsletter, and the audit committee shall be
 automatically disbanded following completion of the audit report.
 
 
+## ARTICLE VI --- MEMBERSHIP CLASSIFICATIONS, DUES, AND SPECIAL ASSESSMENTS {#vi}
 
-*ARTICLE VI --- MEMBERSHIP CLASSIFICATIONS, DUES, AND SPECIAL ASSESSM=
-ENTS *
+BSRCC has *open membership* which is generally available to all persons of good
+and honest reputation who are interested in model aviation. The fiscal year of
+BSRCC shall coincide with the calendar year, January 1 to December 31.
 
-BSRCC has *open membership* which is generally available to all persons of
-good and honest reputation who are interested in model aviation. The
-fiscal year of BSRCC shall coincide with the calendar year, January 1 to
-December 31.
+BSRCC has several *membership classifications*, and varying *annual dues* are
+associated with each one. Renewing members as well as new members must indicate
+on their renewal/joining form which classification they are renewing or joining
+for. These classifications and their associated dues are indicated in the
+following table. All membership classifications have equal rights with regard to
+flying site access and utilization.
+
+| Membership Classification  | Annual Dues                   |
+|----------------------------+-------------------------------|
+| Adult Member               | $75                           |
+| Senior Member              | $45                           |
+| Junior Member              | $45                           |
+| Member of another AMA club | $45                           |
+| Disabled Member            | $45                           |
+| Family Member              | 10% discount from rates above |
 
 
-
-BSRCC has several *membership classifications*, and varying *annual dues*
-are associated with each one. Renewing members as well as new members must
-indicate on their renewal/joining form which classification they are
-renewing or joining for. These classifications and their associated dues
-are indicated in the following table. All membership classifications have
-equal rights with regard to flying site access and utilization.
 
 
 
@@ -386,7 +390,7 @@ www.bsrcc.com).
 
 
 Any proposed* changes to dues amounts* shall be first announced to the
-membership in the monthly club minutes/newsletter. In a subsequent club
+membership in the monthly club newsletter. In a subsequent club
 meeting, such proposed dues changes shall be reviewed, discussed, and
 decided upon by majority vote of the members present at that monthly
 meeting. If accepted by the membership, dues changes will then become
@@ -562,7 +566,7 @@ xxi. If needed for reasons of safety, the above rules may be
 revised and/or amended at any regular club meeting by a majority vote of
 members present. If these rules are revised or amended, the new rules
 shall be published and highlighted in the next issue of club
-minutes/newsletter.
+newsletter.
 
 
 
@@ -756,12 +760,12 @@ Additionally, a given person may be nominated for only one officer position
 at any given time (i.e., no person shall be nominated to run for two
 officer positions simultaneously). The names of those members nominated
 for the various officer positions shall be published and highlighted in the
-October meeting minutes/newsletter.
+October newsletter.
 
 ii. Election of new officers shall be held at the November
 Club Meeting, and the winners shall be determined by majority vote of the
 members present at that meeting. The resulting new officer's names shall
-be published and highlighted in the November meeting minutes/newsletter.
+be published and highlighted in the November meeting newsletter.
 
 iii. The term of office for newly elected officers shall be
 from January 1 thru December 31 of the forthcoming year.
@@ -782,7 +786,7 @@ each year by a majority vote of the membership).
 
 Amendments to the bylaws may be proposed at any general monthly meeting of
 the Club. Any amendment proposed and seconded shall then be published and
-highlighted in the next meeting minutes/newsletter, and shall subsequently
+highlighted in the next meeting newsletter, and shall subsequently
 be voted on at the next regular monthly meeting. An Amendment shall be
 considered approved if accepted by majority vote of the members present at
 that meeting. Similarly, the Amendment shall be considered disapproved if
