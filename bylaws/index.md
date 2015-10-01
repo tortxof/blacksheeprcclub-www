@@ -268,45 +268,21 @@ flying site access and utilization.
 | Disabled Member            | $45                           |
 | Family Member              | 10% discount from rates above |
 
-
-
-
-
-*Membership *
-
-*Classification*
-
-*Annual Dues --- payable by *
-
-*January 1 each year* (1,2,3,4,5)
-
 Junior Member
-
-(i.e., a member who is less than 22 years of age if enrolled as a full time
+: A member who is less than 22 years of age if enrolled as a full time
 student at an institution of higher learning, or less than 18 years of age
-if not)
-
-$45
+if not
 
 Adult Member
-
-(i.e., a member who is between the ages of 18 and 65, and who
-
-cannot qualify as a Junior Member per above definition)
-
-$75
+: A member who is between the ages of 18 and 65, and who
+cannot qualify as a Junior Member per above definition.
 
 Senior Member
-
-(i.e., a member who is 65 years of age or older)
-
-$45
+: A member who is 65 years of age or older.
 
 Disabled Member
-
-(i.e., a member of any age who has been diagnosed as
-
-"disabled" by a licensed medical doctor)
+: A member of any age who has been diagnosed as "disabled" by a licensed medical
+ doctor)
 
 $45
 
