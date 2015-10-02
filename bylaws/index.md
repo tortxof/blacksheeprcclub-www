@@ -266,7 +266,8 @@ flying site access and utilization.
 | Junior Member              | $45                           |
 | Member of another AMA club | $45                           |
 | Disabled Member            | $45                           |
-| Family Member              | 10% discount from rates above |
+| Family Membership              | 10% discount from rates above |
+| Honorary Membership        | $0                            |
 
 Junior Member
 : A member who is less than 22 years of age if enrolled as a full time
@@ -282,98 +283,71 @@ Senior Member
 
 Disabled Member
 : A member of any age who has been diagnosed as "disabled" by a licensed medical
- doctor)
-
-$45
+ doctor.
 
 Member of Another AMA Club
-
-(i.e., a full member of another AMA Chartered RC Club whose field is
-located within a radius of 50 miles of the BSRCC field)
-
-$45
+: A full member of another AMA chartered RC club whose field is
+located within a radius of 50 miles of the BSRCC field.
 
 Family Membership
-
-(i.e., two or more members of any age who are legally related to one
-another)
-
-"Family Membership" shall enjoy a
-
-10% discount from above dues rates
+: Two or more members of any age who are legally related to one
+another.
 
 Honorary Membership
-
-(i.e., an honorary and permanent membership which is conferred in
-recognition of a person's exceptional service to the Club)
-
-$0
-
-*Footnotes>*
-
-(1) If an existing member renews in January, February, or March, a
-"late payment penalty" of $0 is added to the annual dues amount shown above
-(i.e., this is a grace period granted by the club).
-
-(2) If an existing member renews in April, May, or June, a "late
-payment penalty" of $15 is added to the annual dues amount shown above.
-
-(3) If an existing member renews in July, August, or September, a "late
-payment penalty" of $30 is added to the annual dues amount shown above.
-
-(4) If an existing member renews in October, November, or December, a
-"late payment penalty" of $45 is added to the annual dues amount shown
-above.
-
-(5) Annual dues are prorated for new members only, and do not apply to
-annual renewal by existing members. Existing members must pay the entire
-years' annual dues, regardless of the time of the year in which they
-renew. Any membership which is not renewed for a period of 1 year shall be
-considered cancelled, and shall be dropped from the membership roster.
+: An honorary and permanent membership which is conferred in
+recognition of a person's exceptional service to the club.
 
 
+If an existing member renews in January, February, or March, a "late payment
+penalty" of $0 is added to the annual dues amount shown above. This is a grace
+period granted by the club.
 
+If an existing member renews in April, May, or June, a late payment penalty of
+$15 is added to the annual dues amount shown above.
 
+If an existing member renews in July, August, or September, a late payment
+penalty of $30 is added to the annual dues amount shown above.
 
-For *new members*, annual membership dues are due and payable at the time
-of joining. For the first year of new membership, dues will be prorated
-depending on the actual month of joining (i.e., depending on how many
-months are left to be "used" in that fiscal year). For example, if a new
-member joins in January then the dues for that first year will be
-(12/12)x(annual dues amount for the applicable member classification), and
-if he joins in December then the first year dues will be (1/12)x(annual
-dues amount for the applicable member classification). All new members
-must fill out and file the renewal/joining form, along with a photocopy of
-their current AMA card and the appropriate dues, in order to be admitted as
-a new club member in good standing. The renewal/joining form is available
-as the last page of these Bylaws, and on the clubs website (www.bsrcc.com).
+If an existing member renews in October, November, or December, a late payment
+penalty of $45 is added to the annual dues amount shown above.
 
+Annual dues are prorated for new members only, and do not apply to annual
+renewal by existing members. Existing members must pay the entire year's annual
+dues, regardless of the time of the year in which they renew. Any membership
+which is not renewed for a period of 1 year shall be considered cancelled, and
+shall be dropped from the membership roster.
 
+For *new members*, annual membership dues are due and payable at the time of
+joining. For the first year of new membership, dues will be prorated depending
+on the actual month of joining (i.e., depending on how many months are left to
+be "used" in that calendar year). For example, if a new member joins in January
+then the dues for that first year will be (12/12)x(annual dues amount for the
+applicable member classification), and if he joins in December then the first
+year dues will be (1/12)x(annual dues amount for the applicable member
+classification). All new members must fill out and file the renewal/joining
+form, along with a photocopy of their current AMA card and the appropriate dues,
+in order to be admitted as a new club member in good standing. The
+renewal/joining form is available on the club's website
+[www.bsrcc.com](http://www.bsrcc.com/).
 
 For *existing members*, annual dues are due and payable on January 1 of the
-calendar year for which their club membership is being renewed, and the
-club encourages early payment of membership dues to the maximum extent
-feasible. Additionally, if membership dues are paid "unreasonably late" in
-a given year, then there is also a "late payment penalty" that is assessed
-in addition to the regular membership dues (this is explained in more
-detail in footnotes (1)-(5) of the table above). All existing members must
-annually fill out and file the renewal/joining form, along with a photocopy
-of their current AMA card, and the appropriate dues, in order to continue
-as an existing club member in good standing. The renewal/joining form is
-available as the last page of these Bylaws, and on the clubs website (
-www.bsrcc.com).
+calendar year for which their club membership is being renewed, and the club
+encourages early payment of membership dues to the maximum extent feasible.
+Additionally, if membership dues are paid "unreasonably late" in a given year,
+then there is also a "late payment penalty" that is assessed in addition to the
+regular membership dues (this is explained in more detail in footnotes (1)-(5)
+of the table above). All existing members must annually fill out and file the
+renewal/joining form, along with a photocopy of their current AMA card, and the
+appropriate dues, in order to continue as an existing club member in good
+standing. The renewal/joining form is available as the last page of these
+Bylaws, and on the clubs website [www.bsrcc.com](http://www.bsrcc.com/).
 
-
-
-Any proposed* changes to dues amounts* shall be first announced to the
-membership in the monthly club newsletter. In a subsequent club
-meeting, such proposed dues changes shall be reviewed, discussed, and
-decided upon by majority vote of the members present at that monthly
-meeting. If accepted by the membership, dues changes will then become
-effective on a date as determined by majority vote of the members present
-at that meeting.
-
-
+Any proposed changes to dues amounts shall be first announced to the membership
+in the monthly club newsletter. In a subsequent club meeting, such proposed dues
+changes shall be reviewed, discussed, and decided upon by majority vote of the
+members present at that monthly meeting. If accepted by the membership, dues
+changes will then become effective on a date as determined by majority vote of
+the members present at that meeting.
 
 *Special assessments*, which are intended to address emergency, unusual,
 and/or extraordinary events, may potentially be proposed and accepted by
@@ -390,14 +364,10 @@ club's official membership roster at that point in time (Note: "Honorary
 Members" shall not be included in this head count, nor shall they pay any
 assessments).
 
-
-
 In deep appreciation for the flying site that it currently utilizes, the
 BSRCC decrees that the flying site land owners (i.e., Ann Sweetman, John
 Davenport, and Charles Davenport) shall enjoy Honorary Membership in the
 BSRCC, in perpetuity, with all dues waived.
-
-
 
 *ARTICLE VII --- VOTING RIGHTS*
 
