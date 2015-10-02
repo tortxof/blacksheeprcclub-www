@@ -266,7 +266,7 @@ flying site access and utilization.
 | Junior Member              | $45                           |
 | Member of another AMA club | $45                           |
 | Disabled Member            | $45                           |
-| Family Membership              | 10% discount from rates above |
+| Family Membership          | 10% discount from rates above |
 | Honorary Membership        | $0                            |
 
 Junior Member
@@ -369,9 +369,9 @@ BSRCC decrees that the flying site land owners (i.e., Ann Sweetman, John
 Davenport, and Charles Davenport) shall enjoy Honorary Membership in the
 BSRCC, in perpetuity, with all dues waived.
 
-*ARTICLE VII --- VOTING RIGHTS*
+## ARTICLE VII --- VOTING RIGHTS {#vii}
 
-Voting rights within the BSRCC is limited to only those members who are:
+Voting rights within the BSRCC are limited to only those members who are:
 (i) eighteen (18) years of age or older regardless of their membership
 classification; and (ii) fully paid up members in good standing (i.e., not
 delinquent on dues).
