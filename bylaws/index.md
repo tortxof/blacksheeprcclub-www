@@ -570,12 +570,12 @@ are given below for both fixed wing and rotor wing aircraft.
 
 ## ARTICLE X --- CLUB MEETINGS {#x}
 
-Regular BSRCC club meetings shall be held on the first Tuesday of every
-month at 6:30 PM, and at a location which is stated in the prior month's
-newsletter and/or on the club's web site, www.bsrcc.com (note: meetings are
-typically held at the flying field club house). Additional special
-meetings may be called at any time by the club President, if necessary,
-with prior notification to the membership.
+Regular BSRCC club meetings shall be held on the first Tuesday of every month at
+6:30 PM, and at a location which is stated in the prior month's newsletter
+and/or on the club's web site at [www.bsrcc.com](http://www.bsrcc.com/).
+Meetings are typically held at the flying field club house. Additional special
+meetings may be called at any time by the club President, if necessary, with
+prior notification to the membership.
 
 ## ARTICLE XI --- RECORD KEEPING {#xi}
 
