@@ -327,7 +327,7 @@ year dues will be (1/12)x(annual dues amount for the applicable member
 classification). All new members must fill out and file the renewal/joining
 form, along with a photocopy of their current AMA card and the appropriate dues,
 in order to be admitted as a new club member in good standing. The
-renewal/joining form is available on the club's website
+renewal/joining form is available on the club's website at
 [www.bsrcc.com](http://www.bsrcc.com/).
 
 For *existing members*, annual dues are due and payable on January 1 of the
@@ -335,12 +335,12 @@ calendar year for which their club membership is being renewed, and the club
 encourages early payment of membership dues to the maximum extent feasible.
 Additionally, if membership dues are paid "unreasonably late" in a given year,
 then there is also a "late payment penalty" that is assessed in addition to the
-regular membership dues (this is explained in more detail in footnotes (1)-(5)
-of the table above). All existing members must annually fill out and file the
-renewal/joining form, along with a photocopy of their current AMA card, and the
-appropriate dues, in order to continue as an existing club member in good
-standing. The renewal/joining form is available as the last page of these
-Bylaws, and on the clubs website [www.bsrcc.com](http://www.bsrcc.com/).
+regular membership dues. This is explained in more detail above. All existing
+members must annually fill out and file the renewal/joining form, along with a
+photocopy of their current AMA card, and the appropriate dues, in order to
+continue as an existing club member in good standing. The renewal/joining form
+is available as the last page of these Bylaws, and on the club's website at
+[www.bsrcc.com](http://www.bsrcc.com/).
 
 Any proposed changes to dues amounts shall be first announced to the membership
 in the monthly club newsletter. In a subsequent club meeting, such proposed dues
