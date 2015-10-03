@@ -339,7 +339,7 @@ regular membership dues. This is explained in more detail above. All existing
 members must annually fill out and file the renewal/joining form, along with a
 photocopy of their current AMA card, and the appropriate dues, in order to
 continue as an existing club member in good standing. The renewal/joining form
-is available as the last page of these Bylaws, and on the club's website at
+is available as the last page of these bylaws, and on the club's website at
 [www.bsrcc.com](http://www.bsrcc.com/).
 
 Any proposed changes to dues amounts shall be first announced to the membership
