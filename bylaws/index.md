@@ -254,7 +254,7 @@ BSRCC shall coincide with the calendar year, January 1 to December 31.
 
 BSRCC has several *membership classifications*, and varying *annual dues* are
 associated with each one. Renewing members as well as new members must indicate
-on their renewal/joining form which classification they are renewing or joining
+on their application/renewal form which classification they are renewing or joining
 for. These classifications and their associated dues are indicated in the
 following table. All membership classifications have equal rights with regard to
 flying site access and utilization.
@@ -324,10 +324,10 @@ be "used" in that calendar year). For example, if a new member joins in January
 then the dues for that first year will be (12/12)x(annual dues amount for the
 applicable member classification), and if he joins in December then the first
 year dues will be (1/12)x(annual dues amount for the applicable member
-classification). All new members must fill out and file the renewal/joining
+classification). All new members must fill out and file the application/renewal
 form, along with a photocopy of their current AMA card and the appropriate dues,
 in order to be admitted as a new club member in good standing. The
-renewal/joining form is available on the club's website at
+application/renewal form is available on the club's website at
 [www.bsrcc.com](http://www.bsrcc.com/).
 
 For *existing members*, annual dues are due and payable on January 1 of the
@@ -336,9 +336,9 @@ encourages early payment of membership dues to the maximum extent feasible.
 Additionally, if membership dues are paid "unreasonably late" in a given year,
 then there is also a "late payment penalty" that is assessed in addition to the
 regular membership dues. This is explained in more detail above. All existing
-members must annually fill out and file the renewal/joining form, along with a
+members must annually fill out and file the application/renewal form, along with a
 photocopy of their current AMA card, and the appropriate dues, in order to
-continue as an existing club member in good standing. The renewal/joining form
+continue as an existing club member in good standing. The application/renewal form
 is available as the last page of these bylaws, and on the club's website at
 [www.bsrcc.com](http://www.bsrcc.com/).
 
