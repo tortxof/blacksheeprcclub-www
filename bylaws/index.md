@@ -169,7 +169,7 @@ etc.). He may also act as an authorized signer (if necessary) of checks issued
 by the Club. If the Treasurer is unable to attend a club meeting for any reason,
 he shall appoint a Deputy (usually the Vice President) to act in his stead.
 
-### Secretary
+### Secretary / Newsletter Editor
 
 The Secretary shall be responsible to the President, give a report at each
 meeting of the prior meeting minutes (noting any changes or corrections which
@@ -336,10 +336,10 @@ encourages early payment of membership dues to the maximum extent feasible.
 Additionally, if membership dues are paid "unreasonably late" in a given year,
 then there is also a "late payment penalty" that is assessed in addition to the
 regular membership dues. This is explained in more detail above. All existing
-members must annually fill out and file the application/renewal form, along with a
-photocopy of their current AMA card, and the appropriate dues, in order to
-continue as an existing club member in good standing. The application/renewal form
-is available as the last page of these bylaws, and on the club's website at
+members must annually fill out and file the application/renewal form, along with
+a photocopy of their current AMA card, and the appropriate dues, in order to
+continue as an existing club member in good standing. The application/renewal
+form is available on the club's website at
 [www.bsrcc.com](http://www.bsrcc.com/).
 
 Any proposed changes to dues amounts shall be first announced to the membership
@@ -375,8 +375,8 @@ BSRCC, in perpetuity, with all dues waived.
 
 Voting rights within the BSRCC are limited to only those members who are
 eighteen years of age or older, regardless of their membership classification,
-and fully paid up members in good standing (i.e., not delinquent on dues).
-
+and who are also fully paid up members in good standing (i.e., not delinquent on
+dues).
 
 ## ARTICLE VIII --- GENERAL FIELD SAFETY RULES {#viii}
 
@@ -399,7 +399,7 @@ the general benefit of all members, and are as follows:
     conservatism and constantly strive to reduce risk in all matters related to
     safety).
 5.  To comply with AMA guidelines concerning frequency management, the club has
-    recently voted allow only 2.4 GHz transmitter frequencies. Therefore, the
+    recently voted to allow only 2.4 GHz transmitter frequencies. Therefore, the
     older transmitter frequencies (e.g., 27, 49, 53, 72 MHz, etc.) are no longer
     allowed at the BSRCC field. A transmitter impound area still exists, but is
     not required during normal day to day flying sessions. However, the
@@ -484,7 +484,7 @@ the general benefit of all members, and are as follows:
 21. If needed for reasons of safety, the above rules may be
     revised and/or amended at any regular club meeting by a majority vote of
     members present. If these rules are revised or amended, the new rules
-    shall be published and highlighted in the next issue of club
+    shall be published and highlighted in the next issue of the club
     newsletter.
 
 ## ARTICLE IX --- RECOMMENDED SOLO PILOT QUALIFICATION PROCEDURE {#ix}
