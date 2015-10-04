@@ -31,11 +31,11 @@ img {
 
 /* Paragraph spacing */
 
-p, ul, ol, table, h1, h2, h3, h4, h5, h6 {
+p, ul, ol, dt, table, h1, h2, h3, h4, h5, h6 {
   margin: 1em 0;
 }
 
-ul, ol {
+ul, ol, dd {
   padding-left: 2em;
 }
 
@@ -51,6 +51,10 @@ body {
 
 a {
   color: adjust-saturation($nav-dark, 50%);
+}
+
+dt {
+  font-weight: 700;
 }
 
 #main {
