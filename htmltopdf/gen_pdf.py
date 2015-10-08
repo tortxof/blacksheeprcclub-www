@@ -30,16 +30,23 @@ if __name__ == '__main__':
         next_meeting = datetime.datetime.strptime(config['next_meeting'], '%Y-%m-%d').date()
 
     post_file = config['post_file']
-    pdf_file = '../newsletters/bsrcc-newsletter-' + meeting_date.strftime('%Y-%m') + '.pdf'
+    pdf_file = 'bsrcc-newsletter-' + meeting_date.strftime('%Y-%m') + '.pdf'
     meeting_date_str = meeting_date.strftime('%B %Y')
     next_meeting_str = next_meeting.strftime('%B ') + str(next_meeting.day)
     with open(post_file) as f:
         post_md = f.read()
     post_md = subprocess.check_output(['rmfm'], input=post_md.encode())
-    post_html = subprocess.check_output(['kramdown'], input=post_md).decode()
-    template_html = subprocess.check_output(['mustache', 'officers.yaml', 'template.mustache']).decode()
+    post_html = subprocess.check_output(['docker', 'run', '-i', '--rm', 'tortxof/webdev', 'kramdown'], input=post_md).decode()
+    template_html = subprocess.check_output(['docker', 'run', '--rm',
+        '-v', '{}:/host'.format(os.getcwd()), '-u', '{}:{}'.format(str(os.getuid()), str(os.getgid())),
+        'tortxof/webdev', 'mustache', 'officers.yaml', 'template.mustache']).decode()
     out_html = template_html.format(content=post_html, date=meeting_date_str, next_meeting=next_meeting_str)
     with open('tmp.html', 'w') as f:
         f.write(out_html)
-    subprocess.check_output(['compass', 'compile'])
-    subprocess.check_output(['wkhtmltopdf', '-s', 'Letter', '--print-media-type', '-B', '0.5in', '-L', '0.5in', '-R', '0.5in', '-T', '0.5in', 'tmp.html', pdf_file])
+    subprocess.check_output(['docker', 'run', '--rm',
+        '-v', '{}:/host'.format(os.getcwd()), '-u', '{}:{}'.format(str(os.getuid()), str(os.getgid())),
+        'tortxof/webdev', 'compass', 'compile'])
+    subprocess.check_output(['docker', 'run', '--rm',
+        '-v', '{}:/host'.format(os.getcwd()), '-u', '{}:{}'.format(str(os.getuid()), str(os.getgid())),
+        'tortxof/wkhtmltopdf', 'wkhtmltopdf', '-s', 'Letter', '--print-media-type', '-B', '0.5in', '-L', '0.5in', '-R', '0.5in', '-T', '0.5in', 'tmp.html', pdf_file])
+    subprocess.check_output(['mv', pdf_file, '../newsletters'])
