@@ -45,7 +45,7 @@ if __name__ == '__main__':
         f.write(out_html)
     subprocess.check_output(['docker', 'run', '--rm',
         '-v', '{}:/host'.format(os.getcwd()), '-u', '{}:{}'.format(str(os.getuid()), str(os.getgid())),
-        'tortxof/webdev', 'compass', 'compile'])
+        'tortxof/webdev', 'compass', 'compile', '--force'])
     subprocess.check_output(['docker', 'run', '--rm',
         '-v', '{}:/host'.format(os.getcwd()), '-u', '{}:{}'.format(str(os.getuid()), str(os.getgid())),
         'tortxof/wkhtmltopdf', 'wkhtmltopdf', '-s', 'Letter', '--print-media-type', '-B', '0.5in', '-L', '0.5in', '-R', '0.5in', '-T', '0.5in', 'tmp.html', pdf_file])
