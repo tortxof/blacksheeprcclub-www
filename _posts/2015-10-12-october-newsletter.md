@@ -31,6 +31,7 @@ held at the November meeting.
 - Dick Russell for Treasurer
 - Daniel Jones for Secretary
 - Morgan Pritchard for Field Marshall
+- Dennis Beard for Safety Officer
 
 Additional nominations can be made at the November meeting.
 
