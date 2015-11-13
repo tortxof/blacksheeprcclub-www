@@ -32,9 +32,7 @@ The club officers for 2016 are as follows:
 - Field Marshall: Morgan Pritchard
 - Safety Officer: Dennis Beard
 
-Dennis Beard, Dick Russell, and Daniel Jones will perform an audit of the clubs
+Dennis Beard, Dick Russell, and Daniel Jones will perform an audit of the club's
 finances for 2015.
 
 An electric fly-in is being planned for May 2016.
-
-## Announcements
