@@ -54,18 +54,15 @@ these Bylaws.
 BLACK SHEEP RADIO CONTROL CLUB (BSRCC), INC.  
 AMA Charter #2068
 
-### Mailing Address
-
-3530 Pelzer Highway, Rt. 8  
-Easley, SC 29642
-
-### Field Location
+### Street Address
 
 802 Lockaby Road  
 Pendleton, SC 29670
 
-Approx. Latitude 34.6804 degrees North  
-Approx. Longitude 82.6113 degrees West
+### Field Location
+
+Approx. Latitude 34.6809 degrees North  
+Approx. Longitude 82.6112 degrees West
 
 
 
