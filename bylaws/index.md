@@ -246,15 +246,14 @@ automatically disbanded following completion of the audit report.
 
 ## ARTICLE VI --- MEMBERSHIP CLASSES, DUES, AND SPECIAL ASSESSMENTS {#vi}
 
-BSRCC has *open membership* which is generally available to all persons of good
-and honest reputation who are interested in model aviation. The fiscal year of
-BSRCC shall coincide with the calendar year, January 1 to December 31.
+BSRCC has *open membership* which is generally available to all persons
+interested in model aviation provided they are of good, honest, cooperative, and
+friendly reputation. The fiscal year of BSRCC shall coincide with the calendar
+year, January 1 to December 31.
 
-BSRCC has several *membership classifications*, and varying *annual dues* are
-associated with each one. Renewing members as well as new members must indicate
-on their application/renewal form which classification they are renewing or joining
-for. These classifications and their associated dues are indicated in the
-following table. All membership classifications have equal rights with regard to
+BSRCC has several *membership classes* available, and varying *annual dues* are
+associated with each one. These classes and their associated dues are indicated
+in the following table. All membership classes have equal rights with regard to
 flying site access and utilization.
 
 | Membership Classification  | Annual Dues                   |
@@ -319,14 +318,32 @@ For *new members*, annual membership dues are due and payable at the time of
 joining. For the first year of new membership, dues will be prorated depending
 on the actual month of joining (i.e., depending on how many months are left to
 be "used" in that calendar year). For example, if a new member joins in January
-then the dues for that first year will be (12/12)x(annual dues amount for the
-applicable member classification), and if he joins in December then the first
-year dues will be (1/12)x(annual dues amount for the applicable member
-classification). All new members must fill out and file the application/renewal
-form, along with a photocopy of their current AMA card and the appropriate dues,
-in order to be admitted as a new club member in good standing. The
-application/renewal form is available on the club's website at
-[www.bsrcc.com](http://www.bsrcc.com/).
+then the dues for that first year will be (12/12)x(annual dues amount for that
+applicable membership class), and if he joins in December then the first year
+dues will be (1/12)x(annual dues amount for that applicable membership class).
+All new members desiring to join the BSRCC must present the following
+information for each person in order to be admitted as a new club member in good
+standing.
+
+{: type="i"}
+1.  a completed new membership application form providing all information that
+    is requested
+2.  a photocopy of their current and valid AMA card
+3.  a check for their applicable annual dues amount
+
+The membership application form is available on the club's website at
+[www.bsrcc.com](http://www.bsrcc.com/). The membership application is a one time
+only formality which is required so that the club roster may reflect accurate
+information for each member. Existing members do not have to resubmit this form
+each year. The membership application form, a copy of the AMA card, and the
+check for annual dues may be presented by either of the following methods.
+
+{: type="i"}
+1.  personally handed to any Club Officer at the flying field
+2.  mailed to the current Club Treasurer.
+
+The current Club Treasurer's contact information and mailing address is
+available on the club's web site by clicking on "Officers".
 
 For *existing members*, annual dues are due and payable on January 1 of the
 calendar year for which their club membership is being renewed, and the club
@@ -334,11 +351,14 @@ encourages early payment of membership dues to the maximum extent feasible.
 Additionally, if membership dues are paid "unreasonably late" in a given year,
 then there is also a "late payment penalty" that is assessed in addition to the
 regular membership dues. This is explained in more detail above. All existing
-members must annually fill out and file the application/renewal form, along with
-a photocopy of their current AMA card, and the appropriate dues, in order to
-continue as an existing club member in good standing. The application/renewal
-form is available on the club's website at
-[www.bsrcc.com](http://www.bsrcc.com/).
+members must provide a copy of their current AMA card along with their dues in
+order to continue as an existing club member in good standing. It is suggested
+that existing members renew their membership as follows.
+
+1.  Make a photocopy of your AMA card.
+2.  Write on the front of it your applicable membership class.
+3.  Attach a check for the applicable annual dues amount.
+4.  Mail these items to the current club Treasurer.
 
 Any proposed changes to dues amounts shall be first announced to the membership
 in the monthly club newsletter. In a subsequent club meeting, such proposed dues
