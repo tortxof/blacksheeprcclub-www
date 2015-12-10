@@ -256,7 +256,7 @@ associated with each one. These classes and their associated dues are indicated
 in the following table. All membership classes have equal rights with regard to
 flying site access and utilization.
 
-| Membership Classification  | Annual Dues                   |
+| Membership Class           | Annual Dues                   |
 |----------------------------+-------------------------------|
 | Adult Member               | $75                           |
 | Senior Member              | $45                           |
@@ -392,7 +392,7 @@ BSRCC, in perpetuity, with all dues waived.
 ## ARTICLE VII --- VOTING RIGHTS {#vii}
 
 Voting rights within the BSRCC are limited to only those members who are
-eighteen years of age or older, regardless of their membership classification,
+eighteen years of age or older, regardless of their membership class,
 and who are also fully paid up members in good standing (i.e., not delinquent on
 dues).
 
