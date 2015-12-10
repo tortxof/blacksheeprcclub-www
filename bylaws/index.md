@@ -11,7 +11,7 @@ these Bylaws.
 
 ## Contents
 
-[ARTICLE I --- NAME, MAILING ADDRESS, AND FIELD LOCATION](#i)
+[ARTICLE I --- NAME, STREET ADDRESS, AND FIELD LOCATION](#i)
 
 [ARTICLE II --- PURPOSE OF CLUB](#ii)
 
@@ -21,7 +21,7 @@ these Bylaws.
 
 [ARTICLE V --- ANNUAL AUDIT](#v)
 
-[ARTICLE VI --- MEMBERSHIP CLASSIFICATIONS, DUES, AND SPECIAL ASSESSMENTS](#vi)
+[ARTICLE VI --- MEMBERSHIP CLASSES, DUES, AND SPECIAL ASSESSMENTS](#vi)
 
 [ARTICLE VII --- VOTING RIGHTS](#vii)
 
@@ -47,7 +47,7 @@ these Bylaws.
 
 [ARTICLE XVIII --- FLYING SITE LAND OWNERS](#xviii)
 
-## ARTICLE I --- NAME, MAILING ADDRESS, AND FIELD LOCATION {#i}
+## ARTICLE I --- NAME, STREET ADDRESS, AND FIELD LOCATION {#i}
 
 ### Name
 
@@ -246,7 +246,7 @@ audit results in the next club newsletter, and the audit committee shall be
 automatically disbanded following completion of the audit report.
 
 
-## ARTICLE VI --- MEMBERSHIP CLASSIFICATIONS, DUES, AND SPECIAL ASSESSMENTS {#vi}
+## ARTICLE VI --- MEMBERSHIP CLASSES, DUES, AND SPECIAL ASSESSMENTS {#vi}
 
 BSRCC has *open membership* which is generally available to all persons of good
 and honest reputation who are interested in model aviation. The fiscal year of
