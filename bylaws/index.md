@@ -205,9 +205,9 @@ to accommodate the usual model flying. He shall report on the general field
 status at each meeting, noting any deficiencies which are found, and shall
 organize assistance from any and all other BSRCC members as may be required in
 order to maintain the desired level of field maintenance for supporting an
-active flying club. (Note: it is expected that all members will respond
-positively to the Field Marshall's request for any assistance with field
-maintenance work).
+active flying club. Note, it is expected that all members will respond
+positively to any request by the Field Marshall for any assistance with field
+maintenance work.
 
 ### The Board of Officers
 
