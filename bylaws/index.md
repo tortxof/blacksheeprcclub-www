@@ -729,7 +729,7 @@ may be decided by majority vote of the then current Membership.
 
 ## ARTICLE XVIII --- FLYING SITE LAND OWNERS {#xviii}
 
-Not with standing any rule or bylaw stated above, the flying site land
+Not withstanding any rule or bylaw stated above, the flying site land
 owners (consisting of Ann Sweetman, John Davenport, and Charles Davenport)
 shall have full, final, and absolute authority over all matters regarding the
 flying site field and property, and utilization of same by the BSRCC.
