@@ -76,7 +76,7 @@ Membership to safely engage in and enjoy the hobby of Model Aviation.
 ## ARTICLE III --- DEFINITIONS {#iii}
 
 "Black Sheep Radio Control Club, Inc." shall mean the nonprofit model flying
-club organized and incorporated in the state of South Carolina, USA. Mailing
+club organized and incorporated in the state of South Carolina, USA. Street
 address and field location are given above.
 
 "BSRCC" shall mean the Black Sheep Radio Control Club, Inc.
@@ -88,7 +88,8 @@ satisfied all of the following requirements:
 1.  he/she has expressed an interest in model aviation
 2.  he/she has paid all required annual membership dues
 3.  he/she holds a current AMA membership card
-4.  he/she is also considered to be a person of good and honest reputation
+4.  he/she is also considered to be a person of good, honest, cooperative, and
+    friendly reputation
     (i.e., has not been previously expelled by this or another similar club for
     infraction of stated club rules)
 5.  he/she has expressed a willingness to participate, along with other club
