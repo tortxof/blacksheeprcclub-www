@@ -661,26 +661,25 @@ general management structure to enable the Membership to safely engage in and
 enjoy the hobby of Model Aviation". More specifically, implied within this
 statement is the general club requirement that each and every member shall
 adhere to accepted norms of societal behavior concerning safety, honesty,
-courtesy, and cooperation such that their actions will tend to enable, promote,
-and assist all other members in engaging in and enjoying the hobby of model
-aviation, rather than inhibiting, discouraging, and/or preventing other members
-from engaging in and/or enjoying the hobby of model aviation.
+courtesy, cooperation, and friendliness such that their actions will tend to
+enable, promote, and assist all other members in engaging in and enjoying the
+hobby of model aviation, rather than inhibiting, discouraging, and/or preventing
+other members from engaging in and/or enjoying the hobby of model aviation.
 
 This Article XV, then, provides a mechanism to enforce the above club rule,
 should it ever be required. This mechanism of enforcement will typically follow
 one or all of the following three steps, which will be carried out as necessary
 for reasons of safety or club stability:
 
-{: type="i"}
 1.  For a first time, minor, accidental, or inadvertent
     infraction of the above rule, the club *Safety Officer* acting after
     discussions and concurrence with the Board of Officers will privately,
     orally, and informally mention to the offending member what actions need to
     be corrected in order to be in keeping with accepted club norms. It is
     expected that the club member will then modify his behavior accordingly,
-    and the situation is considered resolved. This step will require that at
-    least one club member in good standing have direct knowledge of the
-    infraction, and be willing to so testify.
+    and the situation is considered to be completely resolved. This step will
+    require that at least one club member in good standing have direct knowledge
+    of the infraction, and be willing to so testify.
 2.  For a second time, more serious, willful, or purposeful
     infraction of the above rule, the club *Safety Officer* acting after
     discussions and concurrence with the Board of Officers will in writing
