@@ -213,22 +213,22 @@ maintenance work.
 
 The Board of Officers shall consist of the collective officers of the BSRCC
 described above. In addition to their individual duties, the Board of Officers
-shall also have collective responsibility for the following global items related
-to club operations: (i) all safety at the field (flying and nonflying); (ii)
-establishing and obtaining membership approval of the clubs annual budget
-(usually submitted in January and approved by the membership in February); (iii)
-day to day club maintenance, especially runway condition; (iv) day to day club
-operations (flying and nonflying); (v) planning and execution of all club
-flyins, funflys, and competitions (if any), and sanctioning of same with AMA (if
-required); (vi) long range planning necessary to ensure continuous availability
-of a suitable flying field for the club; and (vii) to consider and take
-appropriate action on any and all matters related to member discipline. The
-Board of Officers may authorize club expenditures for any previously approved
-budget line item (up to the approved amount), and an emergency expenditure up to
-$150 (e.g., for lawn mower repairs, etc.). However, any emergency expenditure
-over this amount must be considered, discussed, voted on, and accepted by
-majority vote of the membership prior to making the expenditure.
-
+shall also have the collective responsibility to collaborate and cooperate with
+each other regarding the following global items related to club operations: (i)
+all safety at the field (flying and nonflying); (ii) establishing and obtaining
+membership approval of the clubs annual budget (usually submitted in January and
+approved by the membership in February); (iii) day to day club maintenance,
+especially runway condition; (iv) day to day club operations (flying and
+nonflying); (v) planning and execution of all club flyins, funflys, and
+competitions (if any), and sanctioning of same with AMA (if required); (vi) long
+range planning necessary to ensure continuous availability of a suitable flying
+field for the club; and (vii) to consider and take appropriate action on any and
+all matters related to member discipline. The Board of Officers may authorize
+club expenditures for any previously approved budget line item, up to the
+approved amount, and any emergency expenditure up to $150 (e.g., lawn mower
+repairs, etc.). However, any emergency expenditure over this amount must be
+proposed, discussed, voted on, and accepted by majority vote of the membership
+prior to making the expenditure.
 
 ## ARTICLE V --- ANNUAL AUDIT {#v}
 
