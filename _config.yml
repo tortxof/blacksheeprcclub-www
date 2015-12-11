@@ -6,6 +6,7 @@ exclude:
 - README.md
 - build
 - upload
+- serve
 - gen_photo_small
 - gen_photo_yaml
 - assets
