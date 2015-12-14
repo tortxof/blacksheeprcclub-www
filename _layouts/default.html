@@ -64,8 +64,19 @@
   });
 
   $(".nav-expand").click(function() {
-    $('nav').slideToggle();
+    $('nav').slideToggle(function() {
+      var nav_toggle = $('.nav-expand > i');
+
+      if ($('nav').is(':visible')) {
+        nav_toggle.addClass('fa-times');
+        nav_toggle.removeClass('fa-bars');
+      } else {
+        nav_toggle.addClass('fa-bars');
+        nav_toggle.removeClass('fa-times');
+      }
+
     });
+  });
   </script>
 
   {% include google-analytics.html %}
