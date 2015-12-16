@@ -355,6 +355,7 @@ members must provide a copy of their current AMA card along with their dues in
 order to continue as an existing club member in good standing. It is suggested
 that existing members renew their membership as follows.
 
+{: type="i"}
 1.  Make a photocopy of your AMA card.
 2.  Write on the front of it your applicable membership class.
 3.  Attach a check for the applicable annual dues amount.
