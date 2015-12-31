@@ -19,9 +19,6 @@
   <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
-  <script src="/js/jquery-1.11.2.min.js"></script>
-  <script src="/js/jquery.colorbox-min.js"></script>
-  <script src="/js/colorbox.js"></script>
 </head>
 <body>
 
@@ -46,38 +43,7 @@
 
   </div><!-- end main -->
 
-  <script>
-  function nav_resize() {
-    if ($(window).width() < 550) {
-      $("nav").hide();
-      $(".nav-expand").show();
-      nav_toggle_change_button();
-    } else {
-      $("nav").show();
-      $(".nav-expand").hide();
-    }
-  }
+  <script src="/js/site.js"></script>
 
-  function nav_toggle_change_button() {
-    var nav_toggle = $('.nav-expand > i');
-    if ($('nav').is(':visible')) {
-      nav_toggle.addClass('fa-times');
-      nav_toggle.removeClass('fa-bars');
-    } else {
-      nav_toggle.addClass('fa-bars');
-      nav_toggle.removeClass('fa-times');
-    }
-  }
-
-  $(window).resize(nav_resize);
-
-  $(".nav-expand").click(function() {
-    $('nav').slideToggle(nav_toggle_change_button);
-  });
-
-  nav_resize();
-  </script>
-
-  {% include google-analytics.html %}
 </body>
 </html>
