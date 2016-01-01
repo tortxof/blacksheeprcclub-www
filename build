@@ -1,2 +1,2 @@
-docker run --rm -u $(id -u):$(id -g) -v $(pwd):/host tortxof/webdev compass compile --force
+# docker run --rm -u $(id -u):$(id -g) -v $(pwd):/host tortxof/webdev compass compile --force
 docker run --rm -u $(id -u):$(id -g) -v $(pwd):/host tortxof/webdev jekyll build
