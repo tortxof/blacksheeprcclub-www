@@ -1,16 +1,16 @@
 function nav_resize() {
   if ($(window).width() < 550) {
     $("nav").hide();
-    $(".nav-expand").show();
+    $("#nav-expand").show();
     nav_toggle_change_button();
   } else {
     $("nav").show();
-    $(".nav-expand").hide();
+    $("#nav-expand").hide();
   }
 }
 
 function nav_toggle_change_button() {
-  var nav_toggle = $('.nav-expand > i');
+  var nav_toggle = $('#nav-expand > i');
   if ($('nav').is(':visible')) {
     nav_toggle.addClass('fa-times');
     nav_toggle.removeClass('fa-bars');
@@ -22,7 +22,7 @@ function nav_toggle_change_button() {
 
 $(window).resize(nav_resize);
 
-$(".nav-expand").click(function() {
+$("#nav-expand").click(function() {
   $('nav').slideToggle(nav_toggle_change_button);
 });
 
