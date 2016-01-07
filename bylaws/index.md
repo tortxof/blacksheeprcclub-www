@@ -88,13 +88,12 @@ satisfied all of the following requirements:
 1.  he/she has expressed an interest in model aviation
 2.  he/she has paid all required annual membership dues
 3.  he/she holds a current AMA membership card
-4.  he/she is also considered to be a person of good, safe, honest, cooperative, and
-    friendly reputation
-    (i.e., has not been previously expelled by this or another similar club for
-    infraction of stated club rules)
+4.  he/she is also considered to be a person of good, safe, honest, cooperative,
+and friendly reputation (i.e., has not been previously expelled by this or
+another similar club for infraction of stated club rules)
 5.  he/she has expressed a willingness to participate, along with other club
-    members, in any general field maintenance activities which may be
-    periodically requested by the Field Marshall (e.g., the annual club work day).
+members, in any general field maintenance activities which may be periodically
+requested by the Field Marshall (e.g., the annual club work day).
 
 BSRCC is an AMA Chartered Club and, thus, current and valid AMA membership is
 required in order to be a BSRCC member. If a member's AMA membership expires,
@@ -229,12 +228,12 @@ maintenance, especially runway condition; (iv) day to day club operations
 and competitions (if any), and sanctioning of same with AMA (if required); (vi)
 long range planning necessary to ensure continuous availability of a suitable
 flying field for the club; and (vii) to consider and take appropriate action on
-any and all matters related to member discipline. The Board of Officers may
-authorize club expenditures for any previously approved budget line item, up to
-the approved amount, and any emergency expenditure up to $150 (e.g., lawn mower
-repairs, etc.). However, any emergency expenditure over this amount must be
-proposed, discussed, voted on, and accepted by majority vote of the membership
-prior to making the expenditure.
+any and all matters related to member discipline. While the Treasurer has
+approval authority for expenditures up to $100 per check, expenditures larger
+than this amount will require approval by the Board of Officers (majority vote
+method). For transparency reasons, any expenditure which requires approval of
+the Board of Officers shall be highlighted, explained, and published in the next
+monthly newsletter.
 
 ## ARTICLE V --- ANNUAL AUDIT {#v}
 
@@ -253,24 +252,23 @@ automatically disbanded following completion of the audit report.
 ## ARTICLE VI --- MEMBERSHIP CLASSES, DUES, AND SPECIAL ASSESSMENTS {#vi}
 
 BSRCC has *open membership* which is generally available to all persons
-interested in model aviation provided they are of good, honest, cooperative, and
-friendly reputation. The fiscal year of BSRCC shall coincide with the calendar
-year, January 1 to December 31.
+interested in model aviation provided they are of good, safe, honest,
+cooperative, courteous, and friendly reputation. The fiscal year of BSRCC shall
+coincide with the calendar year, January 1 to December 31.
 
 BSRCC has several *membership classes* available, and varying *annual dues* are
 associated with each one. These classes and their associated dues are indicated
-in the following table. All membership classes have equal rights with regard to
+in the table below. All membership classes have equal rights with regard to
 flying site access and utilization.
 
-| Membership Class           | Annual Dues                   |
-|----------------------------+-------------------------------|
-| Adult Member               | $75                           |
-| Senior Member              | $45                           |
-| Junior Member              | $45                           |
-| Member of another AMA club | $45                           |
-| Disabled Member            | $45                           |
-| Family Membership          | 10% discount from rates above |
-| Honorary Membership        | $0                            |
+| Membership Class    | Annual Dues |
+|---------------------+-------------|
+| Junior Member       | $25         |
+| Adult Member        | $75         |
+| Disabled Member     | $45         |
+| Honorary Membership | $0          |
+
+### Membership Definitions
 
 Junior Member
 : A member who is less than 22 years of age if enrolled as a full time
@@ -281,46 +279,35 @@ Adult Member
 : A member who is between the ages of 18 and 65, and who
 cannot qualify as a Junior Member per above definition.
 
-Senior Member
-: A member who is 65 years of age or older.
-
 Disabled Member
 : A member of any age who has been diagnosed as "disabled" by a licensed medical
  doctor.
-
-Member of Another AMA Club
-: A full member of another AMA chartered RC club whose field is
-located within a radius of 50 miles of the BSRCC field.
-
-Family Membership
-: Two or more members of any age who are legally related to one
-another.
 
 Honorary Membership
 : An honorary and permanent membership which is conferred in
 recognition of a person's exceptional service to the club.
 
+### Penalty for Late Dues Payment
 
-If an existing member renews in January, February, or March, a "late payment
-penalty" of $0 is added to the annual dues amount shown above. This is a grace
-period granted by the club.
+Membership dues are due and payable on January 1 of the year for which
+membership is being renewed. If an existing member renews "unreasonably late" in
+a given year, a "late payment penalty" of the amount indicated below is added to
+the regular annual dues amount shown above.
 
-If an existing member renews in April, May, or June, a late payment penalty of
-$15 is added to the annual dues amount shown above.
-
-If an existing member renews in July, August, or September, a late payment
-penalty of $30 is added to the annual dues amount shown above.
-
-If an existing member renews in October, November, or December, a late payment
-penalty of $45 is added to the annual dues amount shown above.
+| Renewal in January thru March    | $0 (grace period) |
+| Renewal in April thru June       | $15               |
+| Renewal in July thru September   | $30               |
+| Renewal in October thru December | $45.              |
 
 Annual dues are prorated for new members only, and do not apply to annual
-renewal by existing members. Existing members must pay the entire year's annual
+renewals by existing members. Existing members must pay the entire year's annual
 dues, regardless of the time of the year in which they renew. Any membership
-which is not renewed for a period of 1 year shall be considered cancelled, and
+which is not renewed for a period of 1 year shall be considered canceled, and
 shall be dropped from the membership roster.
 
-For *new members*, annual membership dues are due and payable at the time of
+### Joining Procedure for New Members
+
+For new members, annual membership dues are due and payable at the time of
 joining. For the first year of new membership, dues will be prorated depending
 on the actual month of joining (i.e., depending on how many months are left to
 be "used" in that calendar year). For example, if a new member joins in January
@@ -351,6 +338,8 @@ check for annual dues may be presented by either of the following methods.
 The current Club Treasurer's contact information and mailing address is
 available on the club's web site by clicking on "Officers".
 
+### Renewal Procedure for Existing Members
+
 For *existing members*, annual dues are due and payable on January 1 of the
 calendar year for which their club membership is being renewed, and the club
 encourages early payment of membership dues to the maximum extent feasible.
@@ -367,10 +356,14 @@ that existing members renew their membership as follows.
 3.  Attach a check for the applicable annual dues amount.
 4.  Mail these items to the current club Treasurer.
 
-Any proposed changes to dues amounts shall be first announced to the membership
-in the monthly club newsletter. In a subsequent club meeting, such proposed dues
-changes shall be reviewed, discussed, and decided upon by majority vote of the
-members present at that monthly meeting. If accepted by the membership, dues
+The current Club Treasurer's contact information and mailing address is
+available on the club's web site by clicking on "Officers".
+
+Any proposed changes to dues amounts shall be first proposed and seconded at a
+regular club monthly meeting, and then announced/explained to the membership in
+the next monthly club newsletter. In a subsequent club meeting, such proposed
+dues changes shall be reviewed, discussed, and decided upon by majority vote of
+the members present at that monthly meeting. If accepted by the membership, dues
 changes will then become effective on a date as determined by majority vote of
 the members present at that meeting.
 
@@ -380,7 +373,7 @@ Special assessments, which are intended to address emergency, unusual,
 and/or extraordinary events, may potentially be proposed and accepted by
 the membership from time to time. Such assessments are aimed at taking
 care of necessary club costs which are both unanticipated and outside of
-the normal annual budgeting process. Examples of such events might be the
+the normal club operating process. Examples of such events might be the
 replacement of a stolen lawnmower, having the field rent unexpectedly
 raised, having to replace a field shed damaged by weather, or similar such
 events. If special assessments are accepted by the membership per majority
@@ -432,15 +425,15 @@ the general benefit of all members, and are as follows:
     competitions, etc. if the CD in charge determines it is necessary.
 6.  No alcoholic beverages are allowed on the BSRCC flying site at any time.
 7.  No illegal drugs are allowed on the BSRCC flying site at any time.
-8.  Regarding the issue of flying while taking legal drugs or
-    medicines prescribed by licensed medical providers, the following is
-    offered as general guidance. If the prescribed medication does not result
-    in impaired mental or physical function, then the member may fly. However,
-    if the prescribed medication does result in impaired mental or physical
-    function, then the member shall not fly. In this instance, each member is
-    required to: (a) "self-certify"; and (b) to consult with their personal
-    licensed medical provider if any further guidance is needed to determine
-    the safe course of action.
+8.  Regarding the issue of flying while taking legal drugs or medicines
+    prescribed by licensed medical practitioners, the following is offered as
+    general guidance. If the prescribed medication does not result in impaired
+    mental, visual, or physical function, then the member may fly. However, if
+    the prescribed medication does result in impaired mental, visual, or
+    physical function, then the member shall not fly. In this instance, each
+    member is required to: (a) "self-certify"; and (b) to consult with their
+    personal licensed medical provider if any further guidance is needed to
+    determine the safe course of action.
 9.  A member may fly only if: (a) they possess a current and valid AMA card; and
     (b) their BSRCC membership is current (i.e., not delinquent).
 10. A guest or a perspective member may fly only if:
@@ -484,15 +477,15 @@ the general benefit of all members, and are as follows:
     when any other flight maneuver is being performed that is in close
     proximity to the runway.
 16. As a standing rule, all pilots shall always be clear of the
-    runway during takeoffs, landings, low passes, touch and goes, or any other
-    maneuver which requires flying aircraft to be in close proximity to the
-    runway. If a pilot must approach the runway to retrieve an engine out
-    model, he shall first check to see if this is safe (i.e., no other flying
-    models in close proximity to runway). If it is, then he shall call out "on
-    the runway" when approaching the runway, and then "clear of runway" when
-    departing the runway after retrieving the model. This will enable other
-    pilots to safely avoid the runway during the period that the model is being
-    retrieved.
+    runway when other pilots are performing takeoffs, landings, low passes,
+    touch and goes, or any other maneuver which results in flying aircraft being
+    in close proximity to the runway. If a pilot must approach the runway to
+    retrieve an engine out model, he shall first check to see if this is safe
+    (i.e., no other flying models in close proximity to runway). If it is, then
+    he shall call out "on the runway" when approaching the runway, and then
+    "clear of runway" when departing the runway after retrieving the model.
+    This will enable other pilots to safely avoid the runway during the period
+    that the model is being retrieved.
 17. All engine out (dead stick) landings shall have priority
     to the runway. In this instance, it is considered courteous to call out
     "dead stick" on the landing approach so that other pilots may immediately
@@ -616,13 +609,13 @@ February meeting). All records are the property of the BSRCC.
 
 Special committees may be appointed by the President, when and if needed, at a
 regular Club meeting. These committees shall operate under a specific charter
-and for a specific time period defined by the President, and shall be disbanded
-when their duties are completed.
+and for a specific time period defined by the President, and shall be
+automatically disbanded when their duties are completed.
 
 ## ARTICLE XIII --- NOMINATION AND ELECTION OF OFFICERS {#xiii}
 
 Nomination and election of club officers shall be carried out annually as
-follows:
+follows.
 
 {: type="i"}
 1.  Nominations shall be made from the floor at the
@@ -651,14 +644,14 @@ follows:
 
 Amendments to the bylaws may be proposed at any general monthly meeting of the
 Club. Any amendment proposed and seconded shall then be published and
-highlighted in the next meeting newsletter, and shall subsequently be voted on
-at the next regular monthly meeting. An Amendment shall be considered approved
-if accepted by majority vote of the members present at that meeting. Similarly,
-the Amendment shall be considered disapproved if rejected by majority vote of
-the members present at that meeting. If the bylaws are amended, updated copies
-shall be promptly sent to all club members (by electronic means) and the AMA.
-The updated bylaws will also be highlighted in the next monthly club newsletter,
-and also placed on the club's website.
+highlighted in the next meeting newsletter, and shall subsequently be discussed
+and voted on at the next regular monthly meeting. An Amendment shall be
+considered approved if accepted by majority vote of the members present at that
+meeting. Similarly, the Amendment shall be considered disapproved if rejected by
+majority vote of the members present at that meeting. If the bylaws are amended,
+updated copies shall be promptly sent to all club members (by electronic means)
+and the AMA. The updated bylaws will also be highlighted in the next monthly
+club newsletter, and also placed on the club's website.
 
 ## ARTICLE XV --- PROCEDURE FOR VIOLATION OF CLUB RULES {#xv}
 
@@ -676,46 +669,46 @@ other members from engaging in and/or enjoying the hobby of model aviation.
 This Article XV, then, provides a mechanism to enforce the above club rule,
 should it ever be required. This mechanism of enforcement will typically follow
 one or all of the following three steps, which will be carried out as necessary
-for reasons of safety or club stability:
+for reasons of safety or club stability.
 
-1.  For a first time, minor, accidental, or inadvertent
-    infraction of the above rule, the club *Safety Officer* acting after
-    discussions and concurrence with the Board of Officers will privately,
-    orally, and informally mention to the offending member what actions need to
-    be corrected in order to be in keeping with accepted club norms. It is
-    expected that the club member will then modify his behavior accordingly,
-    and the situation is considered to be completely resolved. This step will
-    require that at least one club member in good standing have direct knowledge
-    of the infraction, and be willing to so testify.
-2.  For a second time, more serious, willful, or purposeful
-    infraction of the above rule, the club *Safety Officer* acting after
-    discussions and concurrence with the Board of Officers will in writing
-    notify the offending member what actions need to be corrected in order to
-    be in keeping with accepted club norms, and that failure to correct such
-    actions in future will lead to his expulsion from the club. It is expected
-    that the club member will then modify his behavior accordingly. This step
-    will require that at least two club members in good standing have direct
-    knowledge of the infraction, and be willing to so testify.
-3.  For a third time, highly serious, or blatantly defiant
-    infraction of the above rule, the club *President* acting after discussions
-    and concurrence with the Board of Officers will in writing notify the
-    offending member that he is to appear before the Board of Officers to
-    defend and/or explain his actions for not following the club rules. This
-    step will require that at least three club members in good standing have
-    direct knowledge of the infraction, and be willing to so testify and
-    discuss with the Board of Officers. Following discussion from the club
-    members in good standing who have direct knowledge of the infraction, and
-    defense/explanation by the offending member of his actions, the Board of
-    Officers shall decide by majority vote whether: (i) the offending member is
-    to be expelled from the club; (ii) the offending member may remain a club
-    member with no constraints/restrictions; or (iii) the offending member may
-    remain a club member but with certain constraints/restrictions as may be
-    prescribed by the Board of Officers. Whatever decision is reached by the
-    Board of Officers, such decision is final and shall not be subject to
-    question, negotiation, or further appeal. The decision by the Board of
-    Officers shall be clearly communicated in writing to the offending member.
-    If a member is expelled for serious or repeated infraction of club rules,
-    no refund of "unused dues" shall be made.
+For a first time, minor, accidental, or inadvertent infraction of the above
+rule, the club *Safety Officer* acting after discussions and concurrence with
+the Board of Officers will privately, orally, and informally mention to the
+offending member what actions need to be corrected in order to be in keeping
+with accepted club norms. It is expected that the club member will then modify
+his behavior accordingly, and the situation is considered to be completely
+resolved with no further actions required. This step will require that at least
+one club member in good standing have direct knowledge of the infraction, and be
+willing to so testify.
+
+For a second time, more serious, willful, or purposeful infraction of the above
+rule, the club *Safety Officer* acting after discussions and concurrence with
+the Board of Officers will in writing notify the offending member what actions
+need to be corrected in order to be in keeping with accepted club norms, and
+that failure to correct such actions in future will lead to his expulsion from
+the club. It is expected that the club member will then modify his behavior
+accordingly. This step will require that at least two club members in good
+standing have direct knowledge of the infraction, and be willing to so testify.
+
+For a third time, highly serious, or blatantly defiant infraction of the above
+rule, the club *President* acting after discussions and concurrence with the
+Board of Officers will in writing notify the offending member that he is to
+appear before the Board of Officers to defend and/or explain his actions for not
+following the club rules. This step will require that at least three club
+members in good standing have direct knowledge of the infraction, and be willing
+to so testify and discuss with the Board of Officers. Following discussion from
+the club members in good standing who have direct knowledge of the infraction,
+and defense/explanation by the offending member of his actions, the Board of
+Officers shall decide by majority vote whether: (i) the offending member is to
+be expelled from the club; (ii) the offending member may remain a club member
+with no constraints/restrictions; or (iii) the offending member may remain a
+club member but with certain constraints/restrictions as may be prescribed by
+the Board of Officers. Whatever decision is reached by the Board of Officers,
+such decision is final and shall not be subject to question, negotiation, or
+further appeal. The decision by the Board of Officers shall be clearly
+communicated in writing to the offending member. If a member is expelled for
+serious or repeated infraction of club rules, no refund of "unused dues" shall
+be made.
 
 ## ARTICLE XVI --- RESIGNATION OF CLUB MEMBERSHIP {#xvi}
 
