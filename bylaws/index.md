@@ -88,7 +88,7 @@ satisfied all of the following requirements:
 1.  he/she has expressed an interest in model aviation
 2.  he/she has paid all required annual membership dues
 3.  he/she holds a current AMA membership card
-4.  he/she is also considered to be a person of good, honest, cooperative, and
+4.  he/she is also considered to be a person of good, safe, honest, cooperative, and
     friendly reputation
     (i.e., has not been previously expelled by this or another similar club for
     infraction of stated club rules)
@@ -102,11 +102,13 @@ then the BSRCC membership automatically expires as well. In this instance, BSRCC
 membership can only be reinstated after AMA membership is reinstated. Individual
 club members are kindly requested to conduct all their flying activities in a
 safe manner (i.e., in accordance with all BSRCC and AMA safety rules), and to
-project a friendly, cooperative, and courteous attitude to adjoining land
-owners, the public at large, visitors to the field, and to all other club
+project an honest, friendly, cooperative, and courteous attitude to adjoining
+land owners, the public at large, visitors to the field, and to all other club
 members.
 
 "Membership" shall mean the collective members of the BSRCC.
+
+"Board of Officers" shall mean the collective officers of the BSRCC.
 
 "He" shall mean in the remainder of these Bylaws the more correct term "he/she".
 This is in recognition of the fact that those interested in model aviation may
@@ -161,11 +163,15 @@ The treasurer shall be responsible to the President, keep an accurate record of
 all financial affairs of the Club, give a report at each meeting of the current
 financial status of the club, collect and deposit all Club dues, act as liaison
 between the Club and the Club's banking institution, keep an up to date record
-of the clubs membership, and notify the club Secretary of membership
-status (i.e., those members who are paid up, delinquent, have dropped out,
-etc.). He may also act as an authorized signer (if necessary) of checks issued
-by the Club. If the Treasurer is unable to attend a club meeting for any reason,
-he shall appoint a Deputy (usually the Vice President) to act in his stead.
+of the clubs membership, and notify the club Secretary of membership status
+(i.e., those members who are paid up, delinquent, have dropped out, etc.). He is
+the primary party to act as an authorized signer of checks issued by the Club,
+and has approval authority for expenditures up to $100 per check. In the event
+the Treasurer is unable to fulfill his duties for any reason (e.g.,
+incapacitation, illness, out of town, etc.), the Vice President or President may
+act in his stead with the same expenditure approval authority. If the Treasurer
+is unable to attend a club meeting for any reason, he shall appoint a Deputy
+(usually the Vice President) to act in his stead.
 
 ### Secretary / Newsletter Editor
 
@@ -199,15 +205,16 @@ all field safety equipment (e.g., spectator safety fences, impound area, safety
 bulletin board, plane holding stations, plane assembly benches, pilot standing
 areas, pilot safety fences, etc.) is maintained in such manner as to meet all
 safety standards of both the AMA and the BSRCC. Additionally, he shall ensure
-that all field maintenance equipment (i.e., lawn mowers, weed eaters, rakes,
-shovels, etc.), and the field itself, are maintained in an acceptable condition
-to accommodate the usual model flying. He shall report on the general field
-status at each meeting, noting any deficiencies which are found, and shall
-organize assistance from any and all other BSRCC members as may be required in
-order to maintain the desired level of field maintenance for supporting an
-active flying club. Note, it is expected that all members will respond
-positively to any request by the Field Marshall for any assistance with field
-maintenance work.
+that all field maintenance equipment (i.e., lawn mowers, weed eaters, etc.), and
+the field itself, are maintained in an acceptable condition to accommodate the
+usual model flying. He shall report on the general field status at each meeting,
+noting any deficiencies which are found, and shall organize assistance from any
+and all other BSRCC members as may be required in order to maintain the desired
+level of field maintenance for supporting an active flying club. It is expected
+that all members will respond positively to any request by the Field Marshall
+for any assistance with field maintenance work. If the Field Marshall cannot
+attend a club meeting for any reason, he shall appoint a Deputy (usually the
+Safety Officer) to act in his stead.
 
 ### The Board of Officers
 
@@ -216,16 +223,15 @@ described above. In addition to their individual duties, the Board of Officers
 shall also have the collective responsibility to collaborate and cooperate with
 each other regarding the following global items related to club operations: (i)
 all safety at the field (flying and nonflying); (ii) establishing and obtaining
-membership approval of the clubs annual budget (usually submitted in January and
-approved by the membership in February); (iii) day to day club maintenance,
-especially runway condition; (iv) day to day club operations (flying and
-nonflying); (v) planning and execution of all club flyins, funflys, and
-competitions (if any), and sanctioning of same with AMA (if required); (vi) long
-range planning necessary to ensure continuous availability of a suitable flying
-field for the club; and (vii) to consider and take appropriate action on any and
-all matters related to member discipline. The Board of Officers may authorize
-club expenditures for any previously approved budget line item, up to the
-approved amount, and any emergency expenditure up to $150 (e.g., lawn mower
+membership approval of the clubs annual budget (if any); (iii) day to day club
+maintenance, especially runway condition; (iv) day to day club operations
+(flying and nonflying); (v) planning and execution of all club flyins, funflys,
+and competitions (if any), and sanctioning of same with AMA (if required); (vi)
+long range planning necessary to ensure continuous availability of a suitable
+flying field for the club; and (vii) to consider and take appropriate action on
+any and all matters related to member discipline. The Board of Officers may
+authorize club expenditures for any previously approved budget line item, up to
+the approved amount, and any emergency expenditure up to $150 (e.g., lawn mower
 repairs, etc.). However, any emergency expenditure over this amount must be
 proposed, discussed, voted on, and accepted by majority vote of the membership
 prior to making the expenditure.
