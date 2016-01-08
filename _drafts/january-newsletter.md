@@ -13,6 +13,7 @@ A date of May 28 was accepted for an electric fly-in.
 Dick Russell will CD the event, and Tony Denton will be the main organizer.
 
 There was discussion of the new FAA UAS registration requirement.
+See [additional notes](#faa-notes) below.
 
 Dick Russell gave the Treasurer's report.
 The annual audit of the club's financial records was completed by a three member
@@ -37,7 +38,7 @@ There were no safety issues to report.
 The grass runway will need to be rolled this spring.
 The condition of the gravel drive will be discussed at a future meeting.
 
-## Additional notes on FAA registration.
+## Additional notes on FAA registration. {#faa-notes}
 
 AMA has recently sent out information to all of it's members suggesting that
 they hold on registering at the present time to give AMA more time to discuss
