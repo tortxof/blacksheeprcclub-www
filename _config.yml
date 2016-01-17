@@ -4,6 +4,8 @@ url: http://www.bsrcc.com
 permalink: /news/:year/:month/:day/:title/
 exclude:
 - README.md
+- bower.json
+- bower_components
 - build
 - upload
 - serve
