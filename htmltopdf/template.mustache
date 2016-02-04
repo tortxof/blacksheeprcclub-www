@@ -10,7 +10,7 @@
   <div class="container">
     <div class="date"><img src="icon.svg" id="logo" alt="">{date}</div>
     <div class="header">
-      Black Sheep News<br />
+      Black Sheep News<br>
       <span class="subtitle">Black Sheep RC Club - AMA Charter #2068</span>
     </div>
     <div class="left">
@@ -21,9 +21,10 @@
       <h2>Officers</h2>
       {{#officers}}
       <p>
-        {{rank}}:<br />
-        {{name}}<br />
-        {{phone}}
+        {{rank}}:<br>
+        {{name}}<br>
+        {{phone}}<br>
+        <a href="mailto:{{email}}">{{email}}</a>
       </p>
       {{/officers}}
     </div>

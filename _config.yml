@@ -4,14 +4,15 @@ url: http://www.bsrcc.com
 permalink: /news/:year/:month/:day/:title/
 exclude:
 - README.md
+- bower.json
+- bower_components
 - build
 - upload
+- serve
 - gen_photo_small
 - gen_photo_yaml
 - assets
-- sass
 - htmltopdf
-- config.rb
 - Procfile
 - rmfm
 - old

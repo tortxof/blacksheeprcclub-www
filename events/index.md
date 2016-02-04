@@ -2,16 +2,12 @@
 layout: default
 title: Events
 ---
-Black Sheep RC Club will be holding a fun fly on Saturday, September 26, 2015.
-All aircraft types welcome.
+Black Sheep RC Club will be holding an electric fly-in on Saturday, May 28,
+2016. All electric powered aircraft are welcome.
 
-Pilot fee is $15 and includes lunch. Spectators get in free, with the option of
-buying lunch for $5. The event will be held from 9AM to 5PM. Lunch includes
-hamburgers, chips, soda, and brownies.
+Pilot fee is $15 and includes lunch.
 
-Please contact an [officer](/officers) if you have any questions.
-
-Download a [PDF Flyer](/events/bsrcc-fall-fly-in-2015.pdf).
+Please contact an [officer](/officers/) if you have any questions.
 
 ## Past Events
 

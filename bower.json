@@ -1,0 +1,27 @@
+{
+  "name": "blacksheeprcclub-www",
+  "authors": [
+    "Daniel Jones <tortxof@gmail.com>"
+  ],
+  "description": "Official website of the Black Sheep RC Club, located in Pendleton, SC.",
+  "main": "",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "https://www.bsrcc.com/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "jquery-colorbox": "~1.6.3",
+    "compass-breakpoint": "breakpoint-sass#~2.6.1",
+    "susy": "~2.2.11"
+  }
+}

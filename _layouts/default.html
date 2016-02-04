@@ -19,9 +19,6 @@
   <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
-  <script src="/js/jquery-1.11.2.min.js"></script>
-  <script src="/js/jquery.colorbox-min.js"></script>
-  <script src="/js/colorbox.js"></script>
 </head>
 <body>
 
@@ -29,7 +26,7 @@
 
     <div class="header"><div class="header-img"><p itemprop="name">{{ site.name }}</p></div></div>
 
-    <div class="nav-expand"><i class="fa fa-bars fa-2x"></i></div>
+    <button id="nav-expand"><i class="fa fa-bars fa-2x"></i></button>
 
     <nav id="nav" role="navigation">
       {% include nav.html %}
@@ -46,28 +43,7 @@
 
   </div><!-- end main -->
 
-  <script>
-  if ($(window).width() < 550 ) {
-    $("nav").hide();
-  } else {
-    $(".nav-expand").hide();
-  }
+  <script src="/js/site.js"></script>
 
-  $(window).resize(function() {
-    if ($(window).width() < 550) {
-      $("nav").hide();
-      $(".nav-expand").show();
-    } else {
-      $("nav").show();
-      $(".nav-expand").hide();
-    }
-  });
-
-  $(".nav-expand").click(function() {
-    $('nav').slideToggle();
-    });
-  </script>
-
-  {% include google-analytics.html %}
 </body>
 </html>

@@ -1,4 +1,5 @@
-@import "compass/css3";
+---
+---
 @import "susy";
 @import "breakpoint";
 
@@ -12,17 +13,17 @@ $nav-light: #8af;
 $nav-border: #333;
 $header-color: #368;
 
-$header-x: image-width('header.png');
-$header-y: image-height('header.png');
+$header-x: 241px;
+$header-y: 132px;
 
 $small-shadow: 0 1px 4px -1px black;
 
 /* Reset */
 
-@import 'compass/reset/utilities';
-
 * {
-  @include reset-box-model;
+  margin: 0;
+  padding: 0;
+  border: 0;
 }
 
 img {
@@ -50,7 +51,7 @@ body {
 }
 
 a {
-  color: adjust-saturation($nav-dark, 50%);
+  color: saturate($nav-dark, 50%);
 }
 
 dt {
@@ -63,13 +64,13 @@ dt {
 
 .header {
   background-color:$header-color;
-  @include background-image(linear-gradient(tint($header-color, 15%), shade($header-color, 15%)));
-  @include box-shadow(black 0 -8px 8px 8px);
+  background-image: linear-gradient(mix(#fff, $header-color, 15%), mix(#000, $header-color, 15%));
+  box-shadow: black 0 -8px 8px 8px;
 }
 
 .header p {
   color:#fff;
-  @include text-shadow(rgba(black, 0.6) 0 0 5px);
+  text-shadow: rgba(black, 0.6) 0 0 5px;
 }
 
 nav {
@@ -79,19 +80,19 @@ nav {
 nav a {
   border-color: $nav-border;
   border-style: solid;
-  @include box-shadow(white 0 0 1px inset, $small-shadow);
+  box-shadow: white 0 0 1px inset, $small-shadow;
 }
 
 nav a:link, nav a:visited {
   color: #fff;
   background-color: $nav-dark;
-  @include background-image(linear-gradient(tint($nav-dark, 15%), $nav-dark));
+  background-image: linear-gradient(mix(#fff, $nav-dark, 15%), $nav-dark);
 }
 
 nav a:hover, nav a:active, nav a.nav-active {
   color: #000;
   background-color: $nav-light;
-  @include background-image(linear-gradient(tint($nav-light, 50%), $nav-light));
+  background-image: linear-gradient(mix(#fff, $nav-light, 50%), $nav-light);
 }
 
 #footer {
@@ -99,7 +100,7 @@ nav a:hover, nav a:active, nav a.nav-active {
   text-align: center;
   color: #666;
   background-color: #ccc;
-  @include box-shadow(rgba(black, 0.8) 0 5px 5px -5px inset);
+  box-shadow: rgba(black, 0.8) 0 5px 5px -5px inset;
 }
 
 #footer a {
@@ -141,9 +142,9 @@ td {
 .announcements {
   color: white;
   background-color: $nav-dark;
-  @include border-radius(8px);
-  @include box-shadow($small-shadow);
-  @include background-image(linear-gradient(tint($nav-dark, 15%), $nav-dark));
+  border-radius: 8px;
+  box-shadow: $small-shadow;
+  background-image: linear-gradient(mix(#fff, $nav-dark, 15%), $nav-dark);
 }
 
 .announcements a {
@@ -154,11 +155,15 @@ td {
   margin: .5em 0;
 }
 
-.nav-expand {
+#nav-expand {
   position: absolute;
   right: 10px;
   top: ($header-y / 2) + 10px;
+  padding: 0.5em;
   color: #999;
+  background-color: #fff;
+  border: 1px solid #999;
+  border-radius: 4px;
 }
 
 /* Reusable Elements */
@@ -180,8 +185,8 @@ td {
 .thumbnail img {
   display: block;
   border: 3px solid white;
-  @include border-radius(7px);
-  @include box-shadow($small-shadow);
+  border-radius: 7px;
+  box-shadow: $small-shadow;
 }
 
 .photo-title {
@@ -198,7 +203,7 @@ td {
 .video-thumb {
   float: left;
   margin: 3px 1em 5px 3px;
-  @include box-shadow($small-shadow);
+  box-shadow: $small-shadow;
 }
 
 /* Structure */
@@ -217,8 +222,8 @@ td {
 
 .feature img {
   width: 100%;
-  @include border-radius(8px);
-  @include box-shadow($small-shadow);
+  border-radius: 8px;
+  box-shadow: $small-shadow;
 }
 
 .feature p {
@@ -284,7 +289,7 @@ nav a {
   margin: 1em auto;
   width: 280px;
   height: 280px;
-  @include box-shadow($small-shadow);
+  box-shadow: $small-shadow;
 }
 
 /* Breakpoints */
@@ -334,7 +339,7 @@ nav a {
 
   #main {
     @include container(80%);
-    @include box-shadow(rgba(black, 0.5) 0 0 30px);
+    box-shadow: rgba(black, 0.5) 0 0 30px;
   }
 
   .header-img {
