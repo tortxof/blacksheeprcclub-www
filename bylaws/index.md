@@ -6,133 +6,125 @@ These Bylaws set forth the basic safety rules and operational procedures of the
 Black Sheep RC Club, Inc. They have been established to ensure that the
 Membership as a whole will have an efficient management structure which will
 enable all members to safely engage in and enjoy the hobby of model aviation.
-All Members are sincerely requested to support the spirit and the letter of
-these Bylaws.
+All Members are kindly requested to support the spirit and the letter of these
+Bylaws.
 
 ## Contents
 
-[ARTICLE I --- NAME, STREET ADDRESS, AND FIELD LOCATION](#i)
+[ARTICLE I --- NAME, ADDRESS, AND LOCATION](#i)
 
 [ARTICLE II --- PURPOSE OF CLUB](#ii)
 
 [ARTICLE III --- DEFINITIONS](#iii)
 
-[ARTICLE IV --- OFFICERS AND ASSOCIATED DUTIES](#iv)
+[ARTICLE IV --- OFFICER POSITIONS AND DUTIES](#iv)
 
-[ARTICLE V --- ANNUAL AUDIT](#v)
+[ARTICLE V --- ANNUAL ELECTION OF OFFICERS](#v)
 
-[ARTICLE VI --- MEMBERSHIP CLASSES, DUES, AND SPECIAL ASSESSMENTS](#vi)
+[ARTICLE VI --- CLUB MEETINGS](#vi)
 
-[ARTICLE VII --- VOTING RIGHTS](#vii)
+[ARTICLE VII --- RECORD KEEPING](#vii)
 
-[ARTICLE VIII --- GENERAL FIELD SAFETY RULES](#viii)
+[ARTICLE VIII --- AUDIT AND SPECIAL COMMITTEES](#viii)
 
-[ARTICLE IX --- RECOMMENDED SOLO PILOT QUALIFICATION PROCEDURE](#ix)
+[ARTICLE IX --- GENERAL CLUB RULES](#ix)
 
-[ARTICLE X --- CLUB MEETINGS](#x)
+[ARTICLE X --- PROCEDURE FOR VIOLATION OF CLUB RULES](#x)
 
-[ARTICLE XI --- RECORD KEEPING](#xi)
+[ARTICLE XI --- DISSOLUTION OF CLUB](#xi)
 
-[ARTICLE XII --- SPECIAL COMMITTEES](#xii)
+[ARTICLE XII --- MEMBERSHIP APPLICATIONS, RENEWALS, DUES, AND ASSESSMENTS](#xii)
 
-[ARTICLE XIII --- NOMINATION AND ELECTION OF OFFICERS](#xiii)
+[ARTICLE XIII --- MEMBER VOTING RIGHTS](#xiii)
 
-[ARTICLE XIV --- AMENDMENT OF BYLAWS](#xiv)
+[ARTICLE XIV --- RECOMMENDED SOLO PILOT QUALIFICATION PROCEDURE](#xiv)
 
-[ARTICLE XV --- PROCEDURE FOR VIOLATION OF CLUB RULES](#xv)
+[ARTICLE XV --- RESIGNATION OF CLUB MEMBERSHIP](#xv)
 
-[ARTICLE XVI --- RESIGNATION OF CLUB MEMBERSHIP](#xvi)
+[ARTICLE XVI --- AMENDMENT OF BYLAWS](#xvi)
 
-[ARTICLE XVII --- DISSOLUTION OF CLUB](#xvii)
+[ARTICLE XVII --- ITEMS NOT COVERED ABOVE](#xvii)
 
 [ARTICLE XVIII --- FLYING SITE LAND OWNERS](#xviii)
 
-## ARTICLE I --- NAME, STREET ADDRESS, AND FIELD LOCATION {#i}
+## ARTICLE I --- NAME, ADDRESS, AND LOCATION {#i}
 
 ### Name
 
-BLACK SHEEP RADIO CONTROL CLUB (BSRCC), INC.  
-AMA Charter #2068
+The name of this organization shall be BLACK SHEEP RADIO CONTROL CLUB (BSRCC),
+Inc. BSRCC is an AMA chartered club, charter #2068.
 
-### Street Address
+### Address
+
+The street address of BSRCC is:
 
 802 Lockaby Road  
 Pendleton, SC 29670
 
-### Field Location
+### Location
 
-Approx. Latitude 34.6809 degrees North  
-Approx. Longitude 82.6112 degrees West
-
-
+The geographical location for BSRCC is latitude 34.6809 degrees north by
+longitude 82.6112 degrees west.
 
 ## ARTICLE II --- PURPOSE OF CLUB {#ii}
 
 The purpose of the BSRCC shall be to provide the physical facilities, safety
 rules, operational procedures, and general management structure to enable the
-Membership to safely engage in and enjoy the hobby of Model Aviation.
-
+membership to safely engage in and enjoy the hobby of model aviation.
 
 ## ARTICLE III --- DEFINITIONS {#iii}
 
-"Black Sheep Radio Control Club, Inc." shall mean the nonprofit model flying
-club organized and incorporated in the state of South Carolina, USA. Street
-address and field location are given above.
+_Black Sheep Radio Control Club, Inc._ shall mean the nonprofit model flying club
+organized and incorporated in the state of South Carolina, USA, at the street
+address and geographical location given above.
 
-"BSRCC" shall mean the Black Sheep Radio Control Club, Inc.
+_BSRCC_ shall mean the Black Sheep Radio Control Club, Inc.
 
-"Member" shall mean any person who belongs to the BSRCC by virtue of having
-satisfied all of the following requirements:
+_Member_ shall mean any person who belongs to the BSRCC by virtue of having
+satisfied all of the following requirements: (i) he/she has expressed an
+interest in model aviation, (ii) he/she has paid all required annual membership
+dues, (iii) he/she holds a current and valid AMA membership card, (iv) he/she is
+also considered to be a person of good, safe, honest, cooperative, and friendly
+reputation (i.e., has not been previously expelled by this or another similar
+club for infraction of stated club rules), and (v) he/she has expressed a
+willingness to participate, along with other club members, in any general field
+maintenance activities which may be periodically requested by the Field Marshall
+(e.g., the annual club work day).
 
-{: type="i"}
-1.  he/she has expressed an interest in model aviation
-2.  he/she has paid all required annual membership dues
-3.  he/she holds a current AMA membership card
-4.  he/she is also considered to be a person of good, safe, honest, cooperative,
-and friendly reputation (i.e., has not been previously expelled by this or
-another similar club for infraction of stated club rules)
-5.  he/she has expressed a willingness to participate, along with other club
-members, in any general field maintenance activities which may be periodically
-requested by the Field Marshall (e.g., the annual club work day).
+_Member in Good Standing_ shall mean a BSRCC club member who is current in the
+payment of all club dues, and who is also not under disciplinary action for
+violation of any club rule. See [Article IX](#ix) for club rules.
 
-BSRCC is an AMA Chartered Club and, thus, current and valid AMA membership is
-required in order to be a BSRCC member. If a member's AMA membership expires,
-then the BSRCC membership automatically expires as well. In this instance, BSRCC
-membership can only be reinstated after AMA membership is reinstated. Individual
-club members are kindly requested to conduct all their flying activities in a
-safe manner (i.e., in accordance with all BSRCC and AMA safety rules), and to
-project an honest, friendly, cooperative, and courteous attitude to adjoining
-land owners, the public at large, visitors to the field, and to all other club
-members.
+_AMA_ shall mean the Academy of Model Aeronautics, 5161 E. Memorial Dr., Muncie,
+IN 47302. Tel. 800-435-9262.
+[www.modelaircraft.org](http://www.modelaircraft.org/).
 
-"Membership" shall mean the collective members of the BSRCC.
+_AMA Chartered Club_ in this instance shall refer to the fact that BSRCC is an
+AMA Chartered Club. Therefore, current and valid AMA membership is required in
+order to be a BSRCC member. If a member's AMA membership expires, then the BSRCC
+membership automatically expires as well. In this instance, BSRCC membership can
+only be reinstated after AMA membership is reinstated.
 
-"Board of Officers" shall mean the collective officers of the BSRCC.
+_Membership_ shall mean the collective members of the BSRCC.
 
-"He" shall mean in the remainder of these Bylaws the more correct term "he/she".
+_Board of Officers_ shall mean the collective officers of the BSRCC.
+
+_He_ shall mean in the remainder of these Bylaws the more correct term "he/she".
 This is in recognition of the fact that those interested in model aviation may
 be either male or female, and both are equally welcomed by the BSRCC.
 
-"Majority Vote" shall mean the numerical majority of all members present at a
-regularly scheduled monthly meeting.
+_Majority Vote_ shall mean the numerical majority of all members present at a
+regularly scheduled monthly meeting or special called meeting.
 
+## ARTICLE IV --- OFFICER POSITIONS AND DUTIES {#iv}
 
-## ARTICLE IV --- OFFICERS AND ASSOCIATED DUTIES {#iv}
-
-Officer nominations are made at the October club meeting, notification to the
-membership of those nominated for each officer position is made in the October
-newsletter, and then elections are held at the November club meeting.
-The term "Officer" shall mean a club member who is nominated and elected for one
-(and only one) of the officer positions described below, by majority vote of the
-club membership that is present at the November club meeting. Officers are
-elected for a one year time period, and shall serve from January 1 thru December
-31 of the forthcoming year. The officer positions of BSRCC, and associated
-primary duties, are described below.
+The officer positions of BSRCC, and associated primary duties, are described
+below.
 
 ### President
 
-The president shall preside at all club meetings, act as a spokesman for the
-club, coordinate the duties of the other Club Officers, appoint special
+The president shall preside at all club meetings, act as a spokesman
+for the club, coordinate the duties of the other Club Officers, appoint special
 temporary committees (including the audit committee) when and if they are
 required, and act as an authorized signer (if necessary) of checks issued by the
 Club. The president shall conduct his actions for the club in a democratic
@@ -158,25 +150,27 @@ is unable to attend a club meeting for any reason, he shall appoint a Deputy
 
 ### Treasurer
 
-The treasurer shall be responsible to the President, keep an accurate record of
-all financial affairs of the Club, give a report at each meeting of the current
-financial status of the club, collect and deposit all Club dues, act as liaison
-between the Club and the Club's banking institution, keep an up to date record
-of the clubs membership, and notify the club Secretary of membership status
-(i.e., those members who are paid up, delinquent, have dropped out, etc.). He is
-the primary party to act as an authorized signer of checks issued by the Club,
-and has approval authority for expenditures up to $100 per check. In the event
-the Treasurer is unable to fulfill his duties for any reason (e.g.,
+The treasurer shall be responsible to the President, keep an accurate written
+record of all financial affairs of the club, give a report at each meeting of
+the current financial status of the club, collect and deposit all club dues,
+frequently analyze the clubs long term financial situation and make
+recommendations as how best to maintain solvency, act as liaison between the
+club and the club's banking institution, keep an up to date record of the clubs
+membership, and notify the club Secretary of membership status (e.g., those
+members who are current on dues, delinquent on dues, AMA compliant, have
+discontinued club membership, etc.). Additionally, he is the primary party
+designated to act as an authorized signer of checks issued by the club. In the
+event the Treasurer is unable to fulfill his duties for any reason (e.g.,
 incapacitation, illness, out of town, etc.), the Vice President or President may
-act in his stead with the same expenditure approval authority. If the Treasurer
-is unable to attend a club meeting for any reason, he shall appoint a Deputy
+act in his stead with the same authority to sign checks. If the Treasurer is
+unable to attend a club meeting for any reason, he shall appoint a Deputy
 (usually the Vice President) to act in his stead.
 
 ### Secretary / Newsletter Editor
 
 The Secretary shall be responsible to the President, give a report at each
 meeting of the prior meeting minutes (noting any changes or corrections which
-may be required), take accurate minutes of the ongoing Club meeting, and publish
+may be required), take accurate minutes of the ongoing club meeting, and publish
 new minutes and the monthly club newsletter in a timely fashion. A copy of each
 month's club minutes and newsletter shall be sent timely to each BSRCC member by
 one of the following methods: (i) email (preferred method); or (ii) paper copy
@@ -188,14 +182,14 @@ Secretary cannot attend a club meeting for any reason, he shall appoint a Deputy
 
 The Safety Officer shall be responsible to the President, ensure that all model
 flying is conducted in a safe manner (i.e., in accordance with all AMA safety
-rules and Club safety rules), and shall give a report on the clubs general
+rules and club safety rules), and shall give a report on the clubs general
 safety status at each meeting. Additionally, he shall be the first point of
 contact with any member(s) who might fly in an unsafe manner, in hopes that
 voluntary compliance with all safety rules can then be achieved. If not, he
-shall report such incidents to the Board of Officers for further consideration
-and appropriate action. If the Safety Officer cannot attend a club meeting for
-any reason, he shall appoint a Deputy (usually the Field Marshall) to act in his
-stead.
+shall report such incidents to the Board of Officers for further discussion and
+consideration, and appropriate action as may be necessary. If the Safety Officer
+cannot attend a club meeting for any reason, he shall appoint a Deputy (usually
+the Field Marshall) to act in his stead.
 
 ### Field Marshall
 
@@ -213,485 +207,246 @@ level of field maintenance for supporting an active flying club. It is expected
 that all members will respond positively to any request by the Field Marshall
 for any assistance with field maintenance work. If the Field Marshall cannot
 attend a club meeting for any reason, he shall appoint a Deputy (usually the
-Safety Officer) to act in his stead.
+Safety Officer) to act in his stead
 
-### The Board of Officers
+### Board of Officers
 
 The Board of Officers shall consist of the collective officers of the BSRCC
 described above. In addition to their individual duties, the Board of Officers
 shall also have the collective responsibility to collaborate and cooperate with
 each other regarding the following global items related to club operations: (i)
-all safety at the field (flying and nonflying); (ii) establishing and obtaining
-membership approval of the clubs annual budget (if any); (iii) day to day club
-maintenance, especially runway condition; (iv) day to day club operations
-(flying and nonflying); (v) planning and execution of all club flyins, funflys,
-and competitions (if any), and sanctioning of same with AMA (if required); (vi)
+all safety at the field (flying and nonflying); (ii) day to day club
+maintenance, especially runway condition; (iii) day to day club operations
+(flying and nonflying); (iv) planning and execution of all club flyins, funflys,
+and competitions (if any), and sanctioning of same with AMA (if required); (v)
 long range planning necessary to ensure continuous availability of a suitable
-flying field for the club; and (vii) to consider and take appropriate action on
-any and all matters related to member discipline. While the Treasurer has
-approval authority for expenditures up to $100 per check, expenditures larger
-than this amount will require approval by the Board of Officers (majority vote
-method). For transparency reasons, any expenditure which requires approval of
-the Board of Officers shall be highlighted, explained, and published in the next
-monthly newsletter.
+flying field for the club; and (vi) to consider and take appropriate action on
+any and all matters related to member discipline.
 
-## ARTICLE V --- ANNUAL AUDIT {#v}
+## ARTICLE V --- ANNUAL ELECTION OF OFFICERS {#v}
 
-The outgoing President shall at the December meeting appoint two sitting club
-Officers plus one other regular club Member to audit the Treasurer's financial
-records for the past fiscal year. This committee shall conduct its audit of the
-records timely (typically in January), discuss with the past Treasurer as may be
-needed in order to fully understand the clubs financial records, review its
-preliminary findings with the past Treasure to achieve concurrence on the
-conclusions, and then report the final audit conclusions to the club's general
-membership no later than the February meeting. The Secretary shall publish the
-audit results in the next club newsletter, and the audit committee shall be
-automatically disbanded following completion of the audit report.
+Nominations and election of club officers shall be carried out each year as
+described below.
 
+### Nominations
 
-## ARTICLE VI --- MEMBERSHIP CLASSES, DUES, AND SPECIAL ASSESSMENTS {#vi}
+Nominations shall be made from the floor at the October club meeting for each
+officer position, and shall be made from only those members who satisfy all of
+the following criteria at the time of nomination: (i) they are 18 years of age
+or older, (ii) they are current on payment of all club dues, (iii) they are not
+under disciplinary action for violation of any club rule, and (iv) they have
+been a member in good standing of BSRCC for a minimum of one calendar year or
+longer. Additionally, a given person may be nominated for only one officer
+position at any given time (i.e., no person shall be nominated to run for two
+officer positions simultaneously). The names of those members nominated for the
+various officer positions shall be published and highlighted in the October
+newsletter.
 
-BSRCC has *open membership* which is generally available to all persons
-interested in model aviation provided they are of good, safe, honest,
-cooperative, courteous, and friendly reputation. The fiscal year of BSRCC shall
-coincide with the calendar year, January 1 to December 31.
+### Election
 
-BSRCC has several *membership classes* available, and varying *annual dues* are
-associated with each one. These classes and their associated dues are indicated
-in the table below. All membership classes have equal rights with regard to
-flying site access and utilization.
+Election of new officers shall be held at the November club Meeting, from those
+who have been nominated as per above, by means of majority vote of the members
+present at that meeting. The resulting new officer's names shall be published
+and highlighted in the November meeting newsletter.
 
-| Membership Class    | Annual Dues |
-|---------------------+-------------|
-| Junior Member       | $25         |
-| Adult Member        | $75         |
-| Disabled Member     | $45         |
-| Honorary Membership | $0          |
+### Terms of Office
 
-### Membership Definitions
+Officers are elected for a one year time period, and shall serve from January 1
+thru December 31 of the forthcoming year. There shall be no term limitations on
+any officer position (i.e., a given club member may serve multiple times in a
+particular officer position provided that he is duly nominated and elected each
+year by a majority vote of the membership).
 
-Junior Member
-: A member who is less than 22 years of age if enrolled as a full time
-student at an institution of higher learning, or less than 18 years of age
-if not
+## ARTICLE VI --- CLUB MEETINGS {#vi}
 
-Adult Member
-: A member who is between the ages of 18 and 65, and who
-cannot qualify as a Junior Member per above definition.
-
-Disabled Member
-: A member of any age who has been diagnosed as "disabled" by a licensed medical
- doctor.
-
-Honorary Membership
-: An honorary and permanent membership which is conferred in
-recognition of a person's exceptional service to the club.
-
-### Penalty for Late Dues Payment
-
-Membership dues are due and payable on January 1 of the year for which
-membership is being renewed. If an existing member renews "unreasonably late" in
-a given year, a "late payment penalty" of the amount indicated below is added to
-the regular annual dues amount shown above.
-
-| Renewal in January thru March    | $0 (grace period) |
-| Renewal in April thru June       | $15               |
-| Renewal in July thru September   | $30               |
-| Renewal in October thru December | $45.              |
-
-Annual dues are prorated for new members only, and do not apply to annual
-renewals by existing members. Existing members must pay the entire year's annual
-dues, regardless of the time of the year in which they renew. Any membership
-which is not renewed for a period of 1 year shall be considered canceled, and
-shall be dropped from the membership roster.
-
-### Joining Procedure for New Members
-
-For new members, annual membership dues are due and payable at the time of
-joining. For the first year of new membership, dues will be prorated depending
-on the actual month of joining (i.e., depending on how many months are left to
-be "used" in that calendar year). For example, if a new member joins in January
-then the dues for that first year will be (12/12)x(annual dues amount for that
-applicable membership class), and if he joins in December then the first year
-dues will be (1/12)x(annual dues amount for that applicable membership class).
-All new members desiring to join the BSRCC must present the following
-information for each person in order to be admitted as a new club member in good
-standing.
-
-{: type="i"}
-1.  a completed new membership application form providing all information that
-    is requested
-2.  a photocopy of their current and valid AMA card
-3.  a check for their applicable annual dues amount
-
-The membership application form is available on the club's website at
-[www.bsrcc.com](http://www.bsrcc.com/). The membership application is a one time
-only formality which is required so that the club roster may reflect accurate
-information for each member. Existing members do not have to resubmit this form
-each year. The membership application form, a copy of the AMA card, and the
-check for annual dues may be presented by either of the following methods.
-
-{: type="i"}
-1.  personally handed to any Club Officer at the flying field
-2.  mailed to the current Club Treasurer.
-
-The current Club Treasurer's contact information and mailing address is
-available on the club's web site by clicking on "Officers".
-
-### Renewal Procedure for Existing Members
-
-For *existing members*, annual dues are due and payable on January 1 of the
-calendar year for which their club membership is being renewed, and the club
-encourages early payment of membership dues to the maximum extent feasible.
-Additionally, if membership dues are paid "unreasonably late" in a given year,
-then there is also a "late payment penalty" that is assessed in addition to the
-regular membership dues. This is explained in more detail above. All existing
-members must provide a copy of their current AMA card along with their dues in
-order to continue as an existing club member in good standing. It is suggested
-that existing members renew their membership as follows.
-
-{: type="i"}
-1.  Make a photocopy of your AMA card.
-2.  Write on the front of it your applicable membership class.
-3.  Attach a check for the applicable annual dues amount.
-4.  Mail these items to the current club Treasurer.
-
-The current Club Treasurer's contact information and mailing address is
-available on the club's web site by clicking on "Officers".
-
-Any proposed changes to dues amounts shall be first proposed and seconded at a
-regular club monthly meeting, and then announced/explained to the membership in
-the next monthly club newsletter. In a subsequent club meeting, such proposed
-dues changes shall be reviewed, discussed, and decided upon by majority vote of
-the members present at that monthly meeting. If accepted by the membership, dues
-changes will then become effective on a date as determined by majority vote of
-the members present at that meeting.
-
-### Special Assessments
-
-Special assessments, which are intended to address emergency, unusual,
-and/or extraordinary events, may potentially be proposed and accepted by
-the membership from time to time. Such assessments are aimed at taking
-care of necessary club costs which are both unanticipated and outside of
-the normal club operating process. Examples of such events might be the
-replacement of a stolen lawnmower, having the field rent unexpectedly
-raised, having to replace a field shed damaged by weather, or similar such
-events. If special assessments are accepted by the membership per majority
-vote at a scheduled club meeting, then the individual assessment amount
-levied on each member shall be equal to the total special assessment amount
-divided by the total number of members in all membership classes on the
-club's official membership roster at that point in time (Note: "Honorary
-Members" shall not be included in this head count, nor shall they pay any
-assessments).
-
-In deep appreciation for the flying site that it currently utilizes, the
-BSRCC decrees that the flying site land owners (i.e., Ann Sweetman, John
-Davenport, and Charles Davenport) shall enjoy Honorary Membership in the
-BSRCC, in perpetuity, with all dues waived.
-
-## ARTICLE VII --- VOTING RIGHTS {#vii}
-
-Voting rights within the BSRCC are limited to only those members who are
-eighteen years of age or older, regardless of their membership class,
-and who are also fully paid up members in good standing (i.e., not delinquent on
-dues).
-
-## ARTICLE VIII --- GENERAL FIELD SAFETY RULES {#viii}
-
-It is not feasible to make a complete and exhaustive listing of all safety and
-operational rules that will make a model flying site function both safely and
-smoothly. However, history and experience are of great assistance in this
-endeavor, and the below list of items has been compiled based on the BSRCC's
-many years of prior club experience. These rules and guidelines are provided for
-the general benefit of all members, and are as follows:
-
-{: type="i"}
-1.  All published AMA safety rules must be obeyed at all times.
-2.  All published BSRCC safety rules must be obeyed at all times.
-3.  If there should happen to be a conflict or difference between the published
-    AMA and published BSRCC safety rules, then the more conservative of the two
-    (i.e., the safest) shall take precedence.
-4.  For any circumstance in which a safety rule has not been published by either
-    AMA or BSRCC, then the club member shall exercise good, safe, sound, and
-    mature judgment at all times (i.e., he shall always err on the side of
-    conservatism and constantly strive to reduce risk in all matters related to
-    safety).
-5.  To comply with AMA guidelines concerning frequency management, the club has
-    recently voted to allow only 2.4 GHz transmitter frequencies. Therefore, the
-    older transmitter frequencies (e.g., 27, 49, 53, 72 MHz, etc.) are no longer
-    allowed at the BSRCC field. A transmitter impound area still exists, but is
-    not required during normal day to day flying sessions. However, the
-    transmitter impound area may still be used for fun-flys, fly-ins,
-    competitions, etc. if the CD in charge determines it is necessary.
-6.  No alcoholic beverages are allowed on the BSRCC flying site at any time.
-7.  No illegal drugs are allowed on the BSRCC flying site at any time.
-8.  Regarding the issue of flying while taking legal drugs or medicines
-    prescribed by licensed medical practitioners, the following is offered as
-    general guidance. If the prescribed medication does not result in impaired
-    mental, visual, or physical function, then the member may fly. However, if
-    the prescribed medication does result in impaired mental, visual, or
-    physical function, then the member shall not fly. In this instance, each
-    member is required to: (a) "self-certify"; and (b) to consult with their
-    personal licensed medical provider if any further guidance is needed to
-    determine the safe course of action.
-9.  A member may fly only if: (a) they possess a current and valid AMA card; and
-    (b) their BSRCC membership is current (i.e., not delinquent).
-10. A guest or a perspective member may fly only if:
-    (a) they possess a current and valid AMA card; and
-    (b) they are accompanied by a club member in good standing.
-    The host member is responsible for the guest's flying actions while at the
-    club.
-11. Before attempting to fly solo, new pilot members are
-    strongly encouraged to seek flying assistance from the more experienced
-    club members (i.e., "instructors") until they reach the point where they
-    can reliably and safely takeoff, fly, and land unassisted (i.e., "fly
-    solo"). The club has numerous experienced members who are willing to help
-    newcomers, and the following section (entitled "Recommended Solo Pilot
-    Qualification Procedure") is provided as general guidance to assist both
-    the newcomer and the instructor in determining when transition to solo
-    flight is appropriate, for both fixed wing aircraft and rotor wing aircraft.
-12. No motors or engines shall be operated on the spectator side of the field's
-    safety fence.
-13. There shall be no more than five total fliers in the air at the same time.
-    When three or more pilots are flying simultaneously, it is considered good
-    practice to have a separate nonflying safety observer on the field, if
-    possible.
-14. All AMA guidelines prohibiting flight over pilot, pit, and
-    spectator areas shall be rigorously adhered to. More specifically, when a
-    model is under power and flying in close proximity to the runway, the pilot
-    shall ensure that the flight path is not over these areas and is also not
-    directed toward them. That is, no flying aircraft shall approach the
-    runway under significant power with its flight path directed toward the
-    runway, pilot, pits, or spectator areas. Note that this requirement does
-    not apply to the landing approach/turn which will also have flight path
-    momentarily directed toward the runway, pilot, pits, and spectator areas,
-    because such maneuver will typically be made at a significant distance away
-    from these areas and will also usually be at low or idle power setting.
-15. All pilots shall ensure that their flying aircraft is well
-    clear of the pilot, pits, and spectator areas, and with flight path
-    directed away from them, in each of the following specific circumstances:
-    (a) during the takeoff run; (b) when a landing approach is missed and a go
-    around is necessary; (c) when repeated touch and go landings are being
-    performed; (d) when high speed, low altitude passes are being performed;
-    (e) when low level aerobatic routines or maneuvers are being performed; (f)
-    when any other flight maneuver is being performed that is in close
-    proximity to the runway.
-16. As a standing rule, all pilots shall always be clear of the
-    runway when other pilots are performing takeoffs, landings, low passes,
-    touch and goes, or any other maneuver which results in flying aircraft being
-    in close proximity to the runway. If a pilot must approach the runway to
-    retrieve an engine out model, he shall first check to see if this is safe
-    (i.e., no other flying models in close proximity to runway). If it is, then
-    he shall call out "on the runway" when approaching the runway, and then
-    "clear of runway" when departing the runway after retrieving the model.
-    This will enable other pilots to safely avoid the runway during the period
-    that the model is being retrieved.
-17. All engine out (dead stick) landings shall have priority
-    to the runway. In this instance, it is considered courteous to call out
-    "dead stick" on the landing approach so that other pilots may immediately
-    yield right of way.
-18. Restricted air space shall be as posted on the field's bulletin board
-    (i.e., pilots shall not overfly the property of adjoining landowners).
-19. At completion of a flying session for the day, the last
-    member leaving the field shall ensure that the main gate is closed and
-    securely locked.
-20. If any vandalism is noticed at the field (e.g., lawn mower
-    stolen), the observing member shall immediately contact a club officer for
-    further action (contact info of club officers may be found at
-    [www.bsrcc.com](http://www.bsrcc.com/) or on placards posted at the field).
-21. If needed for reasons of safety, the above rules may be
-    revised and/or amended at any regular club meeting by a majority vote of
-    members present. If these rules are revised or amended, the new rules
-    shall be published and highlighted in the next issue of the club
-    newsletter.
-
-## ARTICLE IX --- RECOMMENDED SOLO PILOT QUALIFICATION PROCEDURE {#ix}
-
-Like most RC flying clubs, BSRCC does not have a formal process for
-teaching new members of the club how to fly model airplanes. Instead, this
-process is handled informally with the more experienced members simply
-helping the less experienced members become proficient and safe at model
-building and flying. In this regard, the more experienced members are
-usually referred to as "instructors", and the new members are generally
-referred to as "students". This initial teaching process is justified for
-reasons of both safety (i.e., to prevent possible injury to the student
-and/or other persons at the field) and economy (i.e., to prevent expensive
-crashes of the student's airplane or rotor craft). This teaching process
-continues until such time as the student "solos" (i.e., becomes capable of
-flying unassisted), at which time the "instructor" and the "student" both
-become "members" again.
-
-In an effort to assist both the instructor and the student in determining
-when the student is ready to solo (i.e., ready to fly unassisted), the
-following recommended guidelines and check list items have been compiled by
-several senior members who have previously served as instructors. If the
-student can consistently and reliably perform all the maneuvers listed in
-the guidelines/checklist below, within an approximately 10 minute flying
-session, under the overall supervision of a club instructor, then he can
-have a high degree of confidence that he is ready to safely solo his
-aircraft (i.e., fly unassisted and independently). These recommendations
-are given below for both fixed wing and rotor wing aircraft.
-
-### Recommended Guidelines and Checklist Items for Fixed Wing Aircraft
-
-{: type="i"}
-1.  conduct appropriate preflight aircraft inspection (i.e., mechanical checks)
-2.  conduct appropriate TX/RX range checks
-3.  controlled fuel up of aircraft
-4.  controlled and safe startup of engine, and perform required tuning
-5.  controlled and safe transport (i.e., carry) of aircraft from pits to runway
-6.  controlled takeoff into wind, maintaining heading at approximate centerline
-    of runway (i.e., minimal swerving)
-7.  trim aircraft to hands off straight and level flight
-8.  perform counter clockwise horizontal rectangular flight pattern
-9.  perform clockwise horizontal rectangular flight pattern
-10. perform figure eight flight pattern with turns away from the pilot
-11. perform figure eight flight pattern with turns toward the pilot
-12. perform left landing approach followed by go around
-13. perform right landing approach followed by go around
-14. perform two controlled landings to full stop
-15. safe transport (i.e., taxi or carry) of aircraft from runway to pits edge
-16. safe engine shutdown procedure
-17. safe TX/RX shutdown procedure
-18. return of model and other equipment to pits area
-
-### Recommended Guidelines and Checklist Items for Rotor Wing Aircraft
-
-{: type="i"}
-1.  conduct appropriate preflight aircraft inspection (i.e., mechanical checks)
-2.  conduct appropriate TX/RX range checks
-3.  controlled fuel up of aircraft
-4.  controlled and safe startup of engine, and perform required tuning
-5.  controlled and safe transport (i.e., carry) of rotorcraft from pits to
-    runway
-6.  controlled liftoff and hover over heli pad #1
-7.  controlled forward hover to heli pad #2
-8.  controlled backward hover to heli pad #1
-9.  controlled sideways hover to heli pad #3
-10. controlled sideways hover to heli pad #4
-11. controlled 360 degree yaw rotation while in stationary hover
-12. controlled takeoff into wind, maintaining heading at approximate centerline
-    of runway (i.e., minimal swerving)
-13. trim rotorcraft to hands off straight and level flight
-14. perform counter clockwise horizontal rectangular flight pattern
-15. perform clockwise horizontal rectangular flight pattern
-16. perform figure eight flight pattern with turns away from the pilot
-17. perform figure eight flight pattern with turns toward the pilot
-18. perform left landing approach followed by go around
-19. perform right landing approach followed by go around
-20. perform two controlled landings to full stop (i.e., landing approach, hover,
-    controlled set down)
-21. safe transport (i.e., taxi or carry) of rotorcraft from runway to pits edge
-22. safe engine shutdown procedure
-23. safe TX/RX shutdown procedure
-24. return of model and other equipment to pits area
-
-## ARTICLE X --- CLUB MEETINGS {#x}
-
-Regular BSRCC club meetings shall be held on the first Tuesday of every month at
+Regular BSRCC Club Meetings shall be held on the first Tuesday of every month at
 6:30 PM, and at a location which is stated in the prior month's newsletter
-and/or on the club's web site at [www.bsrcc.com](http://www.bsrcc.com/).
-Meetings are typically held at the flying field club house. Additional special
-meetings may be called at any time by the club President, if necessary, with
-prior notification to the membership.
+and/or on the club's web site at [www.bsrcc.com](https://www.bsrcc.com/).
+Meetings are typically held at the flying field club house. Additionally,
+Special Called Meetings may be organized by the club President, if and when
+necessary, with adequate prior notification to the membership.
 
-## ARTICLE XI --- RECORD KEEPING {#xi}
+## ARTICLE VII --- RECORD KEEPING {#vii}
 
-Treasurer and Secretary records shall be maintained for a period of 5 years,
+Treasurer and Secretary records shall be maintained for a period of 7 years,
 after which time they may be disposed of. The outgoing Treasurer and Secretary
 shall be responsible for transferring their complete historical records to the
 incoming Treasurer and Secretary who, in turn, shall be responsible for
 receiving and taking custody of same. This transfer of records is usually done
-immediately following completion of the annual financial audit (i.e., at the
-February meeting). All records are the property of the BSRCC.
+immediately following completion of the annual financial audit, performed on the
+schedule described below. All records are the property of the BSRCC.
 
-## ARTICLE XII --- SPECIAL COMMITTEES {#xii}
+## ARTICLE VIII --- AUDIT AND SPECIAL COMMITTEES {#viii}
 
-Special committees may be appointed by the President, when and if needed, at a
-regular Club meeting. These committees shall operate under a specific charter
+### Audit Committee
+
+For transparency reasons, the outgoing President shall at the December meeting
+appoint two sitting club Officers plus one other club Member to audit the
+Treasurer's financial records for the past fiscal year. This committee shall
+conduct its audit of the records no later than the following January, discuss
+with the past Treasurer as may be needed in order to fully understand the clubs
+financial records, review its preliminary findings with the past Treasure to
+achieve concurrence on the conclusions, and then report the final audit
+conclusions to the club's general membership no later than the January club
+meeting. The Secretary shall publish the audit results in the January club
+newsletter. The audit committee shall be automatically disbanded following
+completion of the audit report.
+
+### Special Committees
+
+Special committees, if needed for any reason, may be appointed by the President
+at any club meeting. These committees shall operate under a specific charter,
 and for a specific time period defined by the President, and shall be
 automatically disbanded when their duties are completed.
 
-## ARTICLE XIII --- NOMINATION AND ELECTION OF OFFICERS {#xiii}
+## ARTICLE IX --- GENERAL CLUB RULES {#ix}
 
-Nomination and election of club officers shall be carried out annually as
-follows.
+### Safety Rules
 
-{: type="i"}
-1.  Nominations shall be made from the floor at the
-    October club meeting for each officer position, and shall be made only from
-    those members who are in good standing (e.g., not delinquent on dues).
-    Additionally, a given person may be nominated for only one officer position
-    at any given time (i.e., no person shall be nominated to run for two
-    officer positions simultaneously). The names of those members nominated
-    for the various officer positions shall be published and highlighted in the
-    October newsletter.
-2.  Election of new officers shall be held at the November
-    Club Meeting, and the winners shall be determined by majority vote of the
-    members present at that meeting. The resulting new officer's names shall
-    be published and highlighted in the November meeting newsletter.
-3.  The term of office for newly elected officers shall be from January 1 thru
-    December 31 of the forthcoming year.
-4.  Transfer of applicable club records from the old officers (outgoing) to the
-    new officers (incoming) shall be carried out after the annual financial
-    audit is complete, usually in February of each year.
-5.  There shall be no term limitations on any officer position (i.e., a given
-    club member may serve multiple times in a particular officer position,
-    provided that he is duly nominated and elected each year by a majority vote
-    of the membership).
+It is not feasible to make a complete and exhaustive listing of all safety and
+operational club rules that will make a model flying site function both safely
+and smoothly. However, history and experience are of great assistance in this
+endeavor, and the below list of items has been compiled based on the BSRCC's
+many years of prior club experience. These safety rules and guidelines are
+provided for the general benefit of all members, and are as follows: All
+published AMA safety rules must be obeyed at all times. All published BSRCC
+safety rules must be obeyed at all times. If there should happen to be a
+conflict or difference between the published AMA and published BSRCC safety
+rules, then the more conservative of the two (i.e., the safest) shall take
+precedence. For any circumstance in which a safety rule has not been published
+by either AMA or BSRCC, then the club member shall always exercise good, safe,
+sound, and mature judgment (i.e., he shall always err on the side of
+conservatism and constantly strive to reduce risk in all matters related to
+safety). To comply with AMA guidelines concerning both safety and frequency
+management, the club has recently voted to allow only 2.4 GHz transmitter
+frequencies in the future. Therefore, the older transmitter frequencies (e.g.,
+27, 49, 53, 72 MHz, etc.) are no longer allowed at the BSRCC field. A
+transmitter impound area still exists, but is not required during normal day to
+day flying sessions. However, the transmitter impound area may still be used for
+funflys, flyins, competitions, etc. if the CD in charge determines it is
+necessary. No alcoholic beverages are allowed on the BSRCC flying site at any
+time. No illegal drugs are allowed on the BSRCC flying site at any time.
+Regarding the issue of flying while taking legal drugs or medicines prescribed
+by licensed medical practitioners, the following is offered as general guidance.
+If the prescribed medication does not result in impaired mental, visual, or
+physical function, then the member may fly. However, if the prescribed
+medication does result in impaired mental, visual, or physical function, then
+the member shall not fly. In this instance, each member is required to: (a)
+"self-certify"; and (b) to consult with their personal licensed medical provider
+if any further guidance is needed to determine the safe course of action. A
+member may fly only if: (a) they possess a current and valid AMA card; and (b)
+they are a BSRCC member in good standing (i.e., not delinquent or under
+disciplinary action). A guest or a perspective member may fly only if: (a) they
+possess a current and valid AMA card; and (b) they are accompanied by a BSRCC
+member in good standing. The host member is responsible for the guest's flying
+actions while at the club. A nonmember may fly as a guest no more than three
+times per year. Before attempting to fly solo, new pilot members (i.e.,
+"students") are invited and encouraged to seek flying assistance from the more
+experienced club members (i.e., "instructors") until they reach the point where
+they can reliably and safely takeoff, fly, and land unassisted (i.e., "fly
+solo"). The club has numerous experienced members who are willing to help
+newcomers, and a subsequent section (entitled "Recommended Solo Pilot
+Qualification Procedure") is provided as general guidance to assist both the
+newcomer and the experienced flyer in determining when transition to solo flight
+is appropriate, for both fixed wing aircraft and rotor wing aircraft. No motors
+or engines shall be operated on the spectator side of the field's safety fence.
+There shall be no more than five total fliers in the air at the same time. When
+three or more pilots are flying simultaneously, it is considered good practice
+to have a separate nonflying safety observer on the field, if possible. All AMA
+guidelines prohibiting flight over or directly toward pilot, pit, and spectator
+areas shall be rigorously adhered to. More specifically, when a model is under
+significant power and flying in close proximity to the runway, the pilot of such
+model shall ensure that its flight path is not over these areas nor directed
+toward them. This would include the following specific circumstances: (a) during
+the takeoff run; (b) when a landing approach is missed and a go around is
+necessary; (c) when repeated touch and go landings are being performed; (d) when
+high speed, low altitude passes are being performed; (e) when low level
+aerobatic routines or maneuvers are being performed; (f) when any other flight
+maneuver is being performed that places the model in close proximity to the
+runway. Note that this requirement does not apply to the landing approach/turn,
+which will also have flight path momentarily directed toward the runway, pilot,
+pits, and spectator areas, because such maneuver will typically be made at a
+significant distance away from these areas and will also usually be at low or
+idle power setting. Regarding the issue of a pilot desiring to approach the
+runway to retrieve an engine out model (e.g., engine quits on runway) while
+other pilots are still flying, the pilot shall first check to see if this is
+safe (i.e., no other flying models in close proximity to runway). If it is safe,
+then he shall loudly call out "on the runway" when approaching the runway, and
+then "clear of runway" when departing the runway after retrieving the model.
+This will enable other airborne flyers to safely avoid the runway during the
+period of time that the model is being retrieved. All engine out (dead stick)
+landings shall have priority to the runway. To ensure that other currently
+airborne flyers will be aware of his immediate need for priority, the pilot of
+the engine out model shall loudly call out "dead stick". After the dead stick
+landing has been completed, the pilot of the engine out model shall follow the
+safety procedure described above when approaching the runway to retrieve the
+model. Restricted air space shall be as posted on the field's bulletin board
+(i.e., pilots shall not overfly the property of adjoining landowners). At
+completion of a flying session for the day, the last member leaving the field
+shall close and securely lock the main gate in order to protect the clubs
+facilities.
 
-## ARTICLE XIV --- AMENDMENT OF BYLAWS {#xiv}
+### Other Rules
 
-Amendments to the bylaws may be proposed at any general monthly meeting of the
-Club. Any amendment proposed and seconded shall then be published and
-highlighted in the next meeting newsletter, and shall subsequently be discussed
-and voted on at the next regular monthly meeting. An Amendment shall be
-considered approved if accepted by majority vote of the members present at that
-meeting. Similarly, the Amendment shall be considered disapproved if rejected by
-majority vote of the members present at that meeting. If the bylaws are amended,
-updated copies shall be promptly sent to all club members (by electronic means)
-and the AMA. The updated bylaws will also be highlighted in the next monthly
-club newsletter, and also placed on the club's website.
+BSRCC is much more than just a physical place to fly ones model airplane.
+Rather, it is viewed by the current membership as a highly enjoyable and
+picturesque place to fly ones model airplane, and also a place where club
+members with a common aeromodeling interest can gather socially, share technical
+knowledge, train novice pilots, enjoy camaraderie and fellowship amongst
+themselves, have a laugh or two, and generally participate in an atmosphere
+which is both safe and mutually supportive of all members who wish to enjoy this
+wonderful hobby. Therefore, all club members are kindly requested to keep flying
+safety first and foremost in their minds, and also to project an honest,
+friendly, cooperative, courteous, and positive attitude to all other club
+members, adjoining land owners, the public at large, and visitors to the field.
 
-## ARTICLE XV --- PROCEDURE FOR VIOLATION OF CLUB RULES {#xv}
+## ARTICLE X --- PROCEDURE FOR VIOLATION OF CLUB RULES {#x}
 
-[Article II](#ii) above states that "the purpose of the BSRCC shall be to
-provide the physical facilities, safety rules, operational procedures, and
-general management structure to enable the Membership to safely engage in and
-enjoy the hobby of Model Aviation". More specifically, implied within this
-statement is the general club requirement that each and every member shall
-adhere to accepted norms of societal behavior concerning safety, honesty,
-courtesy, cooperation, and friendliness such that their actions will tend to
-enable, promote, and assist all other members in engaging in and enjoying the
-hobby of model aviation, rather than inhibiting, discouraging, and/or preventing
-other members from engaging in and/or enjoying the hobby of model aviation.
+Article II above states that the purpose of the BSRCC is to provide the physical
+facilities, safety rules, operational procedures, and general management
+structure to enable the Membership to safely engage in and enjoy the hobby of
+Model Aviation. Article IX above states specific safety rules for the BSRCC
+flying site, and also gives general guidance on expected courteous behavior
+while at the flying field. The sum total of these two Articles means that each
+and every member is expected to adhere to accepted norms of societal behavior
+concerning safety, honesty, courtesy, cooperation, inclusiveness, and
+friendliness such that their actions will tend to enable, promote, and assist
+all other members in engaging in and enjoying the hobby of model aviation,
+rather than inhibiting, discouraging, or preventing other members from engaging
+in and enjoying the hobby of model aviation.
 
-This Article XV, then, provides a mechanism to enforce the above club rule,
+This Article X, then, provides a mechanism to enforce the above club rules,
 should it ever be required. This mechanism of enforcement will typically follow
 one or all of the following three steps, which will be carried out as necessary
-for reasons of safety or club stability.
+for reasons of safety and/or club stability.
 
-For a first time, minor, accidental, or inadvertent infraction of the above
-rule, the club *Safety Officer* acting after discussions and concurrence with
-the Board of Officers will privately, orally, and informally mention to the
+### First Violation
+
+For a first time, minor, accidental, or inadvertent violation of the above
+rules, the club Safety Officer acting after discussions and concurrence with the
+Board of Officers will privately, orally, and informally mention to the
 offending member what actions need to be corrected in order to be in keeping
 with accepted club norms. It is expected that the club member will then modify
 his behavior accordingly, and the situation is considered to be completely
-resolved with no further actions required. This step will require that at least
-one club member in good standing have direct knowledge of the infraction, and be
-willing to so testify.
+resolved with no further actions being required. This step will require that at
+least one club member in good standing have direct knowledge of the infraction,
+and be willing to so testify.
 
-For a second time, more serious, willful, or purposeful infraction of the above
-rule, the club *Safety Officer* acting after discussions and concurrence with
-the Board of Officers will in writing notify the offending member what actions
-need to be corrected in order to be in keeping with accepted club norms, and
-that failure to correct such actions in future will lead to his expulsion from
-the club. It is expected that the club member will then modify his behavior
+### Second Violation
+
+For a second time, more serious, willful, or purposeful violation of the above
+rules, the club Safety Officer acting after discussions and concurrence with the
+Board of Officers will in writing notify the offending member what actions need
+to be corrected in order to be in keeping with accepted club norms, and that
+failure to correct such actions in future will lead to his expulsion from the
+club. It is expected that the club member will then modify his behavior
 accordingly. This step will require that at least two club members in good
 standing have direct knowledge of the infraction, and be willing to so testify.
 
-For a third time, highly serious, or blatantly defiant infraction of the above
-rule, the club *President* acting after discussions and concurrence with the
+### Third Violation
+
+For a third time, highly serious, or blatantly defiant violation of the above
+rules, the club President acting after discussions and concurrence with the
 Board of Officers will in writing notify the offending member that he is to
 appear before the Board of Officers to defend and/or explain his actions for not
 following the club rules. This step will require that at least three club
@@ -710,26 +465,180 @@ communicated in writing to the offending member. If a member is expelled for
 serious or repeated infraction of club rules, no refund of "unused dues" shall
 be made.
 
-## ARTICLE XVI --- RESIGNATION OF CLUB MEMBERSHIP {#xvi}
+## ARTICLE XI --- DISSOLUTION OF CLUB {#xi}
 
-Any member may resign their membership in the BSRCC, for any reason and at any
-time, by means of written notification to the club Treasurer (e.g., by email,
-typed letter, handwritten note, etc.) at the same address used for mailing
-annual dues. No refund of "unused dues" will be made upon resignation of
-membership.
+If desired for any reason, the club may be dissolved by majority vote of the
+then current Membership who are eligible to vote (i.e., members who are more
+than 18 years of age, not delinquent on dues, and not under disciplinary
+action). If such action is taken, the Officers shall then: (i) make provisions
+for payment of all the Club's legally owed debts; and (ii) dispose of all
+remaining Club assets, if any, in a manner which is equitable to all members.
 
-## ARTICLE XVII --- DISSOLUTION OF CLUB {#xvii}
+## ARTICLE XII --- MEMBERSHIP APPLICATIONS, RENEWALS, DUES, AND ASSESSMENTS {#xii}
 
-The Club may be dissolved at any time with the approval of the majority
-vote of the then current Membership (i.e., delinquent Members shall not
-vote). If such actions are taken, the Officers shall: (i) make
-provisions for the payment of all the Club's legally owed debts; and (ii)
-dispose of all remaining Club assets (if any) in such manner as
-may be decided by majority vote of the then current Membership.
+### New Membership Applications
+
+BSRCC has open membership which is generally available to all persons interested
+in model aviation provided they are of good, safe, honest, cooperative,
+courteous, and friendly reputation. A New Membership Application Form is
+available on the Club's website at www.bsrcc.com, and contains all instructions
+required for completing and submitting the application.
+
+### Existing Membership Renewals
+
+For existing members, annual dues are due and payable on January 1 of each year,
+and are considered delinquent after that date. Existing members may conveniently
+renew their membership by the following process: (i) make a photocopy of your
+current and valid AMA card; (ii) write on the front of it your applicable
+membership class; (iii) attach a check for the applicable annual dues amount;
+and (iv) mail all these items to the current club Treasurer (address information
+is available at www.bsr HYPERLINK "http://www.bsrcc.com/"cc.com). Any existing
+membership which is not renewed by February 28 of a given year will be sent an
+email reminder of the delinquency. Any existing membership which is not renewed
+by March 31 of a given year will be considered as voluntarily relinquished and
+dropped from the club roster.
+
+### Annual Dues Amount
+
+The current and applicable Annual Dues Amount for each Membership Class is shown
+on the New Membership Application Form, for both New Membership Applications and
+Existing Membership Renewals. New Membership Annual Dues Amount may be prorated
+depending on which month they join in (see New Membership Application Form for
+details), however, Existing Membership Annual Dues Amount shall not be prorated.
+
+### Special Assessments
+
+"Special Assessments", which are intended to address emergency, unusual, and/or
+extraordinary events, may potentially be proposed and accepted by the membership
+from time to time. Examples of such events might be the replacement of a stolen
+lawnmower, having the field rent unexpectedly raised, having to replace a field
+shed damaged by weather, or similar such events. If any special assessments are
+accepted by the membership per majority vote at a scheduled club meeting, then
+the individual assessment amount levied on each member shall be equal to the
+total special assessment amount divided by the total number of members in the
+club at that time.
+
+## ARTICLE XIII --- MEMBER VOTING RIGHTS {#xiii}
+
+Voting rights within the BSRCC are limited to only those members who are
+eighteen years of age or older, and who are also fully paid up members in good
+standing (i.e., youth members, members delinquent on dues, and members under
+disciplinary action are not allowed to vote).
+
+## ARTICLE XIV --- RECOMMENDED SOLO PILOT QUALIFICATION PROCEDURE {#xiv}
+
+Like most RC flying clubs, BSRCC does not have a formal process for teaching new
+members of the club how to fly model airplanes. Instead, this process is handled
+informally with the more experienced members simply helping the less experienced
+members become proficient and safe at model building and flying. In this regard,
+the more experienced members are usually referred to as "instructors", and the
+new members are generally referred to as "students". This initial teaching
+process is justified for reasons of both safety (i.e., to prevent possible
+injury to the student and/or other persons at the field) and economy (i.e., to
+prevent expensive crashes of the student's airplane or rotor craft). This
+teaching process continues until such time as the student "solos" (i.e., becomes
+capable of flying unassisted), at which time the "instructor" and the "student"
+both become "members" again.
+
+In an effort to assist both the instructor and the student in determining when
+the student is ready to solo (i.e., ready to fly unassisted), the following
+recommended guidelines and check list items have been compiled by several senior
+members who have previously served as instructors. If the student can
+consistently and reliably perform all the maneuvers listed in the
+guidelines/checklist below, within an approximately 10 minute flying session,
+under the overall supervision of a club instructor, then he can have a high
+degree of confidence that he is ready to safely solo his aircraft (i.e., fly
+unassisted and independently). These recommendations are given below for both
+fixed wing and rotor wing aircraft.
+
+### Recommended Guidelines and Checklist Items for Fixed Wing Aircraft
+
+- conduct appropriate preflight aircraft inspection (i.e., mechanical checks)
+- conduct appropriate TX/RX range checks
+- controlled fuel up of aircraft
+- controlled and safe startup of engine, and perform required tuning
+- controlled and safe transport (i.e., carry) of aircraft from pits to runway
+- controlled takeoff into wind, maintaining heading at approximate centerline of runway (i.e., minimal swerving)
+- trim aircraft to hands off straight and level flight
+- perform counter clockwise horizontal rectangular flight pattern
+- perform clockwise horizontal rectangular flight pattern
+- perform figure eight flight pattern with turns away from the pilot
+- perform figure eight flight pattern with turns toward the pilot
+- perform left landing approach followed by go around
+- perform right landing approach followed by go around
+- perform two controlled landings to full stop
+- safe transport (i.e., taxi or carry) of aircraft from runway to pits edge
+- safe engine shutdown procedure
+- safe TX/RX shutdown procedure
+- return of model and other equipment to pits area
+
+### Recommended Guidelines and Checklist Items for Rotor Wing Aircraft
+
+- conduct appropriate preflight aircraft inspection (i.e., mechanical checks)
+- conduct appropriate TX/RX range checks
+- controlled fuel up of aircraft
+- controlled and safe startup of engine, and perform required tuning
+- controlled and safe transport (i.e., carry) of rotorcraft from pits to runway
+- controlled liftoff and hover over heli pad #1
+- controlled forward hover to heli pad #2
+- controlled backward hover to heli pad #1
+- controlled sideways hover to heli pad #3
+- controlled sideways hover to heli pad #4
+- controlled 360 degree yaw rotation while in stationary hover
+- controlled takeoff into wind, maintaining heading at approximate centerline of runway (i.e., minimal swerving)
+- trim rotorcraft to hands off straight and level flight
+- perform counter clockwise horizontal rectangular flight pattern
+- perform clockwise horizontal rectangular flight pattern
+- perform figure eight flight pattern with turns away from the pilot
+- perform figure eight flight pattern with turns toward the pilot
+- perform left landing approach followed by go around
+- perform right landing approach followed by go around
+- perform two controlled landings to full stop (i.e., landing approach, hover, controlled set down)
+- safe transport (i.e., taxi or carry) of rotorcraft from runway to pits edge
+- safe engine shutdown procedure
+- safe TX/RX shutdown procedure
+- return of model and other equipment to pits area
+
+## ARTICLE XV --- RESIGNATION OF CLUB MEMBERSHIP {#xv}
+
+If desired for any reason, a club member may resign his membership in the BSRCC
+by mailing written notification to the club Treasurer at the same address as is
+used for mailing the annual dues (i.e., written notification includes any
+convenient means of correspondence such as email, typed letter, handwritten
+note, etc.). The resigning member shall not be entitled to refund of any "unused
+dues" at the time of resignation.
+
+## ARTICLE XVI --- AMENDMENT OF BYLAWS {#xvi}
+
+Amendments to the bylaws may be accomplished by the following process. Any
+proposed amendment to the bylaws shall be presented at a regularly scheduled
+monthly meeting (or special called meeting), then discussed and explained with
+regards to its advantages and disadvantages. If the proposed amendment is then
+seconded, it shall be entered into that month's meeting minutes and circulated
+to all members for their general information. This proposed amendment shall then
+be reviewed and summarized at the next regularly scheduled monthly meeting (or
+special called meeting), further discussed if needed, and then voted on by the
+membership. An Amendment shall be considered approved if accepted by majority
+vote of the members present at that meeting. Similarly, the Amendment shall be
+considered disapproved if rejected by majority vote of the members present at
+that meeting. If the bylaws are amended, such action will be clearly noted in
+the club meeting minutes, and updated copies of the amended bylaws shall be
+promptly sent to all club members via electronic means and also placed on the
+club's website.
+
+## ARTICLE XVII --- ITEMS NOT COVERED ABOVE {#xvii}
+
+For any and all matters which are not specifically addressed above, and which
+relate to club safety or smooth functioning of the club, the Board of Officers
+shall have both the responsibility and the authority to address and decide upon
+these timely based on consideration of all facts known to them at the time. In
+so doing, the Board of Officers shall strongly endeavor to act in a manner which
+is fair and impartial to all members, and which is also in the best interest of
+the club as a whole.
 
 ## ARTICLE XVIII --- FLYING SITE LAND OWNERS {#xviii}
 
-Not withstanding any rule or bylaw stated above, the flying site land
-owners (consisting of Ann Sweetman, John Davenport, and Charles Davenport)
-shall have full, final, and absolute authority over all matters regarding the
-flying site field and property, and utilization of same by the BSRCC.
+Not with standing any rule or bylaw stated above, the flying site land owners
+(consisting of Ann Sweetman, John Davenport, and Charles Davenport) shall have
+full, final, and absolute authority over all matters regarding the flying site
+field and property, and utilization of same by the BSRCC.
