@@ -60,6 +60,7 @@ h3 {
 .main {
   @include span(8);
   margin-bottom: 1em;
+  line-height: 1.25;
 }
 
 #logo {

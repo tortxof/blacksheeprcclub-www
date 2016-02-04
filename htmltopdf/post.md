@@ -1,1 +1,1 @@
-../_posts/2016-01-08-january-newsletter.md
+../_posts/2016-02-04-february-newsletter.md
