@@ -10,7 +10,8 @@ Meeting was called to order at 6:25 PM.
 A work day in preparation for the fly-in will be held March 12, with a backup
 day of March 19 in case of bad weather.
 
-Daniel will make the flier for the fly-in after J.B. writes the copy.
+Dick Russell and Tony Denton will work on a write-up for the fly-in, and Daniel
+Jones will help create the flier for the event.
 
 The proposed dues changes were voted on and approved. The vote was unanimous in
 favor of the changes. The changes are retroactive to January 1, 2016. There are
