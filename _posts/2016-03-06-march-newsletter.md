@@ -30,4 +30,5 @@ in May.
 ## Show and Tell
 
 Doug Starwalt and I (Daniel Jones) presented a show and tell on the subjects of
-FPV flying and drones.
+FPV flying and drones. I'd like to thank Doug for bringing in his multi-rotors
+and helping with the show and tell.
