@@ -49,13 +49,24 @@ Bylaws.
 
 ## ARTICLE I --- NAME, ADDRESS, AND LOCATION {#i}
 
-_Name._ The name of this organization shall be BLACK SHEEP RADIO CONTROL CLUB
+### Name
+
+The name of this organization shall be BLACK SHEEP RADIO CONTROL CLUB
 (BSRCC), INC. BSRCC is an AMA chartered club, Charter #2068.
 
-_Address._ The street address of BSRCC is 802 Lockaby Road, Pendleton, SC 29670.
+### Address
 
-_Location._ The geographical location for BSRCC is Latitude 34.6809 degrees
-North by Longitude 82.6112 degrees West.
+The street address of BSRCC is:
+
+802 Lockaby Road  
+Pendleton, SC 29670
+
+### Location
+
+The geographical location for BSRCC is:
+
+Latitude 34.6809 degrees North  
+Longitude 82.6112 degrees West
 
 ## ARTICLE II --- PURPOSE OF CLUB {#ii}
 
@@ -87,7 +98,7 @@ payment of all club dues, and who is also not under disciplinary action for
 violation of any club rule (see Article IX for Club Rules).
 
 _AMA_ shall mean the Academy of Model Aeronautics, 5161 E. Memorial Dr., Muncie,
-IN 47302, Tel. 800-435-9262, <www.modelaircraft.org>.
+IN 47302, Tel. 800-435-9262, <http://www.modelaircraft.org>.
 
 _AMA Chartered Club_ in this instance shall refer to the fact that BSRCC is an
 AMA Chartered Club. Therefore, current and valid AMA membership is required in
@@ -111,33 +122,39 @@ regularly scheduled monthly meeting or special called meeting.
 The officer positions of BSRCC, and associated primary duties, are described
 below.
 
-_President._ The president shall preside at all club meetings, act as a
-spokesman for the club, coordinate the duties of the other Club Officers,
-appoint special temporary committees (including the audit committee) when and if
-they are required, and act as an authorized signer (if necessary) of checks
-issued by the Club. The president shall conduct his actions for the club in a
-democratic fashion, strive hard to recognize, understand, and reflect the needs
-of all club members, and in general be responsible for the smooth day to day
-running of the club to the best of his ability. He shall also be responsible for
-the long range planning necessary to ensure continuous availability of a
-suitable flying field for the club. If the president is unable to attend a club
-meeting for any reason, he shall appoint a Deputy (usually the Vice President)
-to act in his stead.
+### President
 
-_Vice President._ The vice president shall act as Deputy for the President when
-he is not available, and be responsible to the President for all other
-circumstances. At each meeting, he shall give a report on old business from the
-prior meeting and shall endeavor to have such business considered and voted on
-by the membership in a timely fashion. He is also an authorized signer (if
-necessary) of checks issued by the Club, and is responsible for the
-communications within the Club outside of the areas of minutes and the Club
-newsletter. If the vice president is unable to attend a club meeting for any
-reason, he shall appoint a Deputy (usually the Treasurer) to act in his stead.
+The president shall preside at all club meetings, act as a spokesman for the
+club, coordinate the duties of the other Club Officers, appoint special
+temporary committees (including the audit committee) when and if they are
+required, and act as an authorized signer (if necessary) of checks issued by the
+Club. The president shall conduct his actions for the club in a democratic
+fashion, strive hard to recognize, understand, and reflect the needs of all club
+members, and in general be responsible for the smooth day to day running of the
+club to the best of his ability. He shall also be responsible for the long range
+planning necessary to ensure continuous availability of a suitable flying field
+for the club. If the president is unable to attend a club meeting for any
+reason, he shall appoint a Deputy (usually the Vice President) to act in his
+stead.
 
-_Treasurer._ The treasurer shall be responsible to the President, keep an accurate
-written record of all financial affairs of the club, give a report at each
-meeting of the current financial status of the club, collect and deposit all
-club dues, frequently analyze the clubs long term financial situation and make
+### Vice President
+
+The vice president shall act as Deputy for the President when he is not
+available, and be responsible to the President for all other circumstances. At
+each meeting, he shall give a report on old business from the prior meeting and
+shall endeavor to have such business considered and voted on by the membership
+in a timely fashion. He is also an authorized signer (if necessary) of checks
+issued by the Club, and is responsible for the communications within the Club
+outside of the areas of minutes and the Club newsletter. If the vice president
+is unable to attend a club meeting for any reason, he shall appoint a Deputy
+(usually the Treasurer) to act in his stead.
+
+### Treasurer
+
+The treasurer shall be responsible to the President, keep an accurate written
+record of all financial affairs of the club, give a report at each meeting of
+the current financial status of the club, collect and deposit all club dues,
+frequently analyze the clubs long term financial situation and make
 recommendations as how best to maintain solvency, act as liaison between the
 club and the club's banking institution, keep an up to date record of the clubs
 membership, and notify the club Secretary of membership status (e.g., those
@@ -150,91 +167,104 @@ act in his stead with the same authority to sign checks. If the Treasurer is
 unable to attend a club meeting for any reason, he shall appoint a Deputy
 (usually the Vice President) to act in his stead.
 
-_Secretary / Newsletter Editor._ The Secretary shall be responsible to the
-President, give a report at each meeting of the prior meeting minutes (noting
-any changes or corrections which may be required), take accurate minutes of the
-ongoing club meeting, and publish new minutes and the monthly club newsletter in
-a timely fashion. A copy of each month's club minutes and newsletter shall be
-sent timely to each BSRCC member by one of the following methods: (i) email
-(preferred method); or (ii) paper copy (i.e., if that particular member does not
-have emailing capability). If the Secretary cannot attend a club meeting for any
-reason, he shall appoint a Deputy (usually the Treasurer) to act in his stead.
+### Secretary / Newsletter Editor
 
-_Safety Officer._ The Safety Officer shall be responsible to the President,
-ensure that all model flying is conducted in a safe manner (i.e., in accordance
-with all AMA safety rules and club safety rules), and shall give a report on the
-clubs general safety status at each meeting. Additionally, he shall be the first
-point of contact with any member(s) who might fly in an unsafe manner, in hopes
-that voluntary compliance with all safety rules can then be achieved. If not, he
+The Secretary shall be responsible to the President, give a report at each
+meeting of the prior meeting minutes (noting any changes or corrections which
+may be required), take accurate minutes of the ongoing club meeting, and publish
+new minutes and the monthly club newsletter in a timely fashion. A copy of each
+month's club minutes and newsletter shall be sent timely to each BSRCC member by
+one of the following methods: (i) email (preferred method); or (ii) paper copy
+(i.e., if that particular member does not have emailing capability). If the
+Secretary cannot attend a club meeting for any reason, he shall appoint a Deputy
+(usually the Treasurer) to act in his stead.
+
+### Safety Officer
+
+The Safety Officer shall be responsible to the President, ensure that all model
+flying is conducted in a safe manner (i.e., in accordance with all AMA safety
+rules and club safety rules), and shall give a report on the clubs general
+safety status at each meeting. Additionally, he shall be the first point of
+contact with any member(s) who might fly in an unsafe manner, in hopes that
+voluntary compliance with all safety rules can then be achieved. If not, he
 shall report such incidents to the Board of Officers for further discussion and
 consideration, and appropriate action as may be necessary. If the Safety Officer
 cannot attend a club meeting for any reason, he shall appoint a Deputy (usually
 the Field Marshall) to act in his stead.
 
-_Field Marshall._ The Field Marshall shall be responsible to the President, and
-shall ensure that all field safety equipment (e.g., spectator safety fences,
-impound area, safety bulletin board, plane holding stations, plane assembly
-benches, pilot standing areas, pilot safety fences, etc.) is maintained in such
-manner as to meet all safety standards of both the AMA and the BSRCC.
-Additionally, he shall ensure that all field maintenance equipment (i.e., lawn
-mowers, weed eaters, etc.), and the field itself, are maintained in an
-acceptable condition to accommodate the usual model flying. He shall report on
-the general field status at each meeting, noting any deficiencies which are
-found, and shall organize assistance from any and all other BSRCC members as may
-be required in order to maintain the desired level of field maintenance for
-supporting an active flying club. It is expected that all members will respond
-positively to any request by the Field Marshall for any assistance with field
-maintenance work. If the Field Marshall cannot attend a club meeting for any
-reason, he shall appoint a Deputy (usually the Safety Officer) to act in his
-stead
+### Field Marshall
 
-_Board of Officers._ The Board of Officers shall consist of the collective
-officers of the BSRCC described above. In addition to their individual duties,
-the Board of Officers shall also have the collective responsibility to
-collaborate and cooperate with each other regarding the following global items
-related to club operations: (i) all safety at the field (flying and nonflying);
-(ii) day to day club maintenance, especially runway condition; (iii) day to day
-club operations (flying and nonflying); (iv) planning and execution of all club
-flyins, funflys, and competitions (if any), and sanctioning of same with AMA (if
-required); (v) long range planning necessary to ensure continuous availability
-of a suitable flying field for the club; and (vi) to consider and take
-appropriate action on any and all matters related to member discipline.
+The Field Marshall shall be responsible to the President, and shall ensure that
+all field safety equipment (e.g., spectator safety fences, impound area, safety
+bulletin board, plane holding stations, plane assembly benches, pilot standing
+areas, pilot safety fences, etc.) is maintained in such manner as to meet all
+safety standards of both the AMA and the BSRCC. Additionally, he shall ensure
+that all field maintenance equipment (i.e., lawn mowers, weed eaters, etc.), and
+the field itself, are maintained in an acceptable condition to accommodate the
+usual model flying. He shall report on the general field status at each meeting,
+noting any deficiencies which are found, and shall organize assistance from any
+and all other BSRCC members as may be required in order to maintain the desired
+level of field maintenance for supporting an active flying club. It is expected
+that all members will respond positively to any request by the Field Marshall
+for any assistance with field maintenance work. If the Field Marshall cannot
+attend a club meeting for any reason, he shall appoint a Deputy (usually the
+Safety Officer) to act in his stead
+
+### Board of Officers
+
+The Board of Officers shall consist of the collective officers of the BSRCC
+described above. In addition to their individual duties, the Board of Officers
+shall also have the collective responsibility to collaborate and cooperate with
+each other regarding the following global items related to club operations: (i)
+all safety at the field (flying and nonflying); (ii) day to day club
+maintenance, especially runway condition; (iii) day to day club operations
+(flying and nonflying); (iv) planning and execution of all club flyins, funflys,
+and competitions (if any), and sanctioning of same with AMA (if required); (v)
+long range planning necessary to ensure continuous availability of a suitable
+flying field for the club; and (vi) to consider and take appropriate action on
+any and all matters related to member discipline.
 
 ## ARTICLE V --- ANNUAL ELECTION OF OFFICERS {#v}
 
 Nominations and election of club officers shall be carried out each year as
 described below.
 
-_Nominations._ Nominations shall be made from the floor at the October club
-meeting for each officer position, and shall be made from only those members who
-satisfy all of the following criteria at the time of nomination: (i) they are 18
-years of age or older, (ii) they are current on payment of all club dues, (iii)
-they are not under disciplinary action for violation of any club rule, and (iv)
-they have been a member in good standing of BSRCC for a minimum of one calendar
-year or longer. Additionally, a given person may be nominated for only one
-officer position at any given time (i.e., no person shall be nominated to run
-for two officer positions simultaneously). The names of those members nominated
-for the various officer positions shall be published and highlighted in the
-October newsletter.
+### Nominations
 
-_Election._ Election of new officers shall be held at the November club Meeting,
-from those who have been nominated as per above, by means of majority vote of
-the members present at that meeting. The resulting new officer's names shall be
-published and highlighted in the November meeting newsletter.
+Nominations shall be made from the floor at the October club meeting for each
+officer position, and shall be made from only those members who satisfy all of
+the following criteria at the time of nomination: (i) they are 18 years of age
+or older, (ii) they are current on payment of all club dues, (iii) they are not
+under disciplinary action for violation of any club rule, and (iv) they have
+been a member in good standing of BSRCC for a minimum of one calendar year or
+longer. Additionally, a given person may be nominated for only one officer
+position at any given time (i.e., no person shall be nominated to run for two
+officer positions simultaneously). The names of those members nominated for the
+various officer positions shall be published and highlighted in the October
+newsletter.
 
-_Terms of Office._ Officers are elected for a one year time period, and shall
-serve from January 1 thru December 31 of the forthcoming year. There shall be no
-term limitations on any officer position (i.e., a given club member may serve
-multiple times in a particular officer position provided that he is duly
-nominated and elected each year by a majority vote of the membership).
+### Election
+
+Election of new officers shall be held at the November club Meeting, from those
+who have been nominated as per above, by means of majority vote of the members
+present at that meeting. The resulting new officer's names shall be published
+and highlighted in the November meeting newsletter.
+
+### Terms of Office
+
+Officers are elected for a one year time period, and shall serve from January 1
+through December 31 of the forthcoming year. There shall be no term limitations
+on any officer position (i.e., a given club member may serve multiple times in a
+particular officer position provided that he is duly nominated and elected each
+year by a majority vote of the membership).
 
 ## ARTICLE VI --- CLUB MEETINGS {#vi}
 
 Regular BSRCC Club Meetings shall be held on the first Tuesday of every month at
 6:30 PM, and at a location which is stated in the prior month's newsletter
-and/or on the club's web site at <www.bsrcc.com>. Meetings are typically held at
-the flying field club house. Additionally, Special Called Meetings may be
-organized by the club President, if and when necessary, with adequate prior
+and/or on the club's web site at <https://www.bsrcc.com>. Meetings are typically
+held at the flying field club house. Additionally, Special Called Meetings may
+be organized by the club President, if and when necessary, with adequate prior
 notification to the membership.
 
 ## ARTICLE VII --- RECORD KEEPING {#vii}
@@ -249,32 +279,37 @@ schedule described below. All records are the property of the BSRCC.
 
 ## ARTICLE VIII --- AUDIT AND SPECIAL COMMITTEES {#viii}
 
-_Audit Committee._ For transparency reasons, the outgoing President shall at the
-December meeting appoint two sitting club Officers plus one other club Member to
-audit the Treasurer's financial records for the past fiscal year. This committee
-shall conduct its audit of the records no later than the following January,
-discuss with the past Treasurer as may be needed in order to fully understand
-the clubs financial records, review its preliminary findings with the past
-Treasure to achieve concurrence on the conclusions, and then report the final
-audit conclusions to the club's general membership no later than the January
-club meeting. The Secretary shall publish the audit results in the January club
+### Audit Committee
+
+For transparency reasons, the outgoing President shall at the December meeting
+appoint two sitting club Officers plus one other club Member to audit the
+Treasurer's financial records for the past fiscal year. This committee shall
+conduct its audit of the records no later than the following January, discuss
+with the past Treasurer as may be needed in order to fully understand the clubs
+financial records, review its preliminary findings with the past Treasure to
+achieve concurrence on the conclusions, and then report the final audit
+conclusions to the club's general membership no later than the January club
+meeting. The Secretary shall publish the audit results in the January club
 newsletter. The audit committee shall be automatically disbanded following
 completion of the audit report.
 
-_Special Committees._ Special committees, if needed for any reason, may be
-appointed by the President at any club meeting. These committees shall operate
-under a specific charter, and for a specific time period defined by the
-President, and shall be automatically disbanded when their duties are completed.
+### Special Committees
+
+Special committees, if needed for any reason, may be appointed by the President
+at any club meeting. These committees shall operate under a specific charter,
+and for a specific time period defined by the President, and shall be
+automatically disbanded when their duties are completed.
 
 ## ARTICLE IX --- GENERAL CLUB RULES {#ix}
 
-_Safety Rules._ It is not feasible to make a complete and exhaustive listing of
-all safety and operational club rules that will make a model flying site
-function both safely and smoothly. However, history and experience are of great
-assistance in this endeavor, and the below list of items has been compiled based
-on the BSRCC's many years of prior club experience. These safety rules and
-guidelines are provided for the general benefit of all members, and are as
-follows:
+### Safety Rules
+
+It is not feasible to make a complete and exhaustive listing of all safety and
+operational club rules that will make a model flying site function both safely
+and smoothly. However, history and experience are of great assistance in this
+endeavor, and the below list of items has been compiled based on the BSRCC's
+many years of prior club experience. These safety rules and guidelines are
+provided for the general benefit of all members, and are as follows:
 
 - All published AMA safety rules must be obeyed at all times.
 - All published BSRCC safety rules must be obeyed at all times.
@@ -361,9 +396,11 @@ follows:
   field shall close and securely lock the main gate in order to protect the
   clubs facilities.
 
-_Other Rules._ BSRCC is much more than just a physical place to fly ones model
-airplane. Rather, it is viewed by the current membership as a highly enjoyable
-and picturesque place to fly ones model airplane, and also a place where club
+### Other Rules
+
+BSRCC is much more than just a physical place to fly ones model airplane.
+Rather, it is viewed by the current membership as a highly enjoyable and
+picturesque place to fly ones model airplane, and also a place where club
 members with a common aeromodeling interest can gather socially, share technical
 knowledge, train novice pilots, enjoy camaraderie and fellowship amongst
 themselves, have a laugh or two, and generally participate in an atmosphere
@@ -393,45 +430,50 @@ should it ever be required. This mechanism of enforcement will typically follow
 one or all of the following three steps, which will be carried out as necessary
 for reasons of safety and/or club stability.
 
-_First Violation._ For a first time, minor, accidental, or inadvertent violation
-of the above rules, the club Safety Officer acting after discussions and
-concurrence with the Board of Officers will privately, orally, and informally
-mention to the offending member what actions need to be corrected in order to be
-in keeping with accepted club norms. It is expected that the club member will
-then modify his behavior accordingly, and the situation is considered to be
-completely resolved with no further actions being required. This step will
-require that at least one club member in good standing have direct knowledge of
-the infraction, and be willing to so testify.
+### First Violation
 
-_Second Violation._ For a second time, more serious, willful, or purposeful
-violation of the above rules, the club Safety Officer acting after discussions
-and concurrence with the Board of Officers will in writing notify the offending
-member what actions need to be corrected in order to be in keeping with accepted
-club norms, and that failure to correct such actions in future will lead to his
-expulsion from the club. It is expected that the club member will then modify
-his behavior accordingly. This step will require that at least two club members
-in good standing have direct knowledge of the infraction, and be willing to so
-testify.
+For a first time, minor, accidental, or inadvertent violation of the above
+rules, the club Safety Officer acting after discussions and concurrence with the
+Board of Officers will privately, orally, and informally mention to the
+offending member what actions need to be corrected in order to be in keeping
+with accepted club norms. It is expected that the club member will then modify
+his behavior accordingly, and the situation is considered to be completely
+resolved with no further actions being required. This step will require that at
+least one club member in good standing have direct knowledge of the infraction,
+and be willing to so testify.
 
-_Third Violation._ For a third time, highly serious, or blatantly defiant
-violation of the above rules, the club President acting after discussions and
-concurrence with the Board of Officers will in writing notify the offending
-member that he is to appear before the Board of Officers to defend and/or
-explain his actions for not following the club rules. This step will require
-that at least three club members in good standing have direct knowledge of the
-infraction, and be willing to so testify and discuss with the Board of Officers.
-Following discussion from the club members in good standing who have direct
-knowledge of the infraction, and defense/explanation by the offending member of
-his actions, the Board of Officers shall decide by majority vote whether: (i)
-the offending member is to be expelled from the club; (ii) the offending member
-may remain a club member with no constraints/restrictions; or (iii) the
-offending member may remain a club member but with certain
-constraints/restrictions as may be prescribed by the Board of Officers. Whatever
-decision is reached by the Board of Officers, such decision is final and shall
-not be subject to question, negotiation, or further appeal. The decision by the
-Board of Officers shall be clearly communicated in writing to the offending
-member. If a member is expelled for serious or repeated infraction of club
-rules, no refund of "unused dues" shall be made.
+### Second Violation
+
+For a second time, more serious, willful, or purposeful violation of the above
+rules, the club Safety Officer acting after discussions and concurrence with the
+Board of Officers will in writing notify the offending member what actions need
+to be corrected in order to be in keeping with accepted club norms, and that
+failure to correct such actions in future will lead to his expulsion from the
+club. It is expected that the club member will then modify his behavior
+accordingly. This step will require that at least two club members in good
+standing have direct knowledge of the infraction, and be willing to so testify.
+
+### Third Violation
+
+For a third time, highly serious, or blatantly defiant violation of the above
+rules, the club President acting after discussions and concurrence with the
+Board of Officers will in writing notify the offending member that he is to
+appear before the Board of Officers to defend and/or explain his actions for not
+following the club rules. This step will require that at least three club
+members in good standing have direct knowledge of the infraction, and be willing
+to so testify and discuss with the Board of Officers. Following discussion from
+the club members in good standing who have direct knowledge of the infraction,
+and defense/explanation by the offending member of his actions, the Board of
+Officers shall decide by majority vote whether: (i) the offending member is to
+be expelled from the club; (ii) the offending member may remain a club member
+with no constraints/restrictions; or (iii) the offending member may remain a
+club member but with certain constraints/restrictions as may be prescribed by
+the Board of Officers. Whatever decision is reached by the Board of Officers,
+such decision is final and shall not be subject to question, negotiation, or
+further appeal. The decision by the Board of Officers shall be clearly
+communicated in writing to the offending member. If a member is expelled for
+serious or repeated infraction of club rules, no refund of "unused dues" shall
+be made.
 
 ## ARTICLE XI --- DISSOLUTION OF CLUB {#xi}
 
@@ -444,41 +486,47 @@ remaining Club assets, if any, in a manner which is equitable to all members.
 
 ## ARTICLE XII --- MEMBERSHIP APPLICATIONS, RENEWALS, DUES, AND ASSESSMENTS {#xii}
 
-_New Membership Applications._ BSRCC has open membership which is generally
-available to all persons interested in model aviation provided they are of good,
-safe, honest, cooperative, courteous, and friendly reputation. A New Membership
-Application Form is available on the Club's website at <www.bsrcc.com>, and
-contains all instructions required for completing and submitting the
-application.
+### New Membership Applications
 
-_Existing Membership Renewals._ For existing members, annual dues are due and
-payable on January 1 of each year, and are considered delinquent after that
-date. Existing members may conveniently renew their membership by the following
-process: (i) make a photocopy of your current and valid AMA card; (ii) write on
-the front of it your applicable membership class; (iii) attach a check for the
-applicable annual dues amount; and (iv) mail all these items to the current club
-Treasurer (address information is available at <www.bsrcc.com>). Any existing
-membership which is not renewed by February 28 of a given year will be sent an
-email reminder of the delinquency. Any existing membership which is not renewed
-by March 31 of a given year will be considered as voluntarily relinquished and
-dropped from the club roster.
+BSRCC has open membership which is generally available to all persons interested
+in model aviation provided they are of good, safe, honest, cooperative,
+courteous, and friendly reputation. A New Membership Application Form is
+available on the Club's website at <https://www.bsrcc.com>, and contains all
+instructions required for completing and submitting the application.
 
-_Annual Dues Amount._ The current and applicable Annual Dues Amount for each
-Membership Class is shown on the New Membership Application Form, for both New
-Membership Applications and Existing Membership Renewals. New Membership Annual
-Dues Amount may be prorated depending on which month they join in (see New
-Membership Application Form for details), however, Existing Membership Annual
-Dues Amount shall not be prorated.
+### Existing Membership Renewals
 
-_Special Assessments._ "Special Assessments", which are intended to address
-emergency, unusual, and/or extraordinary events, may potentially be proposed and
-accepted by the membership from time to time. Examples of such events might be
-the replacement of a stolen lawnmower, having the field rent unexpectedly
-raised, having to replace a field shed damaged by weather, or similar such
-events. If any special assessments are accepted by the membership per majority
-vote at a scheduled club meeting, then the individual assessment amount levied
-on each member shall be equal to the total special assessment amount divided by
-the total number of members in the club at that time.
+For existing members, annual dues are due and payable on January 1 of each year,
+and are considered delinquent after that date. Existing members may conveniently
+renew their membership by the following process: (i) make a photocopy of your
+current and valid AMA card; (ii) write on the front of it your applicable
+membership class; (iii) attach a check for the applicable annual dues amount;
+and (iv) mail all these items to the current club Treasurer (address information
+is available at <https://www.bsrcc.com>). Any existing membership which is not
+renewed by February 28 of a given year will be sent an email reminder of the
+delinquency. Any existing membership which is not renewed by March 31 of a given
+year will be considered as voluntarily relinquished and dropped from the club
+roster.
+
+### Annual Dues Amount
+
+The current and applicable Annual Dues Amount for each Membership Class is shown
+on the New Membership Application Form, for both New Membership Applications and
+Existing Membership Renewals. New Membership Annual Dues Amount may be prorated
+depending on which month they join in (see New Membership Application Form for
+details), however, Existing Membership Annual Dues Amount shall not be prorated.
+
+### Special Assessments
+
+"Special Assessments", which are intended to address emergency, unusual, and/or
+extraordinary events, may potentially be proposed and accepted by the membership
+from time to time. Examples of such events might be the replacement of a stolen
+lawnmower, having the field rent unexpectedly raised, having to replace a field
+shed damaged by weather, or similar such events. If any special assessments are
+accepted by the membership per majority vote at a scheduled club meeting, then
+the individual assessment amount levied on each member shall be equal to the
+total special assessment amount divided by the total number of members in the
+club at that time.
 
 ## ARTICLE XIII --- MEMBER VOTING RIGHTS {#xiii}
 
