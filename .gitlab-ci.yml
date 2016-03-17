@@ -4,7 +4,7 @@ variables:
   JEKYLL_ENV: production
 
 before_script:
-  - bower install
+  - su nobody -c 'bower install'
 
 stages:
   - build
