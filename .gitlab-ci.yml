@@ -1,0 +1,16 @@
+image: tortxof/webdev
+
+variables:
+  JEKYLL_ENV: production
+
+stages:
+  - build
+
+jekyll:
+  stage: build
+  script:
+    - jekyll build
+  tags:
+    - webdev
+  only:
+    - master
