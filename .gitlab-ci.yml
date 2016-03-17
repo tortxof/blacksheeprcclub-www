@@ -3,6 +3,9 @@ image: tortxof/webdev
 variables:
   JEKYLL_ENV: production
 
+before_script:
+  - bower install
+
 stages:
   - build
 
