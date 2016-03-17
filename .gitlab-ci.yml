@@ -3,17 +3,15 @@ image: tortxof/webdev
 variables:
   JEKYLL_ENV: production
 
-before_script:
-  - bower install --allow-root
-
-stages:
-  - build
-
 jekyll:
   stage: build
   script:
+    - bower install --allow-root
     - jekyll build
   tags:
     - webdev
   only:
     - master
+  artifacts:
+    paths:
+      - _site/
