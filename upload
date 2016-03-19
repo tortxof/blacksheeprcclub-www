@@ -1,1 +1,1 @@
-rsync -av --delete _site/ europa.djones.co:/var/www/servers/blacksheeprcclub.com/
+rsync -av --delete _site/ titan.djones.co:/home/tortxof/servers/bsrcc.com/
