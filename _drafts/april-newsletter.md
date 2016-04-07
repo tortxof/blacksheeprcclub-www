@@ -22,8 +22,8 @@ If anyone sees any issues with the field or buildings, please let Morgan
 
 Treasurer's report was accepted as read.
 
-Dick Russell submitted a written resignation from the office of Treasurer. We
-would like to thank Dick for his service as Treasurer.
+Dick Russell, for personal reasons, submitted a written resignation from the
+office of Treasurer. We would like to thank Dick for his service as Treasurer.
 
 At the next meeting we will discuss donations for raffle and/or auction. Contact
 Dennis <dennis18@charter.net> if you would like to donate any items for the club
