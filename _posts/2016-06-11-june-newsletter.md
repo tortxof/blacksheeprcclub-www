@@ -20,7 +20,7 @@ Swords, Dennis Beard, Tony Denton, and Daniel Jones.
 A club fly-in is planned for June 25, 2016. This fly-in is open to any
 aircraft type. There will be no landing fee and lunch will be provided at no
 charge. Donations are appreciated. This event is for club members and their
-immediate family. Come spend the day with your fellow club members.
+immediate family. Come spend the day with your fellow club members!
 
 An electric fly-in is planned for September 24, 2016. At this time it is unknown
 if this will be an AMA sanctioned fly-in.
