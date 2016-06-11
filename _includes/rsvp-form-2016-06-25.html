@@ -1,0 +1,31 @@
+<form action="https://signup.djones.co/submit/mzrLJw60j-YfsCfISHnEWmzGO9WK99zL" method="post">
+  <input type="hidden" name="next" value="https://www.bsrcc.com/rsvp/thankyou/">
+  <input id="member_id_input" type="hidden" name="member_id" value="">
+  <div class="input-group">
+    <label for="select-attending">Will you be attending the fly-in on June 25, 2016?</label>
+    <select id="select-attending" name="attending">
+      <option value="yes">Yes, I will be attending.</option>
+      <option value="no">No, I will not be attending.</option>
+      <option value="unsure">I am unsure.</option>
+    </select>
+    <label for="input-guests">How many guests are you bringing?</label>
+    <input id="input-guests" type="text" name="guests" value="0">
+    <button type="submit">Submit</button>
+  </div>
+</form>
+
+<script type="text/javascript">
+  function getQuery() {
+    var query = window.location.search.substring(1);
+    var items = query.split("&");
+    var items_object = {};
+    for (var i=0; i<items.length; i++) {
+      var item = items[i].split("=");
+      items_object[item[0]] = item[1];
+    }
+    return items_object;
+  }
+
+  var member_id_input = document.getElementById('member_id_input');
+  member_id_input.value = getQuery()['mid'];
+</script>

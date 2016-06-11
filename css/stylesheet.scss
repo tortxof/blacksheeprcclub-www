@@ -50,7 +50,7 @@ body {
   color: #333;
 }
 
-input, button {
+input, button, select {
   font-family: 'Open Sans',sans-serif;
   font-size: 1em;
 }
@@ -219,7 +219,7 @@ td {
   padding: 0 2em;
 }
 
-input {
+input, select {
   box-sizing: border-box;
   width: 100%;
   margin-bottom: 1em;
@@ -237,6 +237,7 @@ form button {
   color: white;
   border-radius: .5em;
   padding: .5em;
+  margin: 1em 0;
   box-shadow: $small-shadow;
 }
 
