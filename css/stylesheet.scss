@@ -50,6 +50,15 @@ body {
   color: #333;
 }
 
+input, button {
+  font-family: 'Open Sans',sans-serif;
+  font-size: 1em;
+}
+
+button {
+  font-weight: 700;
+}
+
 a {
   color: saturate($nav-dark, 50%);
 }
@@ -203,6 +212,31 @@ td {
 .video-thumb {
   float: left;
   margin: 3px 1em 5px 3px;
+  box-shadow: $small-shadow;
+}
+
+.input-group {
+  padding: 0 2em;
+}
+
+input {
+  box-sizing: border-box;
+  width: 100%;
+  margin-bottom: 1em;
+  padding: .5em;
+  border: 3px solid mix(white, $header-color, 50%);
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+  background-color: white;
+}
+
+form button {
+  background-color: $header-color;
+  background-image: linear-gradient(mix(#fff, $header-color, 15%), mix(#000, $header-color, 15%));
+  color: white;
+  border-radius: .5em;
+  padding: .5em;
   box-shadow: $small-shadow;
 }
 
