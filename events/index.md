@@ -11,6 +11,8 @@ title: Events
 Black Sheep RC Club will be holding an electric fly-in on Saturday, September
 24, 2016. All electric powered aircraft are welcome.
 
+[PDF Flyer](/events/bsrcc-electric-fly-in-2016-08.pdf)
+
 ## Past Events
 
 - Electric Fly-in May 2016
