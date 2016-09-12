@@ -25,6 +25,10 @@ John D Bernard and Ronald Douglas 'Doug' Starwalt's RC modeling site.
 
 [The Hobby Connection](http://www.hobbysc.com/)
 
+## Other
+
+[Drone Buying Guide from Best Buy](http://www.bestbuy.com/site/buying-guides/drones-buying-guide/pcmcat381100050003.c?id=pcmcat381100050003)
+
 {:.small}
 The links on this page are provided solely as a courtesy to web users seeking
 other general RC modeling information. These web sites are not part of the BSRCC
