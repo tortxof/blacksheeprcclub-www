@@ -177,25 +177,28 @@ td {
 
 /* Reusable Elements */
 
-.thumbnail-container {
-  text-align: center;
+.images {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
 
 .thumbnail {
-  display: inline-block;
-  font-size: .8em;
-  text-align: center;
-  width: 198px;
-  height: 198px;
-  padding: 0;
-  margin: 4px;
+  display: flex;
+  width: 150px;
+  height: 150px;
+  justify-content: center;
+  align-items: center;
 }
 
-.thumbnail img {
-  display: block;
+.image {
   border: 3px solid white;
-  border-radius: 7px;
   box-shadow: $small-shadow;
+  border-radius: 3px;
+}
+
+.image img {
+  display: block;
 }
 
 .photo-title {

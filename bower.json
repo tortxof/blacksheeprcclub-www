@@ -22,6 +22,8 @@
     "jquery": "~2.2.0",
     "jquery-colorbox": "~1.6.3",
     "compass-breakpoint": "breakpoint-sass#~2.6.1",
-    "susy": "~2.2.11"
+    "susy": "~2.2.11",
+    "fetch": "^1.0.0",
+    "es6-promise": "^4.0.5"
   }
 }

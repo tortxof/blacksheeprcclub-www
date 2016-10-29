@@ -1,14 +1,9 @@
 ---
 layout: default
 title: Photos
+js:
+  - /bower_components/es6-promise/es6-promise.auto.min.js
+  - /bower_components/fetch/fetch.js
+  - /js/photos.js
 ---
-<div class="thumbnail-container">
-  {% for photo in site.data.photos %}
-  <div class="thumbnail">
-    <a href="/photos/large/{{ photo.file }}"{% if photo.title %} title="{{ photo.title }}"{% endif %}>
-      <img src="/photos/small/{{ photo.file }}" />
-    </a>
-    {% if photo.title %}<div class="photo-title">{{ photo.title }}</div>{% endif %}
-  </div>
-  {% endfor %}
-</div>
+<div class="images"></div>

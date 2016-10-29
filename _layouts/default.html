@@ -44,6 +44,11 @@
   </div><!-- end main -->
 
   <script src="/js/site.js"></script>
+  {% if page.js %}
+  {% for js_file in page.js %}
+    <script src="{{js_file}}"></script>
+  {% endfor %}
+  {% endif %}
 
 </body>
 </html>
