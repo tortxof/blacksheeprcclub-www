@@ -1,1 +1,2 @@
 docker run --rm -u $(id -u):$(id -g) -v $(pwd):/host tortxof/webdev jekyll build -D
+docker run --rm -u $(id -u):$(id -g) -v $(pwd):/host tortxof/webdev autoprefixer-cli _site/css/stylesheet.css
