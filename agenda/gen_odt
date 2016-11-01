@@ -1,1 +1,0 @@
-pandoc index.md --reference-odt reference.odt -s -o agenda.odt
