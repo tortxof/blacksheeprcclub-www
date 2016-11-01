@@ -6,4 +6,4 @@ docker run --rm \
   -v $(pwd):/host \
   -w /host \
   tortxof/awscli \
-  aws s3 sync _site s3://www.bsrcc.com
+  aws s3 sync _site s3://www.bsrcc.com --delete
