@@ -1,1 +1,1 @@
-rsync -av --delete _site/ sol.djones.co:/var/www/servers/blacksheep.djones.co/
+stout deploy --env dev

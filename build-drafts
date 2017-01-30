@@ -1,4 +1,4 @@
-webdev_run bower install
+bower install
 rm -r _site
-docker run --rm -u $(id -u):$(id -g) -v $(pwd):/host tortxof/webdev jekyll build -D
-docker run --rm -u $(id -u):$(id -g) -v $(pwd):/host tortxof/webdev autoprefixer-cli _site/css/stylesheet.css
+jekyll build -D
+autoprefixer-cli _site/css/stylesheet.css

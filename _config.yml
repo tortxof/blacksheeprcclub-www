@@ -9,6 +9,7 @@ exclude:
 - build
 - upload
 - serve
+- deploy.yaml
 - gen_photo_small
 - gen_photo_yaml
 - assets

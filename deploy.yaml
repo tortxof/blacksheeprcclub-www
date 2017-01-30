@@ -1,0 +1,8 @@
+default:
+  root: "./_site"
+
+dev:
+  bucket: "next.bsrcc.com"
+
+production:
+  bucket: "www.bsrcc.com"
