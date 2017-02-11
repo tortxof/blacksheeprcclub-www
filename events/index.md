@@ -6,6 +6,11 @@ title: Events
 
 {% include event-signup-form.html %}
 
+### BSRCC will be hosting an electric fly-in on Saturday, May 6, 2017.
+
+Pilot fee is $20 and includes lunch. No admission fee for spectators. More
+details will be available here soon.
+
 ## Past Events
 
 - Electric Fly-in September 2016
