@@ -1,6 +1,18 @@
 @import "compass/css3";
 @import "susy";
 
+@font-face {
+  font-family: 'Lora';
+  font-weight: 400;
+  src: url('../Lora-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Lora';
+  font-weight: 700;
+  src: url('../Lora-Bold.ttf');
+}
+
 $header-height: 1.2in;
 
 html {
