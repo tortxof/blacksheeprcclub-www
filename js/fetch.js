@@ -1,1 +1,3 @@
-../bower_components/fetch/fetch.js
+---
+---
+{% include fetch.js %}
