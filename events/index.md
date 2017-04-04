@@ -11,6 +11,8 @@ title: Events
 Pilot fee is $20 and includes lunch. No admission fee for spectators. More
 details will be available here soon.
 
+[PDF Flyer](/events/bsrcc-electric-fly-in-2017-05.pdf)
+
 ## Past Events
 
 - Electric Fly-in September 2016
