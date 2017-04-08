@@ -6,6 +6,12 @@ import subprocess
 import json
 import datetime
 
+def rmfm(input_str):
+    sections = input_str.split('---\n', maxsplit=2)
+    if (sections[0] != ''):
+        return input_str
+    return sections[2]
+
 config_file = 'config.json'
 
 if __name__ == '__main__':
@@ -34,8 +40,7 @@ if __name__ == '__main__':
     meeting_date_str = meeting_date.strftime('%B %Y')
     next_meeting_str = next_meeting.strftime('%B ') + str(next_meeting.day)
     with open(post_file) as f:
-        post_md = f.read()
-    post_md = subprocess.check_output(['rmfm'], input=post_md.encode())
+        post_md = rmfm(f.read()).encode()
     post_html = subprocess.check_output(['docker', 'run', '-i', '--rm', 'tortxof/webdev', 'kramdown'], input=post_md).decode()
     template_html = subprocess.check_output(['docker', 'run', '--rm',
         '-v', '{}:/host'.format(os.getcwd()), '-u', '{}:{}'.format(str(os.getuid()), str(os.getgid())),
