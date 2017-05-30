@@ -6,8 +6,6 @@ title: Events
 
 {% include event-signup-form.html %}
 
-### The fly-in on Saturday, May 6 has been canceled due to high winds.
-
 ## Past Events
 
 - Electric Fly-in September 2016
