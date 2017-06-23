@@ -14,6 +14,24 @@ function sort_images(images) {
   .map(function(el) {return images[el.i]})
 }
 
+function show_image(url) {
+  var modal = document.createElement('div')
+  modal.style.backgroundImage = 'url(' + url + '), linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5))'
+  modal.style.backgroundSize = 'contain'
+  modal.style.backgroundRepeat = 'no-repeat'
+  modal.style.backgroundPosition = 'center center'
+  modal.style.position = 'fixed'
+  modal.style.top = '0'
+  modal.style.bottom = '0'
+  modal.style.left = '0'
+  modal.style.right = '0'
+  document.body.appendChild(modal)
+  modal.addEventListener('click', function(e) {
+    e.target.parentNode.removeChild(e.target)
+  })
+
+}
+
 fetch('https://imghost.djones.co/api/c/bsrcc')
 .then(function(response) {
   if (response.status === 200) {
@@ -35,7 +53,12 @@ fetch('https://imghost.djones.co/api/c/bsrcc')
         images_div.appendChild(image_container)
         img.src = image.thumbs['128'].url
       })
-      $('.image>a').colorbox({rel: 'all', maxWidth: '100%', maxHeight: '100%'});
+      Array.prototype.forEach.call(document.querySelectorAll('.image > a'), function(el) {
+        el.addEventListener('click', function(e) {
+          show_image(e.target.parentNode.href)
+          e.preventDefault()
+        })
+      })
     })
   }
 })
