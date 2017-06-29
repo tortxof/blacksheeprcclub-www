@@ -1,4 +1,1 @@
-bower install
-rm -r _site
 JEKYLL_ENV=production jekyll build
-autoprefixer-cli _site/css/stylesheet.css
