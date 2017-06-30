@@ -16,7 +16,8 @@ function sort_images(images) {
 
 function show_image(url) {
   var modal = document.createElement('div')
-  modal.style.backgroundImage = 'url(' + url + '), linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5))'
+  modal.style.backgroundColor = 'rgba(0,0,0,0.8)'
+  modal.style.backgroundImage = 'url(' + url + ')'
   modal.style.backgroundSize = 'contain'
   modal.style.backgroundRepeat = 'no-repeat'
   modal.style.backgroundPosition = 'center center'
