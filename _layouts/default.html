@@ -22,10 +22,11 @@
 
     <div class="header"><div class="header-img"><p itemprop="name">{{ site.name }}</p></div></div>
 
-    <button id="nav-expand"><i class="fa fa-bars fa-2x"></i></button>
-
     <nav id="nav" role="navigation">
-      {% include nav.html %}
+      <button id="nav-expand" v-if="small_screen" v-on:click="toggle"><i :class="['fa','fa-2x', visible?'fa-times':'fa-bars']"></i></button>
+      <div v-if="!small_screen || visible">
+        {% include nav.html %}
+      </div>
     </nav><!-- end nav -->
 
     <div id="content">
@@ -39,6 +40,7 @@
 
   </div><!-- end main -->
 
+  <script src="https://unpkg.com/vue@2.3.4" charset="utf-8"></script>
   <script src="/js/site.js"></script>
   {% if page.js %}
   {% for js_file in page.js %}
