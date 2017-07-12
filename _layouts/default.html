@@ -23,10 +23,10 @@
     <div class="header"><div class="header-img"><p itemprop="name">{{ site.name }}</p></div></div>
 
     <nav id="nav" role="navigation">
-      <button id="nav-expand" v-if="small_screen" v-on:click="toggle"><i :class="['fa','fa-2x', visible?'fa-times':'fa-bars']"></i></button>
       <div v-if="!small_screen || visible">
         {% include nav.html %}
       </div>
+      <button id="nav-expand" v-if="small_screen" v-on:click="toggle"><i :class="['fa','fa-2x', visible?'fa-times':'fa-bars']"></i></button>
     </nav><!-- end nav -->
 
     <div id="content">
