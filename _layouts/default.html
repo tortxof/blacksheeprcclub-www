@@ -18,7 +18,9 @@
 </head>
 <body>
 
-  <header>{{ site.name }}</header>
+  <header>
+    <div class="title">{{ site.name }}</div>
+  </header>
 
   <nav id="nav" role="navigation">
     <div v-if="!small_screen || visible">
