@@ -1,19 +1,49 @@
-.images
+[v-cloak]
+  display: none
+
+#photos
   display: flex
   flex-wrap: wrap
   justify-content: space-around
 
-  .thumbnail
+  .photo
     width: 144px
     height: 144px
     display: flex
     justify-content: center
     align-items: center
 
-  .image
-    border: 3px solid white
-    border-radius: 3px
-    box-shadow: 0 2px 3px black
-
     img
       display: block
+      border: 3px solid white
+      border-radius: 3px
+      box-shadow: 0 2px 3px black
+
+.modal
+  position: fixed
+  top: 0
+  bottom: 0
+  left: 0
+  right: 0
+  background-color: rgba(black, 0.8)
+  background-repeat: no-repeat
+  background-position: center center
+  background-size: contain
+  display: flex
+  justify-content: space-between
+  align-items: center
+
+  button
+    font-family: monospace
+    color: white
+    font-size: 4rem
+    background-color: rgba(black, 0.4)
+    border: 0
+    padding: 0.5rem
+    line-height: 1
+    box-shadow: 0 0 2px black
+
+  .modal-close
+    position: fixed
+    top: 0
+    right: 0

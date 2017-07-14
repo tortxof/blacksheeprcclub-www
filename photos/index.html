@@ -6,4 +6,20 @@ js:
   - 'https://cdnjs.cloudflare.com/ajax/libs/fetch/2.0.3/fetch.min.js'
   - /js/photos.js
 ---
-<div class="images"></div>
+<div v-cloak id="photos">
+  <div class="photo" v-for="(image, index) in images">
+    <img
+      :src="image.thumbs[128].url"
+      :alt="image.title"
+      @click="showModal(index)"
+      :width="image.thumbs[128].size.width"
+      :height="image.thumbs[128].size.height"
+      :style="gradientBackground(index)"
+    >
+  </div>
+  <div class="modal" v-if="modalVisible" :style="{backgroundImage: 'url(' + images[modalIndex].url + ')'}">
+    <button class="modal-close" @click="closeModal">&times;</button>
+    <button class="modal-left" @click="prevImage">&lsaquo;</button>
+    <button class="modal-right" @click="nextImage">&rsaquo;</button>
+  </div>
+</div>
