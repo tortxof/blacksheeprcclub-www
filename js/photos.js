@@ -19,7 +19,19 @@ var photosVue = new Vue({
     modalVisible: false,
     modalIndex: null
   },
+  created: function() {
+    window.addEventListener('keyup', this.keyHandler)
+  },
+  beforeDestroy: function() {
+    window.removeEventListener('keyup', this.keyHandler)
+  },
   methods: {
+    keyHandler: function(e) {
+      if (!this.modalVisible) return
+      if (e.key === 'Escape') this.closeModal()
+      else if (e.key === 'ArrowLeft') this.prevImage()
+      else if (e.key === 'ArrowRight') this.nextImage()
+    },
     gradientBackground: function(index) {
       var colors = this.images[index].colors
       return {backgroundImage: 'linear-gradient(45deg,' + colors.slice(0, 3) + ')'}
