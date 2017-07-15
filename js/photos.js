@@ -24,8 +24,8 @@ var photosVue = new Vue({
   },
   mounted: function() {
     var hammer = new Hammer(this.$el)
-    hammer.on('swipeleft', this.prevImage)
-    hammer.on('swiperight', this.nextImage)
+    hammer.on('swipeleft', this.nextImage)
+    hammer.on('swiperight', this.prevImage)
   },
   beforeDestroy: function() {
     window.removeEventListener('keyup', this.keyHandler)
