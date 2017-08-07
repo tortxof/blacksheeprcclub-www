@@ -1,1 +1,1 @@
-../_posts/2017-06-20-june-newsletter.md
+../_posts/2017-08-07-august-newsletter.md
