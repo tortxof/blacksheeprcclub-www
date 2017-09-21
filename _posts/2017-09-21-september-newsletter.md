@@ -3,7 +3,7 @@ layout: post
 title: September Newsletter
 newsletter: 2017-09
 ---
-## Meeting minutes from August 1, 2017.
+## Meeting minutes from September 5, 2017.
 
 Meeting called to order at 6:30 PM.
 
