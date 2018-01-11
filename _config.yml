@@ -17,3 +17,6 @@ exclude:
 - Procfile
 - rmfm
 - old
+- node_modules
+- package.json
+- package-lock.json

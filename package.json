@@ -1,0 +1,19 @@
+{
+  "name": "blacksheeprcclub-www",
+  "version": "1.0.0",
+  "description":
+    "Official website of the Black Sheep RC Club, located in Pendleton, SC.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tortxof/blacksheeprcclub-www.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "^1.8.2"
+  }
+}
