@@ -1,13 +1,17 @@
 ---
-layout: default
+layout: base
 title: News
 ---
-{% include news-feature.html %}
-{% for post in site.posts limit:10 %}
-<p>
-<span class="post_date">{{ post.date | date: "%Y-%m-%d" }}</span>
- - <a href="{{ post.url }}">{{ post.title }}</a>
-</p>
-{% endfor %}
-
-<p><a href="/archive">More...</a></p>
+<div class="content"><h1>{{ page.title }}</h1></div>
+<div class="content-full-width no-padding">
+  {% include news-feature.html %}
+</div>
+<div class="content">
+  {% for post in site.posts limit:10 %}
+  <p>
+    <span class="post_date">{{ post.date | date: "%Y-%m-%d" }}</span>
+    - <a href="{{ post.url }}">{{ post.title }}</a>
+  </p>
+  {% endfor %}
+  <p><a href="/archive">More...</a></p>
+</div>
