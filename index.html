@@ -3,9 +3,9 @@ layout: base
 title: News
 ---
 <div class="content"><h1>{{ page.title }}</h1></div>
-<div class="content-full-width no-padding">
-  {% include news-feature.html %}
-</div>
+
+{% include news-feature.html %}
+
 <div class="content">
   {% for post in site.posts limit:10 %}
   <p>
