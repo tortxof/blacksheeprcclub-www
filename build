@@ -1,4 +1,4 @@
-npm install
+yarn install
 node_modules/.bin/bower install
 rm -r _site
 JEKYLL_ENV=production jekyll build
