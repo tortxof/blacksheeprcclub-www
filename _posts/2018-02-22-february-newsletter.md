@@ -18,4 +18,4 @@ payment for the year 2018.
 
 ## Announcements
 
-Just a reminder, a club workday is planned for March 25.
+Just a reminder, a club workday is planned for March 24.
