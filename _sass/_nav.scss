@@ -1,0 +1,20 @@
+nav {
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    list-style-type: none;
+  }
+  a {
+    display: block;
+    padding: 0.3em;
+    padding-left: 1em;
+    margin: 0.2em;
+    border: 1px solid black;
+    color: black;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.8em;
+  }
+}

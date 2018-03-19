@@ -1,0 +1,13 @@
+header {
+  background-color: $cBackground;
+  background-image: linear-gradient(rgba(black, 0.3), rgba(black, 0.3)),
+    url('https://s3.amazonaws.com/djones-imghost/Jtr5kSqw/2012-06-09.14-24-28.9d77e960.jpg');
+  background-size: cover;
+  background-position: 0% 35%;
+  height: 128px;
+  .title {
+    font-size: 3em;
+    margin: 0.5em;
+    color: white;
+  }
+}

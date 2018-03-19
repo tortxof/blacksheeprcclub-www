@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+}
+
+body.news {
+  .container {
+    display: grid;
+    grid-template-columns: [col_start] repeat(6, 1fr) [col_end];
+    grid-template-rows: auto;
+    header {
+      grid-area: 1 / col_start / 2 / col_end;
+    }
+    .feature-photo {
+      height: 5em;
+      grid-area: 2 / 2 / 3 / 4;
+    }
+    .feature-video {
+      height: 5em;
+      grid-area: 2 / 4 / 3 / 6;
+    }
+    nav {
+      grid-area: 3 / 2 / 5 / 3;
+    }
+    .cta {
+      height: 8em;
+      grid-area: 3 / 3 / 4 / 6;
+    }
+    .content {
+      grid-area: 4 / 3 / auto / 6;
+    }
+    footer {
+      grid-area: auto / col_start / auto / col_end;
+    }
+  }
+}
