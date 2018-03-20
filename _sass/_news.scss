@@ -1,0 +1,54 @@
+body.news {
+  .feature-photo {
+    position: relative;
+    background-color: $cBackground;
+    background-image: url('/images/flite-test-2014.jpg');
+    background-position: center top;
+    background-size: cover;
+    p {
+      position: absolute;
+      margin: 1em;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      a {
+        color: white;
+      }
+    }
+  }
+  .feature-video {
+    position: relative;
+    iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+  }
+
+  .announcements,
+  .events {
+    margin: 1rem;
+    padding: 1rem;
+    background-color: $cBackground;
+    color: white;
+    a {
+      color: white;
+    }
+    ul {
+      padding-left: 2em;
+    }
+  }
+
+  .cta {
+    padding: 1rem;
+    grid-column: 1 / 3;
+  }
+
+  .content {
+    margin: 0 auto;
+    padding: 1rem;
+    grid-column: 1 / 3;
+  }
+}
