@@ -9,6 +9,10 @@
   }
 }
 
+#nav {
+  z-index: 100;
+}
+
 #nav > div {
   display: flex;
   flex-direction: column;
