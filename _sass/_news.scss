@@ -5,12 +5,15 @@ body.news {
     background-image: url('/images/flite-test-2014.jpg');
     background-position: center top;
     background-size: cover;
-    p {
+    .text {
+      font-size: 0.8em;
+      background-color: rgba(black, 0.5);
       position: absolute;
-      margin: 1em;
+      box-sizing: border-box;
+      max-width: 100%;
+      padding: 1em;
       bottom: 0;
-      left: 0;
-      width: 100%;
+      right: 0;
       a {
         color: white;
       }
@@ -29,8 +32,8 @@ body.news {
 
   .announcements,
   .events {
-    margin: 1rem;
-    padding: 1rem;
+    overflow: hidden;
+    padding: 0 1rem;
     background-color: $cBackground;
     color: white;
     a {
@@ -38,6 +41,9 @@ body.news {
     }
     ul {
       padding-left: 2em;
+    }
+    @media (min-width: $bpSmall) {
+      margin: 1rem;
     }
   }
 
