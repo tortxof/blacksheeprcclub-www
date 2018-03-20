@@ -44,6 +44,8 @@ body.news {
     }
     @media (min-width: $bpSmall) {
       margin: 1rem;
+      border-radius: 1rem;
+      box-shadow: $small_shadow;
     }
   }
 
