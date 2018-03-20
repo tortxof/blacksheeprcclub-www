@@ -9,8 +9,10 @@
   }
 }
 
-#nav {
-  z-index: 100;
+@media (max-width: $bpSmall - 1px) {
+  #nav {
+    z-index: 1;
+  }
 }
 
 #nav > div {
