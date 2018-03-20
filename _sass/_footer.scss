@@ -1,0 +1,14 @@
+footer {
+  padding: 1em;
+  background-color: $cBackground;
+  color: #ccc;
+  a,
+  a:visited {
+    color: #ccc;
+  }
+}
+
+footer > div {
+  max-width: 40rem;
+  margin: 0 auto;
+}

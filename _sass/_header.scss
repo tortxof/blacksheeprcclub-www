@@ -5,9 +5,18 @@ header {
   background-position: 0% 35%;
   height: 128px;
   overflow: hidden;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
   .title {
-    font-size: 3em;
+    font-size: 1.8rem;
     margin: 0.5em;
     color: white;
+  }
+  @media (min-width: $bpSmall) {
+    align-items: center;
+    .title {
+      font-size: 3rem;
+    }
   }
 }

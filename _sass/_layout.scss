@@ -1,3 +1,27 @@
+html {
+  height: 100%;
+}
+
 body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
   margin: 0;
+}
+
+body > .content,
+body > .content-full-width {
+  box-sizing: border-box;
+  flex-grow: 1;
+  padding: 0 1rem;
+  overflow-x: hidden;
+}
+
+body > .content {
+  max-width: 40em;
+  align-self: center;
+}
+
+body.news > .container {
+  flex-grow: 1;
 }

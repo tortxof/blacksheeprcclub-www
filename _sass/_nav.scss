@@ -1,3 +1,14 @@
+@media (min-width: $bpSmall) {
+  #nav {
+    background-color: $cBackground;
+    background-image: linear-gradient(
+      20deg,
+      mix(black, $cBackground, 25%),
+      mix(white, $cBackground, 10%)
+    );
+  }
+}
+
 #nav > div {
   display: flex;
   flex-direction: column;
@@ -32,6 +43,10 @@
 
   @media (min-width: $bpSmall) {
     position: static;
+    display: block;
+    width: $bpSmall;
+    margin: 0 auto;
+    background-color: transparent;
 
     ul {
       display: flex;
@@ -41,13 +56,18 @@
     }
 
     li {
-      background-color: transparent;
       margin: 0 1em;
+      width: auto;
+      background-color: transparent;
     }
 
     a {
-      color: $cText;
+      color: white;
     }
+  }
+
+  @media (min-width: $bpLarge) {
+    width: $bpLarge;
   }
 }
 

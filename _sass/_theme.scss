@@ -2,7 +2,14 @@ $cBackground: #245;
 $cText: #333;
 
 body {
-  background-color: $cBackground;
+  background-color: white;
   color: $cText;
 }
 
+a {
+  color: mix(black, cornflowerblue, 40%);
+}
+
+a:visited {
+  color: mix(black, purple, 40%);
+}
