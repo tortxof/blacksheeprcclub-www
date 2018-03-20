@@ -4,17 +4,6 @@ body_class: news
 ---
 <div class="container">
 
-  <header>
-    <div class="title">{{ site.name }}</div>
-  </header>
-
-  <nav id="nav" role="navigation">
-    <div v-if="!small_screen || visible">
-      {% include nav.html %}
-    </div>
-    <button id="nav-expand" v-if="small_screen" v-on:click="toggle"><i :class="['fa','fa-2x', visible?'fa-times':'fa-bars']"></i></button>
-  </nav>
-
   <div class="feature-photo"></div>
 
   <div class="feature-video"></div>
