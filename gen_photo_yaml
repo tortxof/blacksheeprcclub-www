@@ -1,3 +1,0 @@
-find photos/large/ -type f -printf '%f\n' | sort -r | while read line
-do echo -e "  -  file: ${line}\n"
-done > _data/photos.yml

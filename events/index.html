@@ -1,0 +1,32 @@
+---
+layout: default
+title: Events
+body_class: events
+---
+<h2>Sign up for fly-in announcements.</h2>
+
+{% include event-signup-form.html %}
+
+<h2>Upcoming Events</h2>
+
+<ul>
+  {% for event in site.data.events.future %}
+  <li>
+    {{ event.title }}
+    <br>{{ event.date | date: "%A, %B %e, %Y" }}
+    {% if event.pdf %}<br><a href="{{ event.pdf }}">PDF Flyer</a>{% endif %}
+  </li>
+  {% endfor %}
+</ul>
+
+<h2>Past Events</h2>
+
+<ul>
+  {% for event in site.data.events.past %}
+  <li>
+    {{ event.title }}<br>
+    {{ event.date | date: "%A, %B %e, %Y" }}<br>
+    <a href="{{ event.pdf }}">PDF Flyer</a>
+  </li>
+  {% endfor %}
+</ul>

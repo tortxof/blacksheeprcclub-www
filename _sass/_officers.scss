@@ -1,0 +1,26 @@
+table.officers {
+  td.rank {
+    font-weight: 700;
+  }
+  td {
+    padding: 0.5rem 0.2em;
+  }
+}
+
+@media (max-width: $bpSmall - 1px) {
+  table.officers,
+  table.officers thead,
+  table.officers tbody,
+  table.officers th,
+  table.officers td,
+  table.officers tr {
+    display: block;
+  }
+  table.officers td {
+    margin-left: 2em;
+    padding: 0;
+  }
+  table.officers td.rank {
+    margin-left: 0;
+  }
+}

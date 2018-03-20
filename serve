@@ -1,3 +1,1 @@
-bower install
-rm -r _site
 jekyll serve -D

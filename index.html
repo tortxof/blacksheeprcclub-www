@@ -1,13 +1,12 @@
 ---
-layout: default
+layout: news
 title: News
+body_class: news
 ---
-{% include news-feature.html %}
 {% for post in site.posts limit:10 %}
 <p>
-<span class="post_date">{{ post.date | date: "%Y-%m-%d" }}</span>
- - <a href="{{ post.url }}">{{ post.title }}</a>
+  <span class="post_date">{{ post.date | date: "%Y-%m-%d" }}</span>
+  - <a href="{{ post.url }}">{{ post.title }}</a>
 </p>
 {% endfor %}
-
 <p><a href="/archive">More...</a></p>

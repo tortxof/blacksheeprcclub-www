@@ -1,0 +1,36 @@
+---
+layout: base
+---
+<div class="container">
+
+  <div class="feature-photo">
+    <div class="sixteen-nine"></div>
+    <div class="text"><a href="http://flitetest.com/articles/fx79-let-s-fly" target="_blank">Click here for pics and video of Flite Test at the BSRCC field.</a></div>
+  </div>
+
+  <div class="feature-video">
+    <div class="sixteen-nine"></div>
+    <iframe src="https://www.youtube.com/embed/3F5RbT0IIJk?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </div>
+
+  <div class="announcements">
+    <h2>Announcements</h2>
+    <ul>
+      {% for item in site.data.announcements %}
+      <li>{% if item.link %}<a href="{{ item.link }}">{{ item.text }}</a>{% else %}{{ item.text }}{% endif %}</li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="events">
+    <h2>Events</h2>
+    <ul>
+    {% for event in site.data.events.future %}
+    <li>{{ event.date | date: "%A, %B %e, %Y" }}<br>{{ event.title }}</li>
+    {% endfor %}
+    </ul>
+  </div>
+
+  <div class="content">{{content}}</div>
+
+</div>

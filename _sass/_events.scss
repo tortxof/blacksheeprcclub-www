@@ -1,0 +1,14 @@
+body.events {
+  .input-group {
+    margin: 1rem 0;
+    label {
+      display: block;
+    }
+    input {
+      box-sizing: border-box;
+      width: 100%;
+      font-family: 'Open Sans';
+      font-size: 1rem;
+    }
+  }
+}

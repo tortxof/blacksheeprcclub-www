@@ -4,8 +4,20 @@ title: Videos
 ---
 {% for video in site.data.videos %}
 <div class="video">
-  {% if video.thumb %}<a href="{{ video.url }}" target="_blank"><img src="{{ video.thumb }}" alt="{{ video.title }}" class="video-thumb"></a>{% endif %}
-  <a href="{{ video.url }}" target="_blank">{{ video.title }}</a><br />
-  <span class="video-desc">{{ video.desc }}</span>
+  <div class="video-thumb">
+    {% if video.thumb %}
+    <a href="{{ video.url }}" target="_blank">
+      <img src="{{ video.thumb }}" alt="{{ video.title }}">
+    </a>
+    {% endif %}
+  </div>
+  <div class="video-info">
+    <div class="video-title">
+      <a href="{{ video.url }}" target="_blank">{{ video.title }}</a>
+    </div>
+    <div class="video-desc">
+      {{ video.desc }}
+    </div>
+  </div>
 </div>
 {% endfor %}

@@ -1,4 +1,1 @@
-bower install
-rm -r _site
 jekyll build -D
-autoprefixer-cli _site/css/stylesheet.css

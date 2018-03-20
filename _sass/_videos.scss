@@ -1,0 +1,23 @@
+.video {
+  margin: 2em 0;
+  display: flex;
+}
+
+.video-thumb {
+  margin-right: 1em;
+
+  img {
+    display: block;
+    margin-top: 0.5em;
+    box-shadow: $small_shadow;
+  }
+}
+
+.video-info {
+  flex-grow: 1;
+
+  .video-title a {
+    font-weight: 700;
+    color: $cText;
+  }
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="author" content="Daniel Jones http://djones.co/">
+  <meta name="description" content="{{ site.description }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
+  <link rel="stylesheet" href="/css/main.css">
+  <link href="//fonts.googleapis.com/css?family=Open+Sans|Lora:400,700" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="/feed.xml">
+  <link rel="icon" type="image/png" href="/images/icon.png">
+  <title>{{ site.name }}</title>
+</head>
+<body{% if page.body_class %} class="{{ page.body_class }}"{% endif %}>
+  <div id="small_bp_trigger"></div>
+
+  <header>
+    <div class="title">{{ site.name }}</div>
+  </header>
+
+  <nav id="nav" role="navigation">
+    <div v-if="!small_screen || visible">
+      {% include nav.html %}
+    </div>
+    <button id="nav-expand" v-if="small_screen" v-on:click="toggle"><i :class="['fa','fa-2x', visible?'fa-times':'fa-bars']"></i></button>
+  </nav>
+
+
+  {{ content }}
+
+  <footer>
+    <div>{% include footer.html %}</div>
+  </footer>
+
+  <script src="https://unpkg.com/vue@2.3.4" charset="utf-8"></script>
+  <script src="/js/site.js"></script>
+  {% if page.js %}
+  {% for js_file in page.js %}
+    <script src="{{js_file}}"></script>
+  {% endfor %}
+  {% endif %}
+</body>
+</html>

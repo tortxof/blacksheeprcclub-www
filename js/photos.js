@@ -1,5 +1,3 @@
-var images_div = document.querySelector('.images')
-
 function sort_images(images) {
   return images.map(function(image, i) {return {i: i, v: image.s3_key.split('/')[1]}})
   .sort(function(a, b) {
@@ -14,28 +12,76 @@ function sort_images(images) {
   .map(function(el) {return images[el.i]})
 }
 
-fetch('https://imghost.djones.co/api/c/bsrcc')
+var photosVue = new Vue({
+  el: "#photos",
+  data: {
+    images: null,
+    modalVisible: false,
+    modalIndex: null
+  },
+  created: function() {
+    window.addEventListener('keyup', this.keyHandler)
+  },
+  mounted: function() {
+    var hammer = new Hammer(this.$el)
+    hammer.on('swipeleft', this.nextImage)
+    hammer.on('swiperight', this.prevImage)
+  },
+  beforeDestroy: function() {
+    window.removeEventListener('keyup', this.keyHandler)
+  },
+  methods: {
+    keyHandler: function(e) {
+      if (!this.modalVisible) return
+      if (e.key === 'Escape') this.closeModal()
+      else if (e.key === 'ArrowLeft') this.prevImage()
+      else if (e.key === 'ArrowRight') this.nextImage()
+    },
+    gradientBackground: function(index) {
+      var colors = this.images[index].colors
+      return {backgroundImage: 'linear-gradient(45deg,' + colors.slice(0, 3) + ')'}
+    },
+    preloadImages: function(currentIndex) {
+      for (var i = currentIndex - 1; i < currentIndex + 5; i++) {
+        if (i >= 0 && i < this.images.length) {
+          new Image().src = this.images[i].url
+        }
+      }
+    },
+    showModal: function showModal(index) {
+      this.preloadImages(index)
+      this.modalIndex = index
+      this.modalVisible = true
+    },
+    closeModal: function() {
+      this.modalVisible = false
+      this.modalUrl = null
+    },
+    prevImage: function() {
+      if (this.modalIndex <= 0) {
+        this.modalIndex = this.images.length - 1
+      } else {
+        this.modalIndex--
+      }
+      this.preloadImages(this.modalIndex)
+    },
+    nextImage: function() {
+      if (this.modalIndex >= this.images.length - 1) {
+        this.modalIndex = 0
+      } else {
+        this.modalIndex++
+      }
+      this.preloadImages(this.modalIndex)
+    }
+  }
+})
+
+
+fetch("https://imghost.djones.co/api/c/bsrcc")
 .then(function(response) {
   if (response.status === 200) {
-    response.json().then(function(collection) {
-      sort_images(collection.images).forEach(function(image) {
-        var image_container = document.createElement('div')
-        var image_inner = document.createElement('div')
-        var anchor = document.createElement('a')
-        var img = document.createElement('img')
-        image_inner.style.backgroundImage = 'linear-gradient(45deg,' + image.colors.slice(0, 3) + ')'
-        image_inner.style.width = image.thumbs['128'].size.width + 'px'
-        image_inner.style.height = image.thumbs['128'].size.height + 'px'
-        image_inner.classList.add('image')
-        image_container.classList.add('thumbnail')
-        anchor.href = image.url
-        anchor.appendChild(img)
-        image_inner.appendChild(anchor)
-        image_container.appendChild(image_inner)
-        images_div.appendChild(image_container)
-        img.src = image.thumbs['128'].url
-      })
-      $('.image>a').colorbox({rel: 'all', maxWidth: '100%', maxHeight: '100%'});
+    response.json().then(function(resData) {
+      photosVue.images = sort_images(resData.images)
     })
   }
 })
