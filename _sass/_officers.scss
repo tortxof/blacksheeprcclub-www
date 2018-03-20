@@ -1,5 +1,10 @@
-table.officers td {
-  padding: 0 1em;
+table.officers {
+  td.rank {
+    font-weight: 700;
+  }
+  td {
+    padding: 0.5rem 0.2em;
+  }
 }
 
 @media (max-width: $bpSmall - 1px) {
