@@ -25,6 +25,7 @@ body > .content {
 
 body.news > .container {
   flex-grow: 1;
+  width: 100%;
   max-width: $bpMedium;
   margin: 0 auto;
 }
