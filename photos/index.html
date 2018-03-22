@@ -19,8 +19,8 @@ js:
     >
   </div>
   <div class="modal" v-if="modalVisible" :style="{backgroundImage: 'url(' + images[modalIndex].url + ')'}">
-    <button class="modal-close" @click="closeModal">&times;</button>
     <button class="modal-left" @click="prevImage">&lsaquo;</button>
+    <button class="modal-close" @click="closeModal">&times;</button>
     <button class="modal-right" @click="nextImage">&rsaquo;</button>
   </div>
 </div>
