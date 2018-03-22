@@ -11,6 +11,11 @@
 
 @media (max-width: $bpSmall - 1px) {
   #nav {
+    z-index: 2;
+    position: relative;
+  }
+  #nav > div {
+    position: fixed;
     z-index: 1;
   }
 }
@@ -20,7 +25,6 @@
   flex-direction: column;
   justify-content: center;
   align-items: flex-end;
-  position: fixed;
   top: 0;
   bottom: 0;
   right: 0;
@@ -79,6 +83,7 @@
 
 #nav-expand {
   position: fixed;
+  z-index: 1;
   right: 0;
   top: 0;
   border: 0;
