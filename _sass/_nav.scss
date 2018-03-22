@@ -17,6 +17,9 @@
   #nav > div {
     position: fixed;
     z-index: 1;
+    ul {
+      overflow-y: scroll;
+    }
   }
 }
 
@@ -35,7 +38,6 @@
     padding: 0;
     margin: 0;
     list-style-type: none;
-    overflow-y: scroll;
   }
 
   li {
