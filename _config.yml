@@ -3,20 +3,8 @@ description: Official website of the Black Sheep RC Club, located in Pendleton, 
 url: http://www.bsrcc.com
 permalink: /news/:year/:month/:day/:title/
 exclude:
+- Gemfile
+- Gemfile.lock
 - README.md
-- bower.json
-- bower_components
-- build
-- upload
-- serve
-- deploy.yaml
-- gen_photo_small
-- gen_photo_yaml
 - assets
 - htmltopdf
-- Procfile
-- rmfm
-- old
-- node_modules
-- package.json
-- yarn.lock
