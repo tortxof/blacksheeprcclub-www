@@ -2,3 +2,6 @@
 .sass-cache
 bower_components
 node_modules
+htmltopdf/tmp.html
+htmltopdf/css
+Gemfile.lock
