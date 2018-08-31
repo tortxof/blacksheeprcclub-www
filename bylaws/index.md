@@ -98,7 +98,7 @@ payment of all club dues, and who is also not under disciplinary action for
 violation of any club rule (see Article IX for Club Rules).
 
 _AMA_ shall mean the Academy of Model Aeronautics, 5161 E. Memorial Dr., Muncie,
-IN 47302, Tel. 800-435-9262, <http://www.modelaircraft.org>.
+IN 47302, Tel. 800-435-9262, <https://www.modelaircraft.org>.
 
 _AMA Chartered Club_ in this instance shall refer to the fact that BSRCC is an
 AMA Chartered Club. Therefore, current and valid AMA membership is required in

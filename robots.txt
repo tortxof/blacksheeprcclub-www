@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://www.bsrcc.com/sitemap.xml
+Sitemap: https://www.bsrcc.com/sitemap.xml

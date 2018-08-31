@@ -4,11 +4,11 @@ title: Links
 ---
 ## RC Modeling Organizations
 
-[Academy of Model Aeronautics](http://www.modelaircraft.org/)
+[Academy of Model Aeronautics](https://www.modelaircraft.org/)
 
 ## Member Websites
 
-[Jupiter Space Station - RC Modeling](http://www.jupiterspacestation.org/rcmodeling/)  
+[Jupiter Space Station - RC Modeling](https://www.jupiterspacestation.org/rcmodeling/)  
 John D Bernard and Ronald Douglas 'Doug' Starwalt's RC modeling site.
 
 ## Local Clubs
@@ -19,7 +19,7 @@ John D Bernard and Ronald Douglas 'Doug' Starwalt's RC modeling site.
 
 [Tri-County R/C Flyers](http://www.tri-countyrc.org/)
 
-[Raptors RC Club](http://bigjim5050.wix.com/raptors-rc)
+[Raptors RC Club](https://bigjim5050.wix.com/raptors-rc)
 
 ## Local Hobby Shops
 
@@ -27,7 +27,7 @@ John D Bernard and Ronald Douglas 'Doug' Starwalt's RC modeling site.
 
 ## Other
 
-[Drone Buying Guide from Best Buy](http://www.bestbuy.com/site/buying-guides/drones-buying-guide/pcmcat381100050003.c?id=pcmcat381100050003)
+[Drone Buying Guide from Best Buy](https://www.bestbuy.com/site/buying-guides/drones-buying-guide/pcmcat381100050003.c?id=pcmcat381100050003)
 
 {:.small}
 The links on this page are provided solely as a courtesy to web users seeking
