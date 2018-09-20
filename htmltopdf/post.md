@@ -1,1 +1,1 @@
-../_posts/2018-08-31-august-newsletter.md
+../_posts/2018-09-20-september-newsletter.md
