@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Wilkinson Plane Photos</title>
+  </head>
+  <body>
+    <style>
+      body {
+        margin: 0;
+        background-color: #444;
+      }
+      .photos {
+        width: 100%;
+        max-width: 800px;
+        margin: 4em auto;
+        background-color: #fff;
+      }
+      .photo {
+        box-shadow: 0 0 30px black;
+      }
+      .photo img {
+        display: block;
+      }
+      .photo .description {
+        overflow: hidden;
+        text-align: center;
+        font-size: 2em;
+        font-weight: bold;
+      }
+      .photo .description p {
+        margin: 0.5em 0;
+      }
+    </style>
+    <div id="app">
+      <div class="photos" v-for="photo in photos">
+        <div class="photo">
+          <a
+            v-bind:href="`https://res.cloudinary.com/dvzeo6u0a/image/upload/c_scale,e_auto_brightness,q_auto:eco,w_1920/v1542569985/bsrcc-wilkinson/${photo[1]}`"
+          >
+            <img
+              v-bind:src="`https://res.cloudinary.com/dvzeo6u0a/image/upload/c_scale,e_auto_brightness,q_auto:eco,w_800/v1542569985/bsrcc-wilkinson/${photo[1]}`"
+              v-bind:alt="photo[0]"
+            />
+          </a>
+          <div class="description">
+            <p>{{ photo[0] }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="https://unpkg.com/vue@2.5.17/dist/vue.js"></script>
+    <script>
+      var app = new Vue({
+        el: '#app',
+        data: {
+          photos: [
+            'DSCN0967.JPG',
+            'DSCN0968.JPG',
+            'DSCN0969.JPG',
+            'DSCN0970.JPG',
+            'DSCN0971.JPG',
+            'DSCN0972.JPG',
+            'DSCN0974.JPG',
+            'DSCN0975.JPG',
+            'DSCN0976.JPG'
+          ].map(function(filename, i) {
+            return [i + 1, filename];
+          })
+        }
+      });
+    </script>
+  </body>
+</html>
