@@ -9,9 +9,8 @@ Minutes accepted as read.
 
 Treasurer's report accepted as read.
 
-The club Christmas party will be held at [Fatz in
-Easley](https://goo.gl/maps/q6xZ7a8ugaM2). The tentative date for the party is
-Tuesday, December 4. An email will be sent out once plans are finalized.
+The club Christmas party will be held at [Silver Bay
+Seafood](https://goo.gl/maps/BmGPNemMEwN2) on December 4 at 6:00 PM.
 
 The following are the elected club officers for 2019.
 
