@@ -1,1 +1,1 @@
-../_posts/2019-10-28-october-newsletter.md
+../_posts/2019-11-19-november-newsletter.md
