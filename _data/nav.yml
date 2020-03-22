@@ -2,6 +2,8 @@
   text: News
 - href: "/about/"
   text: About
+- href: "/member-info/"
+  text: "Important Member Info"
 - href: "/photos/"
   text: Photos
 - href: "/videos/"
