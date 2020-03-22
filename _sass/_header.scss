@@ -8,6 +8,9 @@ header {
   display: flex;
   justify-content: flex-start;
   align-items: flex-end;
+  a {
+    text-decoration: none;
+  }
   .title {
     font-size: 1.8rem;
     margin: 0.5em;
