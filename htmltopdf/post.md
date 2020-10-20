@@ -1,1 +1,1 @@
-../_posts/2020-06-30-june-newsletter.md
+../_posts/2020-10-20-october-newsletter.md
