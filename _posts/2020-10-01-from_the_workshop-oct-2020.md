@@ -151,7 +151,7 @@ the woods), please do not interfere with any "trail cams", "deer stands",
 ## Important Reminders
 
 1.  If you are a new BSRCC member, please familiarize yourself with the
-following documents found on our website at <www.bsrcc.com>:
+    following documents found on our website at <www.bsrcc.com>:
 
     - "Club Bylaws"
     - "Noise, Overflight, and Flying site map"
@@ -162,16 +162,17 @@ following documents found on our website at <www.bsrcc.com>:
 3.  Please check the status of your AMA membership and renew it if needed.
 
 4.  Please check the status of your BSRCC membership and renew it if needed
-(i.e., 2020 membership dues may be mailed to Nelson Swords, 228 Ellison Lake
-Road, Williamston, SC 29697, Tel=864-940-5817, Email=nelsonaswords@gmail.com).
+    (i.e., 2020 membership dues may be mailed to Nelson Swords, 228 Ellison Lake
+    Road, Williamston, SC 29697, Tel=864-940-5817,
+    Email=<nelsonaswords@gmail.com>).
 
 5.  Broken Prop Blades, Trash, Etc - in the interest of both safety and
-neatness, please help pick up broken prop blades and other debris when you see
-it at the field.
+    neatness, please help pick up broken prop blades and other debris when you
+    see it at the field.
 
 6.  Tree Climber - this person is generally available to climb trees for you to
-retrieve downed airplanes (i.e., Mr. Murray Holloway, tel= 864-671-9781).  His
-fee is "negotiable".
+    retrieve downed airplanes (i.e., Mr. Murray Holloway, tel= 864-671-9781).
+    His fee is "negotiable".
 
 
 ## Humor Is The Best Medicine
