@@ -98,7 +98,7 @@ almost as many mowers as we have airplanes)!
 This humorous "Pitts Description" (author unknown) was found online, and I
 thought you might enjoy it as well.
 
-> "The Pitts biplane can best be described as an infinite collection of oddly
+> The Pitts biplane can best be described as an infinite collection of oddly
 > shaped curves which approximate an airplane, having wings and fuselage of
 > extremely small aspect ratios thus giving rise to its maximal drag and minimal
 > aerodynamic efficiency characteristics. This airplane is also noted for having
@@ -116,7 +116,7 @@ thought you might enjoy it as well.
 > above, the Pitts biplane is a treasured airplane to own as it imbues the title
 > holder with almost unlimited bragging rights concerning any and all
 > engineering, mechanical, aerodynamic, aerobatic, & airmanship matters! And
-> that, my friends, in a nutshell, is why I own a Pitts!"
+> that, my friends, in a nutshell, is why I own a Pitts!
 
 ## Important Reminders
 
