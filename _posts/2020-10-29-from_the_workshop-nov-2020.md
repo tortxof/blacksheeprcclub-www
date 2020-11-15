@@ -89,9 +89,9 @@ requests.
 1.  If you are a new BSRCC member, please familiarize yourself with the
     following documents found on our website at www.bsrcc.com:
 
-    "Club Bylaws"
-    "Noise, Overflight, and Flying site map"
-    "No Flying Over Pits and Parking Lot"
+    [Club Bylaws](/bylaws/)  
+    [Noise, Overflight, and Flying site map](https://s3.amazonaws.com/djones-assets/bsrcc-noise-overflight-memo-2017-01-12.pdf)  
+    [No Flying Over Pits and Parking Lot](/no-flying-over-pits/)
 
 2.  Please check the status of your FAA registration and renew it if needed.
 
@@ -112,8 +112,9 @@ requests.
 
 ## Indoor Flying
 
-Somebody recently sent this to me about "indoor flying"......thought you might
-enjoy it too! <https://www.youtube.com/watch?v=VRer5GdGneo>
+Somebody recently sent this to me about "indoor flying"... thought you might
+enjoy it too!  
+<https://www.youtube.com/watch?v=VRer5GdGneo>
 
 ## Moonrise Over Australia
 
