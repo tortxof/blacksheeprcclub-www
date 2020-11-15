@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From The Workshop (Nov. 2020)
+title: From The Workshop (Dec. 2020)
 ---
 ## Summary of Mar - Nov Club Meetings
 
