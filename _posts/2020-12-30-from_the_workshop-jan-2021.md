@@ -100,9 +100,9 @@ The second link gets you to a video entitled "Air Tractor - Fire Boss In Action"
 which shows the the Air Tractor 802 configured as a fire fighter (and beautiful
 background scenery). Enjoy!
 
-https://www.youtube.com/watch?v=uNjNGkPo9B4
+<https://www.youtube.com/watch?v=uNjNGkPo9B4>
 
-https://www.youtube.com/watch?v=uhF5_suNXv8
+<https://www.youtube.com/watch?v=uhF5_suNXv8>
 
 That's all I have for now. See you @ the flying field!
 
