@@ -11,5 +11,5 @@ Treasurer's report accepted as read.
 
 Nelson will schedule 10 tons of gravel to be delivered.
 
-A motion was made and passed to update the club by-laws. The ammendment will be
+A motion was made and passed to update the club by-laws. The amendment will be
 voted on at the next meeting.
