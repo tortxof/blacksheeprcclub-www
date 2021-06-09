@@ -342,10 +342,19 @@ provided for the general benefit of all members, and are as follows:
 - A member may fly only if: (a) they possess a current and valid AMA card; and
   (b) they are a BSRCC member in good standing (i.e., not delinquent or under
   disciplinary action).
-- A guest or a perspective member may fly only if: (a) they possess a current
+- A guest or a prospective member may fly only if: (a) they possess a current
   and valid AMA card; and (b) they are accompanied by a BSRCC member in good
-  standing. The host member is responsible for the guest's flying actions while
-  at the club. A nonmember may fly as a guest no more than three times per year.
+  standing. The host BSRCC member is responsible for the guest's flying and
+  nonflying actions while at the club. A host BSRCC member may have a maximum of
+  twelve guest visits during any one calendar year, with no more than three
+  guests being in attendance on any one calendar day.
+- Both fixed wing aircraft and rotor wing aircraft are welcome at BSRCC. All
+  flyers at the BSRCC site are expected to always display courtesy and
+  cooperation with their fellow club members and visitors, and to "share the
+  flying time equally" amongst all those present at any given time. For those
+  flyers who might need extended hovering and/or engine tuning times, please use
+  the quadrant of the field located to the south and west of the southernmost
+  metal sun shed so as to free up the main runway.
 - Before attempting to fly solo, new pilot members (i.e., "students") are
   invited and encouraged to seek flying assistance from the more experienced
   club members (i.e., "instructors") until they reach the point where they can
