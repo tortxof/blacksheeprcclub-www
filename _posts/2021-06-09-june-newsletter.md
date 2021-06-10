@@ -11,3 +11,7 @@ Treasurer's report accepted as read.
 
 A motion was made to adopt the proposed changes to the club bylaws. The motion
 passed.
+
+## Announcements
+
+There will be no club meeting in July. The next meeting will be on August 3.
