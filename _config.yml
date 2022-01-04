@@ -8,3 +8,5 @@ exclude:
 - README.md
 - assets
 - htmltopdf
+- devserver.sh
+- netlify.toml
