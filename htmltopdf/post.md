@@ -1,1 +1,1 @@
-../_posts/2022-03-02-march-newsletter.md
+../_posts/2022-09-30-september-newsletter.md
