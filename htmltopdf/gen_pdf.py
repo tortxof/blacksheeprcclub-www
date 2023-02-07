@@ -41,18 +41,18 @@ if __name__ == '__main__':
     next_meeting_str = next_meeting.strftime('%B ') + str(next_meeting.day)
     with open(post_file) as f:
         post_md = rmfm(f.read()).encode()
-    post_html = subprocess.check_output(['docker', 'run', '-i', '--rm', 'tortxof/webdev', 'kramdown'], input=post_md).decode()
-    template_html = subprocess.check_output(['docker', 'run', '--rm',
-        '-v', '{}:/host'.format(os.getcwd()), '-u', '{}:{}'.format(str(os.getuid()), str(os.getgid())),
+    post_html = subprocess.check_output(['podman', 'run', '-i', '--rm', 'tortxof/webdev', 'kramdown'], input=post_md).decode()
+    template_html = subprocess.check_output(['podman', 'run', '--rm',
+        '-v', '{}:/host'.format(os.getcwd()),
         'tortxof/webdev', 'mustache', 'officers.yaml', 'template.mustache']).decode()
     out_html = template_html.format(content=post_html, date=meeting_date_str, next_meeting=next_meeting_str)
     with open('tmp.html', 'w') as f:
         f.write(out_html)
-    subprocess.check_output(['docker', 'run', '--rm',
-        '-v', '{}:/host'.format(os.getcwd()), '-u', '{}:{}'.format(str(os.getuid()), str(os.getgid())),
+    subprocess.check_output(['podman', 'run', '--rm',
+        '-v', '{}:/host'.format(os.getcwd()),
         'tortxof/webdev', 'compass', 'compile', '--force'])
-    subprocess.check_output(['docker', 'run', '--rm',
-        '-v', '{}:/host'.format(os.getcwd()), '-u', '{}:{}'.format(str(os.getuid()), str(os.getgid())),
+    subprocess.check_output(['podman', 'run', '--rm',
+        '-v', '{}:/host'.format(os.getcwd()),
         'tortxof/wkhtmltopdf', 'wkhtmltopdf',
         '-s', 'Letter', '--print-media-type',
         '-B', '0.5in', '-L', '0.5in', '-R', '0.5in', '-T', '0.5in',
