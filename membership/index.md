@@ -6,11 +6,13 @@ The club membership application is available for download below. You may also
 pick one up at our club location.
 
 Please mail the application, dues, and copy of current AMA card to the club
-treasurer at:
+president at:
 
-Nelson Swords  
-228 Ellison Lake Rd  
-Williamston, SC 29697
+Dennis Beard  
+252 Hallmark Cir.  
+Easley, SC 29640
+
+Phone: 864-238-7256
 
 Before flying at BSRCC, please review this information.
 

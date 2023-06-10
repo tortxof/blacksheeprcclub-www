@@ -7,10 +7,10 @@ officers:
     name: J.B. Dansby
     phone: 864-207-6663
     email: jbdansby@gmail.com
-  - rank: Treasurer
-    name: Nelson Swords
-    phone: 864-940-5817
-    email: nelsonaswords@gmail.com
+  # - rank: Treasurer
+  #   name: Nelson Swords
+  #   phone: 864-940-5817
+  #   email: nelsonaswords@gmail.com
   - rank: Secretary
     name: Daniel Jones
     phone: 864-431-7998
