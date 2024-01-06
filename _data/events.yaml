@@ -1,13 +1,13 @@
+future:
+  - title: Club Workday
+    date: 2024-03-23
 past:
-  -
-    title: Electric Fly-in September 2016
+  - title: Electric Fly-in September 2016
     date: 2016-09-24
-    pdf: '/events/bsrcc-electric-fly-in-2016-08.pdf'
-  -
-    title: Electric Fly-in May 2016
+    pdf: "/events/bsrcc-electric-fly-in-2016-08.pdf"
+  - title: Electric Fly-in May 2016
     date: 2016-05-28
-    pdf: '/events/bsrcc-electric-fly-in-2016.pdf'
-  -
-    title: Electric Fly-in May 2015
+    pdf: "/events/bsrcc-electric-fly-in-2016.pdf"
+  - title: Electric Fly-in May 2015
     date: 2015-05-02
     pdf: /events/bsrcc-electric-fly-in-2015.pdf
