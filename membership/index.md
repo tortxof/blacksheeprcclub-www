@@ -9,7 +9,7 @@ Please mail the application, dues, and copy of current AMA card to the club
 president at:
 
 Dennis Beard  
-252 Hallmark Cir.  
+242 Hallmark Cir.  
 Easley, SC 29640
 
 Phone: 864-238-7256
