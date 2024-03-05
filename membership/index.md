@@ -8,11 +8,11 @@ pick one up at our club location.
 Please mail the application, dues, and copy of current AMA card to the club
 treasurer at:
 
-Wayne Ellison  
-1175 Shackleburg Road  
-Anderson, SC 29621
+Dennis Beard  
+242 Hallmark Cir.  
+Easley, SC 29640
 
-Phone: 864-304-7876
+Phone: 864-238-7256
 
 Before flying at BSRCC, please review this information.
 
