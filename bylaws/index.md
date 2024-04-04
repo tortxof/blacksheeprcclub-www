@@ -260,8 +260,8 @@ year by a majority vote of the membership).
 
 ## ARTICLE VI --- CLUB MEETINGS {#vi}
 
-Regular BSRCC Club Meetings shall be held on the first Tuesday of every month at
-6:30 PM, and at a location which is stated in the prior month's newsletter
+Regular BSRCC Club Meetings shall be held on the first Saturday of every month
+at 1:00 PM, and at a location which is stated in the prior month's newsletter
 and/or on the club's web site at <https://www.bsrcc.com>. Meetings are typically
 held at the flying field club house. Additionally, Special Called Meetings may
 be organized by the club President, if and when necessary, with adequate prior

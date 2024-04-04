@@ -11,7 +11,7 @@ When creating the post, add `newsletter` frontmatter with the year and month
 
 Once the post is complete, update the `htmltopdf/post.md` symlink in to point to
 the new post. Then update `htmltopdf/config.json` with the meeting date and next
-meeting date if it's not the first Tuesday.
+meeting date if it's not the first Saturday.
 
 The `gen_pdf.py` script uses two docker images: `tortxof/webdev` and `tortxof/wkhtmltopdf`.
 Make sure those are built/pulled before running `gen_pdf.py`.
