@@ -1,9 +1,7 @@
--
-  text: 'New members, please review this important information before flying.'
-  link: '/member-info/'
--
-  text: 'Need help getting a plane down from a tree?'
-  link: '/tree-climber/'
--
-  text: 'Only 2.4GHz transmitters are allowed at BSRCC.'
-  link: '/2.4ghz'
+- text: "Club meetings are now held on the first Saturday of each month at 1 PM. Meet us at the field at noon for lunch before the meeting."
+- text: "New members, please review this important information before flying."
+  link: "/member-info/"
+- text: "Need help getting a plane down from a tree?"
+  link: "/tree-climber/"
+- text: "Only 2.4GHz transmitters are allowed at BSRCC."
+  link: "/2.4ghz"
