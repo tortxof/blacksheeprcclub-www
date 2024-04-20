@@ -6,11 +6,6 @@ title: Links
 
 [Academy of Model Aeronautics](https://www.modelaircraft.org/)
 
-## Member Websites
-
-[Jupiter Space Station - RC Modeling](https://www.jupiterspacestation.org/rcmodeling/)  
-John D Bernard and Ronald Douglas 'Doug' Starwalt's RC modeling site.
-
 ## Local Clubs
 
 [Firetower Flyers RC Club](http://www.firetowerflyers.com/)
