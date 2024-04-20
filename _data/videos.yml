@@ -1,40 +1,16 @@
--
-  url: "https://vimeo.com/194904911"
-  thumb: "https://i.vimeocdn.com/video/607110079_100x75.jpg"
-  title: "Ozzie and Bob Huff Vintage Ohio Model Products OMP 540"
-  desc: "Video from the Black Sheep Field"
--
-  url: "https://vimeo.com/195055721"
-  thumb: "https://i.vimeocdn.com/video/607250303_100x75.jpg"
-  title: "Dolphin Jet 65mm EDF - Blow the Man Down"
-  desc: "Video from the Black Sheep Field by the Space Station Boys"
--
-  url: "https://vimeo.com/195174052"
-  thumb: "https://i.vimeocdn.com/video/607329674_100x75.jpg"
-  title: "Starwalt Winner in 3DR Experimental Drone Build-Off"
-  desc: "Video by Black Sheep member, Doug Starwalt"
--
-  url: "https://vimeo.com/194884919"
-  thumb: "https://i.vimeocdn.com/video/607289972_100x75.jpg"
-  title: "Doug Starwalt testing a Canard on his Venus Trainer"
-  desc: "Video from the Black Sheep Field by the Space Station Boys"
--
-  url: "https://youtu.be/3F5RbT0IIJk"
+- url: "https://youtu.be/3F5RbT0IIJk"
   thumb: "https://i.ytimg.com/vi/3F5RbT0IIJk/default.jpg"
   title: "BSRCC Electric Fly-In 2016"
   desc: "Video of the May 2016 Electric Fly-In by Harry Capps."
--
-  url: "https://youtu.be/C2DldMJGbZY"
+- url: "https://youtu.be/C2DldMJGbZY"
   thumb: "https://i.ytimg.com/vi/C2DldMJGbZY/default.jpg"
   title: "Flite Test - FX-79 Buffalo - Let's Fly"
   desc: "The guys from Flite Test stop by and do some FPV flying. Beautiful views of our field."
--
-  url: "https://vimeo.com/43912449"
+- url: "https://vimeo.com/43912449"
   thumb: "https://i.vimeocdn.com/video/304847853_100x75.jpg"
   title: "Black Sheep RC Club Electric Fly-In 2012"
   desc: "FPV video from our electric fly-in in 2012."
--
-  url: "https://youtu.be/Vx86_LN1T4s"
+- url: "https://youtu.be/Vx86_LN1T4s"
   thumb: "https://i.ytimg.com/vi/Vx86_LN1T4s/default.jpg"
   title: "Quadcopter FPV Flight"
   desc: "Wintertime FPV flight with no one else at the field."
