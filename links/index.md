@@ -17,8 +17,6 @@ John D Bernard and Ronald Douglas 'Doug' Starwalt's RC modeling site.
 
 [Blue Ridge Radio Control](http://www.blueridgerc.com/)
 
-[Tri-County R/C Flyers](http://www.tri-countyrc.org/)
-
 [Raptors RC Club](https://bigjim5050.wix.com/raptors-rc)
 
 ## Local Hobby Shops
