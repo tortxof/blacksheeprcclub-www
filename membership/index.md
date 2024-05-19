@@ -8,11 +8,11 @@ pick one up at our club location.
 Please mail the application, dues, and copy of current AMA card to the club
 treasurer at:
 
-Dennis Beard  
-242 Hallmark Cir.  
-Easley, SC 29640
+Dallen Veazey  
+107 Dana Lynn Lane  
+Pendleton, SC 29670
 
-Phone: 864-238-7256
+Phone: 954-342-1953
 
 Before flying at BSRCC, please review this information.
 
