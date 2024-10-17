@@ -12,10 +12,10 @@ Treasurer's report accepted as read.
 
 King Asphalt still pending.
 
-Need to try water pump for bathrooms. Donated pump didn't work.
+Need to try a different water pump for bathrooms. Donated pump didn't work.
 
-Skip July meeting.
+We will skip the July meeting.
 
 Dennis and Morgan are working on replacing the windsock.
 
-Brad dug out ditch around clubhouse and leveled out driveway.
+Brad dug out the ditch around the clubhouse and leveled out the driveway.

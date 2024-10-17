@@ -1,1 +1,1 @@
-../_posts/2024-05-19-may-newsletter.md
+../_posts/2024-06-30-june-newsletter.md
