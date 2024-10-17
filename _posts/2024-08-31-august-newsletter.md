@@ -10,8 +10,9 @@ Minutes accepted as read.
 
 Treasurer's report accepted as read.
 
-Sept. meeting on normal date.
+September meeting will be held on the normal date.
 
 Dennis will talk to Davenport family about future of the club site.
 
-Clug fly-in in October after Joe Nall. Club members and family. Food would be provided out of the food fund. BBQ from 3 pigs/ pickup backed beans/ slaw Oct 26.
+A club fly-in will be held on October 26, after Joe Nall. This will be a free
+event for club members and family. Food will be provided out of the food fund.
