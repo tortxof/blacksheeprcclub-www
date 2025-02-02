@@ -1,1 +1,1 @@
-../_posts/2024-10-17-october-newsletter.md
+../_posts/2024-11-30-november-newsletter.md
