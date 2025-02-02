@@ -1,1 +1,1 @@
-../_posts/2025-01-31-january-newsletter.md
+../_posts/2025-02-02-february-newsletter.md
