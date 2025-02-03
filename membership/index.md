@@ -12,7 +12,7 @@ Dallen Veazey
 107 Dana Lynn Lane  
 Pendleton, SC 29670
 
-Phone: 954-342-1953
+Phone: 954-822-3285
 
 Before flying at BSRCC, please review this information.
 
