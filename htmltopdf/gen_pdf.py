@@ -28,7 +28,7 @@ if __name__ == "__main__":
 
     meeting_date = datetime.datetime.strptime(config["meeting_date"], "%Y-%m-%d").date()
 
-    if config["next_meeting"] == "":
+    if not config["next_meeting"]:
         next_meeting = meeting_date + one_day
         while next_meeting.month == meeting_date.month:
             next_meeting = next_meeting + one_day
