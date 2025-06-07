@@ -6,6 +6,8 @@ import os
 import subprocess
 import sys
 
+MEETING_WEEKDAY = 5
+
 
 def rmfm(input_str):
     sections = input_str.split("---\n", maxsplit=2)
@@ -32,7 +34,7 @@ if __name__ == "__main__":
         next_meeting = meeting_date + one_day
         while next_meeting.month == meeting_date.month:
             next_meeting = next_meeting + one_day
-        while next_meeting.weekday() != 5:
+        while next_meeting.weekday() != MEETING_WEEKDAY:
             next_meeting = next_meeting + one_day
     else:
         next_meeting = datetime.datetime.strptime(
